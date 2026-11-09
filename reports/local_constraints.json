@@ -1,0 +1,42 @@
+{
+  "allowances": [
+    {
+      "year": 2029,
+      "annual_margin_mg": 500.0,
+      "peak_margin_mgd": 1.7899999999999991,
+      "annual_only_additional_mgd": 1.36986301369863,
+      "joint_additional_mgd_low_peak": 0.8248847926267278,
+      "joint_additional_mgd_high_peak": 0.7489539748953971
+    },
+    {
+      "year": 2034,
+      "annual_margin_mg": -90.0,
+      "peak_margin_mgd": -1.0300000000000011,
+      "annual_only_additional_mgd": 0,
+      "joint_additional_mgd_low_peak": 0,
+      "joint_additional_mgd_high_peak": 0
+    }
+  ],
+  "historical_peak_bounds": [
+    2.17,
+    2.39
+  ],
+  "scenarios": 42,
+  "scenario_status": "Conditional stress tests added to municipal plan, not predictions of Google expansion.",
+  "baseline_year": 2024,
+  "horizons": [
+    2029,
+    2034
+  ],
+  "limitations": [
+    "13.87 MGD includes proposed Riverside wells; not verified as-built capacity today.",
+    "Maximum-day treatment calculation does not itself ensure seasonal source water availability.",
+    "Historical system peak ratios are sensitivity bounds, not calibrated data-center cooling ratios.",
+    "20% reduction is an illustrative intervention requirement, not measured technology performance or equivalent-compute proof.",
+    "Plan baseline already includes growth. Added loads are incremental beyond that plan and not assigned to Google.",
+    "Annual totals are rounded and based on water-year planning; 365 is a planning conversion, not exact calendar-year metering.",
+    "2034 climate case adopts the plan sensitivity, not a new downscaled climate model.",
+    "Only necessary aggregate water conditions are screened; distribution hydraulics, power, permits and environmental flow remain additional constraints.",
+    "A failed aggregate screen warrants further engineering or mitigation; a pass is not permission to connect."
+  ]
+}

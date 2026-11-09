@@ -1,0 +1,4 @@
+year,city_total_gallons,google_city_reported_gallons,withdrawal_mgal,city_google_mgal,operator_minus_city_mgal,difference_pct_of_city,boundary_status,eligible_as_facility_validation_target
+2022,1187293000,352949820,352.2,352.94982,-0.7498199999999997,-0.21244379725140525,unreconciled_candidate_comparison,False
+2023,1238560470,383948170,383.7,383.94817,-0.248170000000016,-0.06463632838776547,unreconciled_candidate_comparison,False
+2024,1335854130,434428540,461.1,434.42854,26.671460000000025,6.139435498413623,unreconciled_candidate_comparison,False

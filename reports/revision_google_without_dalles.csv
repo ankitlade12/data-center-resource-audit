@@ -1,0 +1,3 @@
+operator,target,method,baseline,delta_mae,states,low,high
+Google,consumption_m3,nonnegative_linear_trend,persistence,-47861.80024394993,12,-153594.05732265615,25832.47807284381
+Google,consumption_m3,other_state_median_growth,persistence,-39669.512392936085,12,-93705.59034593488,23210.837751991905

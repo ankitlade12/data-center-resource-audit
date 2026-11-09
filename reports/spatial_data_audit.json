@@ -1,0 +1,16 @@
+{
+  "counties": 7,
+  "monthly_climate_rows": 756,
+  "quarterly_climate_rows": 252,
+  "pue_climate_rows": 180,
+  "pue_campus_labels": 8,
+  "pue_rows_without_county_mapping": 324,
+  "pue_rows_outside_climate_window": 16,
+  "limitations": [
+    "County climate is regional context, not facility weather.",
+    "Representative points are not facility locations or water-source locations.",
+    "Precipitation is not water availability, withdrawals or supply headroom.",
+    "Water disclosure locations have not been merged to individual PUE campuses.",
+    "Boundary/time coverage and operator disclosure selection constrain transfer."
+  ]
+}

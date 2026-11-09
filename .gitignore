@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/*
+!data/raw/*manifest.json
+data/processed/*.txt
+reports/tables/
+reports/figures/
+*.log
+reports/*.pdf
+reports/*.png

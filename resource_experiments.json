@@ -1,0 +1,12 @@
+{
+  "status": "exploratory specification written before resource-target evaluation",
+  "targets": ["Meta electricity_mwh", "Meta withdrawal_m3", "Google consumption_m3"],
+  "target_years": {"Meta": [2023, 2024], "Google": [2024, 2025]},
+  "methods": ["persistence", "nonnegative_linear_trend", "other_state_median_growth"],
+  "growth_training": "Prior observed one-year ratios only; exclude every site in target state; prior value must be positive. No target-year outcomes.",
+  "task": "Existing-location annual demand, with regional transfer of a growth parameter. Target-site lag is available. This is not new-site or cold-start forecasting.",
+  "minimum_prior_years": 2,
+  "uncertainty": "2000 paired state-cluster bootstrap draws; seed 20261010; exploratory intervals, not calibrated forecast intervals.",
+  "availability": "Current report snapshots, not historical publication vintages. Prior-year disclosure assumed available; operational publication lag is not reconstructed.",
+  "independence": "Observed operator disclosures, not labels generated from PUE/WUE. Not independent meter or utility validation."
+}

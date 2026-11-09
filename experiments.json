@@ -1,0 +1,18 @@
+{
+  "status": "exploratory_protocol_recorded_before_running_geo_climate_comparison",
+  "note": "The original 2025 baseline results were already seen. This is not preregistration or an untouched final test.",
+  "target": "operator-reported quarterly PUE; not electricity, water or resource stress",
+  "temporal_target_years": [2021, 2022, 2023, 2024, 2025],
+  "spatial_target_years": [2024, 2025],
+  "ridge_penalty": 1.0,
+  "climate_normal_lookback_years": 3,
+  "models": {
+    "seasonal_trend_ridge": ["year", "quarter_2", "quarter_3", "quarter_4"],
+    "geo_climate_ridge": ["year", "quarter_2", "quarter_3", "quarter_4", "county_latitude", "county_longitude", "prior_temperature_c", "prior_precipitation_mm"]
+  },
+  "test_weather": "Only county climate from years before the target year is used, never realized target-year weather.",
+  "availability_assumption": "Historical hindcast assumes preceding-year PUE is available at the nominal origin. Actual publication timestamps and reporting delays are not reconstructed.",
+  "spatial_holdout": "Remove all PUE observations from the test county, including both Loudoun campus labels, before fitting.",
+  "uncertainty": "Paired county-cluster bootstrap of mean absolute error differences; 2000 draws, seed 20261010. Seven counties are too few for broad population inference.",
+  "claim_gate": "No model superiority, AI-only impact or future stress claim from this exploratory pilot alone."
+}

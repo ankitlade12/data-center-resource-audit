@@ -1,0 +1,44 @@
+[
+  {
+    "path": "data/raw/forest_city_nc_lwsp_2023_additional.html",
+    "url": "https://www.ncwater.org/wudc/app/lwsp/report.php?pwsid=01-81-010&year=2023",
+    "sha256": "ca99a498d932f51a6e471d8c759ce1fd452c680b3411e12f2a39dd45e6cad179",
+    "bytes": 32143,
+    "retrieved_utc": "2026-11-09T05:44:45.359898+00:00"
+  },
+  {
+    "path": "data/raw/forest_city_nc_lwsp_2024_additional.html",
+    "url": "https://www.ncwater.org/wudc/app/lwsp/report.php?pwsid=01-81-010&year=2024",
+    "sha256": "38c10b451e92c26c9bf0b7af15395c49cda6451cca3b72605e93fbb71246fe1d",
+    "bytes": 32134,
+    "retrieved_utc": "2026-11-09T05:44:45.360134+00:00"
+  },
+  {
+    "path": "data/raw/forest_city_nc_water_treatment_additional.html",
+    "url": "https://www.townofforestcity.com/water-treatment",
+    "sha256": "23e2ed69f0a0dec0925f324a6e5a0ac56730fe578cf2b7d9f74c96154fbf5222",
+    "bytes": 107303,
+    "retrieved_utc": "2026-11-09T05:44:45.360360+00:00"
+  },
+  {
+    "path": "data/raw/nc_commerce_forest_city_facebook_2015_additional.html",
+    "url": "https://www.commerce.nc.gov/news/press-releases/north-carolina-rural-infrastructure-authority-approves-nearly-383-million",
+    "sha256": "7d7c18f62b9a54b90682ab5df29efab50dd1970d558994f389b5a2c81f81dcba",
+    "bytes": 65484,
+    "retrieved_utc": "2026-11-09T05:44:45.360541+00:00"
+  },
+  {
+    "path": "data/raw/forest_city_nc_parks_plan_2021_additional.pdf",
+    "url": "https://www.townofforestcity.com/sites/default/files/uploads/government/transparency/2021_tofc_parks_and_recreation_comprehensive_plan.pdf",
+    "sha256": "c1f7508475bc00dabefc492e0bdd7dad6e207a4589133aac370acf845ae3797c",
+    "bytes": 31080270,
+    "retrieved_utc": "2026-11-09T05:44:45.380741+00:00"
+  },
+  {
+    "path": "data/raw/forest_city_nc_lwsp_2022_additional.html",
+    "url": "https://www.ncwater.org/wudc/app/lwsp/report.php?pwsid=01-81-010&year=2022",
+    "sha256": "88657de42b79f03e44bce7b080194c785368d155786add27f166c84cadbf2658",
+    "bytes": 32173,
+    "retrieved_utc": "2026-11-09T05:44:45.381032+00:00"
+  }
+]

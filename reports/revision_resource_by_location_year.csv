@@ -1,0 +1,259 @@
+operator,target,method,location_name,year,n,mae,rmse,wape
+Google,consumption_m3,nonnegative_linear_trend,"Ashburn, VA",2024,1,31040.376628799975,31040.376628799975,0.14642857142857132
+Google,consumption_m3,nonnegative_linear_trend,"Ashburn, VA",2025,1,15898.72949279999,15898.72949279999,0.07894736842105257
+Google,consumption_m3,nonnegative_linear_trend,"Berkeley County, SC",2024,1,333873.3193488,333873.3193488,0.11358660656793304
+Google,consumption_m3,nonnegative_linear_trend,"Berkeley County, SC",2025,1,424344.6609864002,424344.6609864002,0.12432072751469453
+Google,consumption_m3,nonnegative_linear_trend,"Council Bluffs, IA",2024,1,204033.6951576001,204033.6951576001,0.05335577113442885
+Google,consumption_m3,nonnegative_linear_trend,"Council Bluffs, IA",2025,1,1157200.3823688007,1157200.3823688007,0.2271173848439823
+Google,consumption_m3,nonnegative_linear_trend,"Douglas County, GA",2024,1,72301.36507440009,72301.36507440009,0.0520577814118289
+Google,consumption_m3,nonnegative_linear_trend,"Douglas County, GA",2025,1,79872.18864240008,79872.18864240008,0.05747752655952063
+Google,consumption_m3,nonnegative_linear_trend,"Henderson, NV",2024,1,106370.07113040006,106370.07113040006,0.13548698167791715
+Google,consumption_m3,nonnegative_linear_trend,"Henderson, NV",2025,1,62837.835614399984,62837.835614399984,0.06934001670843774
+Google,consumption_m3,nonnegative_linear_trend,"Jackson County, AL",2024,1,28769.129558399785,28769.129558399785,0.04157549234135636
+Google,consumption_m3,nonnegative_linear_trend,"Jackson County, AL",2025,1,188513.5068432002,188513.5068432002,0.2868663594470049
+Google,consumption_m3,nonnegative_linear_trend,"Lancaster, OH",2025,1,222203.6717208001,222203.6717208001,0.4322533136966129
+Google,consumption_m3,nonnegative_linear_trend,"Leesburg, VA",2024,1,98042.16520559986,98042.16520559986,0.13517745302713968
+Google,consumption_m3,nonnegative_linear_trend,"Leesburg, VA",2025,1,73058.44743119995,73058.44743119995,0.10120608285264808
+Google,consumption_m3,nonnegative_linear_trend,"Lenoir, NC",2024,1,95770.91813519993,95770.91813519993,0.07718120805369122
+Google,consumption_m3,nonnegative_linear_trend,"Lenoir, NC",2025,1,96528.00049199979,96528.00049199979,0.07406331687481832
+Google,consumption_m3,nonnegative_linear_trend,"Lockbourne, OH",2025,1,364156.61362079973,364156.61362079973,0.2675938803894296
+Google,consumption_m3,nonnegative_linear_trend,"Mayes County, OK",2024,1,406174.6844232003,406174.6844232003,0.12878060489678358
+Google,consumption_m3,nonnegative_linear_trend,"Mayes County, OK",2025,1,871023.2514984007,871023.2514984007,0.21277972997965616
+Google,consumption_m3,nonnegative_linear_trend,"Midlothian, TX",2024,1,15141.647135999985,15141.647135999985,0.0219418540866703
+Google,consumption_m3,nonnegative_linear_trend,"Midlothian, TX",2025,1,32554.54134240013,32554.54134240013,0.03905540417802014
+Google,consumption_m3,nonnegative_linear_trend,"Montgomery County, TN",2024,1,25362.25895279972,25362.25895279972,0.020820385332504427
+Google,consumption_m3,nonnegative_linear_trend,"Montgomery County, TN",2025,1,263843.2013447997,263843.2013447997,0.16411584647986796
+Google,consumption_m3,nonnegative_linear_trend,"New Albany, OH",2024,1,560619.4852103998,560619.4852103998,0.41990360079387573
+Google,consumption_m3,nonnegative_linear_trend,"New Albany, OH",2025,1,974364.9932016004,974364.9932016004,0.3080052650472659
+Google,consumption_m3,nonnegative_linear_trend,"Papillion, NE",2024,1,734748.4272744,734748.4272744,0.46557927560566087
+Google,consumption_m3,nonnegative_linear_trend,"Papillion, NE",2025,1,571218.6382056002,571218.6382056002,0.27526450200656705
+Google,consumption_m3,nonnegative_linear_trend,"Sterling, VA",2024,1,387626.1666816,387626.1666816,0.6472819216182047
+Google,consumption_m3,nonnegative_linear_trend,"Sterling, VA",2025,1,230910.118824,230910.118824,0.3053053053053053
+Google,consumption_m3,nonnegative_linear_trend,"Storey County, NV",2024,1,4921.0353192,4921.0353192,0.8666666666666667
+Google,consumption_m3,nonnegative_linear_trend,"Storey County, NV",2025,1,14763.105957599999,14763.105957599999,0.582089552238806
+Google,consumption_m3,nonnegative_linear_trend,"The Dalles, OR",2024,1,116590.68294719979,116590.68294719979,0.08522412838959588
+Google,consumption_m3,nonnegative_linear_trend,"The Dalles, OR",2025,1,183971.01270240056,183971.01270240056,0.10362473347548005
+Google,consumption_m3,other_state_median_growth,"Ashburn, VA",2024,1,27859.534832980455,27859.534832980455,0.13142340168878164
+Google,consumption_m3,other_state_median_growth,"Ashburn, VA",2025,1,50549.9046347556,50549.9046347556,0.2510126325915802
+Google,consumption_m3,other_state_median_growth,"Berkeley County, SC",2024,1,475826.26124880044,475826.26124880044,0.1618802318094013
+Google,consumption_m3,other_state_median_growth,"Berkeley County, SC",2025,1,126343.80141583411,126343.80141583411,0.03701508408866722
+Google,consumption_m3,other_state_median_growth,"Council Bluffs, IA",2024,1,560619.485210401,560619.485210401,0.14660463274599117
+Google,consumption_m3,other_state_median_growth,"Council Bluffs, IA",2025,1,490200.92186859716,490200.92186859716,0.0962090517071944
+Google,consumption_m3,other_state_median_growth,"Douglas County, GA",2024,1,157232.24037360027,157232.24037360027,0.11320894967665224
+Google,consumption_m3,other_state_median_growth,"Douglas County, GA",2025,1,282876.86767524085,282876.86767524085,0.203563505035175
+Google,consumption_m3,other_state_median_growth,"Henderson, NV",2024,1,81103.03900765255,81103.03900765255,0.1033035499861839
+Google,consumption_m3,other_state_median_growth,"Henderson, NV",2025,1,13217.060596449766,13217.060596449766,0.014584703525088338
+Google,consumption_m3,other_state_median_growth,"Jackson County, AL",2024,1,67328.27463537198,67328.27463537198,0.09729895236410986
+Google,consumption_m3,other_state_median_growth,"Jackson County, AL",2025,1,153240.5591394992,153240.5591394992,0.23319051274419197
+Google,consumption_m3,other_state_median_growth,"Lancaster, OH",2025,1,71377.715148004,71377.715148004,0.138851233455696
+Google,consumption_m3,other_state_median_growth,"Leesburg, VA",2024,1,35534.468640636886,35534.468640636886,0.04899380746478764
+Google,consumption_m3,other_state_median_growth,"Leesburg, VA",2025,1,140095.51371522225,140095.51371522225,0.19407089346785208
+Google,consumption_m3,other_state_median_growth,"Lenoir, NC",2024,1,265873.55857440014,265873.55857440014,0.2142659049309447
+Google,consumption_m3,other_state_median_growth,"Lenoir, NC",2025,1,190948.1975795438,190948.1975795438,0.1465093733624087
+Google,consumption_m3,other_state_median_growth,"Lockbourne, OH",2025,1,733395.4305756874,733395.4305756874,0.5389223256891997
+Google,consumption_m3,other_state_median_growth,"Mayes County, OK",2024,1,426502.2087161229,426502.2087161229,0.13522559266901293
+Google,consumption_m3,other_state_median_growth,"Mayes County, OK",2025,1,295429.6186162839,295429.6186162839,0.07216963998266021
+Google,consumption_m3,other_state_median_growth,"Midlothian, TX",2024,1,93548.98644147941,93548.98644147941,0.13556241220115312
+Google,consumption_m3,other_state_median_growth,"Midlothian, TX",2025,1,25376.227491733036,25376.227491733036,0.030443642586731993
+Google,consumption_m3,other_state_median_growth,"Montgomery County, TN",2024,1,72955.20892799995,72955.20892799995,0.05989038928753032
+Google,consumption_m3,other_state_median_growth,"Montgomery County, TN",2025,1,140749.71171148308,140749.71171148308,0.08754918816020768
+Google,consumption_m3,other_state_median_growth,"New Albany, OH",2024,1,776799.8316184443,776799.8316184443,0.5818225284664263
+Google,consumption_m3,other_state_median_growth,"New Albany, OH",2025,1,1619119.8539467584,1619119.8539467584,0.5118178949753986
+Google,consumption_m3,other_state_median_growth,"Papillion, NE",2024,1,986438.5846347417,986438.5846347417,0.6250647767527627
+Google,consumption_m3,other_state_median_growth,"Papillion, NE",2025,1,226963.74713000492,226963.74713000492,0.1093715412080066
+Google,consumption_m3,other_state_median_growth,"Sterling, VA",2024,1,354616.8279764902,354616.8279764902,0.5921609054822117
+Google,consumption_m3,other_state_median_growth,"Sterling, VA",2025,1,44612.25683265552,44612.25683265552,0.05898554278183903
+Google,consumption_m3,other_state_median_growth,"Storey County, NV",2024,1,4791.478677267069,4791.478677267069,0.8438498373359652
+Google,consumption_m3,other_state_median_growth,"Storey County, NV",2025,1,18712.466462303015,18712.466462303015,0.7378075626909864
+Google,consumption_m3,other_state_median_growth,"The Dalles, OR",2024,1,15210.472804799676,15210.472804799676,0.01111837802485261
+Google,consumption_m3,other_state_median_growth,"The Dalles, OR",2025,1,137017.2237714564,137017.2237714564,0.07717723072946975
+Google,consumption_m3,persistence,"Ashburn, VA",2024,1,5299.576497600006,5299.576497600006,0.025000000000000033
+Google,consumption_m3,persistence,"Ashburn, VA",2025,1,10599.152995199984,10599.152995199984,0.052631578947368335
+Google,consumption_m3,persistence,"Berkeley County, SC",2024,1,49588.89437039988,49588.89437039988,0.016870573084352827
+Google,consumption_m3,persistence,"Berkeley County, SC",2025,1,473933.5553568001,473933.5553568001,0.13884884107796389
+Google,consumption_m3,persistence,"Council Bluffs, IA",2024,1,113940.89469839958,113940.89469839958,0.029796079984161446
+Google,consumption_m3,persistence,"Council Bluffs, IA",2025,1,1271141.2770672003,1271141.2770672003,0.24947994056463602
+Google,consumption_m3,persistence,"Douglas County, GA",2024,1,80629.27099919994,80629.27099919994,0.05805396565821745
+Google,consumption_m3,persistence,"Douglas County, GA",2025,1,757.0823567998596,757.0823567998596,0.0005448106782891934
+Google,consumption_m3,persistence,"Henderson, NV",2024,1,183971.01270239998,183971.01270239998,0.23432979749276758
+Google,consumption_m3,persistence,"Henderson, NV",2025,1,121133.177088,121133.177088,0.1336675020885547
+Google,consumption_m3,persistence,"Jackson County, AL",2024,1,153687.71843040013,153687.71843040013,0.2221006564551424
+Google,consumption_m3,persistence,"Jackson County, AL",2025,1,34825.78841280006,34825.78841280006,0.052995391705069214
+Google,consumption_m3,persistence,"Lancaster, OH",2025,1,131353.78890479996,131353.78890479996,0.25552282768777607
+Google,consumption_m3,persistence,"Leesburg, VA",2024,1,69651.5768256,69651.5768256,0.09603340292275575
+Google,consumption_m3,persistence,"Leesburg, VA",2025,1,3406.87060559995,3406.87060559995,0.004719454640796994
+Google,consumption_m3,persistence,"Lenoir, NC",2024,1,34068.706055999966,34068.706055999966,0.02745576571079924
+Google,consumption_m3,persistence,"Lenoir, NC",2025,1,62459.29443599982,62459.29443599982,0.047923322683705936
+Google,consumption_m3,persistence,"Lockbourne, OH",2025,1,818406.0277007999,818406.0277007999,0.6013908205841446
+Google,consumption_m3,persistence,"Mayes County, OK",2024,1,68515.95329039963,68515.95329039963,0.021723475756120863
+Google,consumption_m3,persistence,"Mayes County, OK",2025,1,939539.2047888003,939539.2047888003,0.22951729239874244
+Google,consumption_m3,persistence,"Midlothian, TX",2024,1,176021.64795600006,176021.64795600006,0.2550740537575426
+Google,consumption_m3,persistence,"Midlothian, TX",2025,1,143467.10661359993,143467.10661359993,0.17211625794732055
+Google,consumption_m3,persistence,"Montgomery County, TN",2024,1,125675.6712288002,125675.6712288002,0.10316967060285907
+Google,consumption_m3,persistence,"Montgomery County, TN",2025,1,389518.8725735999,389518.8725735999,0.24228867435837056
+Google,consumption_m3,persistence,"New Albany, OH",2024,1,853988.8984703999,853988.8984703999,0.6396370853416501
+Google,consumption_m3,persistence,"New Albany, OH",2025,1,1828353.8916720003,1828353.8916720003,0.5779585975828647
+Google,consumption_m3,persistence,"Papillion, NE",2024,1,1068243.2054448,1068243.2054448,0.6769009354761334
+Google,consumption_m3,persistence,"Papillion, NE",2025,1,497024.5672392,497024.5672392,0.23951112732579352
+Google,consumption_m3,persistence,"Sterling, VA",2024,1,388383.24903839995,388383.24903839995,0.6485461441213654
+Google,consumption_m3,persistence,"Sterling, VA",2025,1,157473.1302144,157473.1302144,0.20820820820820823
+Google,consumption_m3,persistence,"Storey County, NV",2024,1,4921.0353192,4921.0353192,0.8666666666666667
+Google,consumption_m3,persistence,"Storey County, NV",2025,1,19684.1412768,19684.1412768,0.7761194029850746
+Google,consumption_m3,persistence,"The Dalles, OR",2024,1,223339.29525599978,223339.29525599978,0.16325401217487534
+Google,consumption_m3,persistence,"The Dalles, OR",2025,1,407310.30795840034,407310.30795840034,0.22942430703624753
+Meta,electricity_mwh,nonnegative_linear_trend,Altoona (IA),2023,1,106799.0,106799.0,0.08589920743565944
+Meta,electricity_mwh,nonnegative_linear_trend,Altoona (IA),2024,1,142386.0,142386.0,0.08981122649792607
+Meta,electricity_mwh,nonnegative_linear_trend,DeKalb (IL),2023,1,109821.0,109821.0,0.7902781275860828
+Meta,electricity_mwh,nonnegative_linear_trend,DeKalb (IL),2024,1,111343.0,111343.0,0.2990366305973857
+Meta,electricity_mwh,nonnegative_linear_trend,Eagle Mountain (UT),2023,1,9588.0,9588.0,0.012171528676974637
+Meta,electricity_mwh,nonnegative_linear_trend,Eagle Mountain (UT),2024,1,44188.0,44188.0,0.03960850433705414
+Meta,electricity_mwh,nonnegative_linear_trend,Forest City (NC),2023,1,102338.0,102338.0,0.20182302965282764
+Meta,electricity_mwh,nonnegative_linear_trend,Forest City (NC),2024,1,14205.0,14205.0,0.026523886435566843
+Meta,electricity_mwh,nonnegative_linear_trend,Fort Worth (TX),2023,1,125179.0,125179.0,0.12158376798080753
+Meta,electricity_mwh,nonnegative_linear_trend,Fort Worth (TX),2024,1,9283.0,9283.0,0.008370573956451013
+Meta,electricity_mwh,nonnegative_linear_trend,Gallatin (TN),2023,1,103992.0,103992.0,0.8924819773429454
+Meta,electricity_mwh,nonnegative_linear_trend,Gallatin (TN),2024,1,132954.0,132954.0,0.3695938620632141
+Meta,electricity_mwh,nonnegative_linear_trend,Henrico (VA),2023,1,81675.0,81675.0,0.10145193966668364
+Meta,electricity_mwh,nonnegative_linear_trend,Henrico (VA),2024,1,39740.0,39740.0,0.041881881291108584
+Meta,electricity_mwh,nonnegative_linear_trend,Huntsville (AL),2023,1,38198.0,38198.0,0.06219167108977887
+Meta,electricity_mwh,nonnegative_linear_trend,Huntsville (AL),2024,1,6248.0,6248.0,0.007216422211519248
+Meta,electricity_mwh,nonnegative_linear_trend,Los Lunas (NM),2023,1,30944.0,30944.0,0.027874966219259525
+Meta,electricity_mwh,nonnegative_linear_trend,Los Lunas (NM),2024,1,147645.0,147645.0,0.1291656569562414
+Meta,electricity_mwh,nonnegative_linear_trend,New Albany (OH),2023,1,100911.0,100911.0,0.12724209804265235
+Meta,electricity_mwh,nonnegative_linear_trend,New Albany (OH),2024,1,362215.0,362215.0,0.6949408787510768
+Meta,electricity_mwh,nonnegative_linear_trend,Prineville (OR),2023,1,309376.0,309376.0,0.22494821209012297
+Meta,electricity_mwh,nonnegative_linear_trend,Prineville (OR),2024,1,40174.0,40174.0,0.023244928082134318
+Meta,electricity_mwh,nonnegative_linear_trend,Sarpy (NE),2023,1,130369.0,130369.0,0.11355284554969945
+Meta,electricity_mwh,nonnegative_linear_trend,Sarpy (NE),2024,1,30308.0,30308.0,0.024087633589484986
+Meta,electricity_mwh,nonnegative_linear_trend,Stanton Springs (GA),2023,1,88688.0,88688.0,0.09156638945243736
+Meta,electricity_mwh,nonnegative_linear_trend,Stanton Springs (GA),2024,1,116484.0,116484.0,0.09835019166146
+Meta,electricity_mwh,other_state_median_growth,Altoona (IA),2023,1,180183.98734839633,180183.98734839633,0.1449232830440747
+Meta,electricity_mwh,other_state_median_growth,Altoona (IA),2024,1,110490.96944458457,110490.96944458457,0.06969315440256073
+Meta,electricity_mwh,other_state_median_growth,DeKalb (IL),2023,1,116787.65596793003,116787.65596793003,0.8404105779723673
+Meta,electricity_mwh,other_state_median_growth,DeKalb (IL),2024,1,192424.60710485114,192424.60710485114,0.5167994948282375
+Meta,electricity_mwh,other_state_median_growth,Eagle Mountain (UT),2023,1,127620.2360918367,127620.2360918367,0.16200806876867585
+Meta,electricity_mwh,other_state_median_growth,Eagle Mountain (UT),2024,1,95752.38711744279,95752.38711744279,0.08582893184630487
+Meta,electricity_mwh,other_state_median_growth,Forest City (NC),2023,1,165097.48860917508,165097.48860917508,0.32559240300940917
+Meta,electricity_mwh,other_state_median_growth,Forest City (NC),2024,1,156091.29266675026,156091.29266675026,0.2914570728809371
+Meta,electricity_mwh,other_state_median_growth,Fort Worth (TX),2023,1,279087.99944788637,279087.99944788637,0.2710723889078803
+Meta,electricity_mwh,other_state_median_growth,Fort Worth (TX),2024,1,295340.7299788315,295340.7299788315,0.2663116904707571
+Meta,electricity_mwh,other_state_median_growth,Gallatin (TN),2023,1,108157.27268615107,108157.27268615107,0.9282292540864322
+Meta,electricity_mwh,other_state_median_growth,Gallatin (TN),2024,1,208003.00087729935,208003.00087729935,0.5782197783818401
+Meta,electricity_mwh,other_state_median_growth,Henrico (VA),2023,1,107752.95096129877,107752.95096129877,0.13384445521680813
+Meta,electricity_mwh,other_state_median_growth,Henrico (VA),2024,1,99454.50532715837,99454.50532715837,0.10481484111670794
+Meta,electricity_mwh,other_state_median_growth,Huntsville (AL),2023,1,131151.2449431487,131151.2449431487,0.21353251710873153
+Meta,electricity_mwh,other_state_median_growth,Huntsville (AL),2024,1,70616.72800766642,70616.72800766642,0.08156211979822942
+Meta,electricity_mwh,other_state_median_growth,Los Lunas (NM),2023,1,157731.78839570307,157731.78839570307,0.14208790955382675
+Meta,electricity_mwh,other_state_median_growth,Los Lunas (NM),2024,1,371121.5299197731,371121.5299197731,0.3246717208350631
+Meta,electricity_mwh,other_state_median_growth,New Albany (OH),2023,1,121952.89359360642,121952.89359360642,0.15377453442362893
+Meta,electricity_mwh,other_state_median_growth,New Albany (OH),2024,1,511473.26008622,511473.26008622,0.9813057902681992
+Meta,electricity_mwh,other_state_median_growth,Prineville (OR),2023,1,35620.839878377505,35620.839878377505,0.025900018888955746
+Meta,electricity_mwh,other_state_median_growth,Prineville (OR),2024,1,97538.24160405435,97538.24160405435,0.056436237649825374
+Meta,electricity_mwh,other_state_median_growth,Sarpy (NE),2023,1,164005.07587540708,164005.07587540708,0.14285024085669784
+Meta,electricity_mwh,other_state_median_growth,Sarpy (NE),2024,1,236752.43623223924,236752.43623223924,0.18816173734261873
+Meta,electricity_mwh,other_state_median_growth,Stanton Springs (GA),2023,1,135289.3428658892,135289.3428658892,0.1396801896268079
+Meta,electricity_mwh,other_state_median_growth,Stanton Springs (GA),2024,1,69596.0655883844,69596.0655883844,0.05876160150322059
+Meta,electricity_mwh,persistence,Altoona (IA),2023,1,199700.0,199700.0,0.16062015304357896
+Meta,electricity_mwh,persistence,Altoona (IA),2024,1,342086.0,342086.0,0.21577376446960753
+Meta,electricity_mwh,persistence,DeKalb (IL),2023,1,122031.0,122031.0,0.8781419781959486
+Meta,electricity_mwh,persistence,DeKalb (IL),2024,1,233374.0,233374.0,0.6267782853797211
+Meta,electricity_mwh,persistence,Eagle Mountain (UT),2023,1,283691.0,283691.0,0.3601327849290375
+Meta,electricity_mwh,persistence,Eagle Mountain (UT),2024,1,327879.0,327879.0,0.29389872348893303
+Meta,electricity_mwh,persistence,Forest City (NC),2023,1,14282.0,14282.0,0.028165847578628507
+Meta,electricity_mwh,persistence,Forest City (NC),2024,1,28487.0,28487.0,0.05319154895388896
+Meta,electricity_mwh,persistence,Fort Worth (TX),2023,1,70151.0,70151.0,0.06813621220509533
+Meta,electricity_mwh,persistence,Fort Worth (TX),2024,1,79434.0,79434.0,0.07162643236633953
+Meta,electricity_mwh,persistence,Gallatin (TN),2023,1,110256.0,110256.0,0.9462409886714727
+Meta,electricity_mwh,persistence,Gallatin (TN),2024,1,243210.0,243210.0,0.676090401134184
+Meta,electricity_mwh,persistence,Henrico (VA),2023,1,104058.0,104058.0,0.12925480181004917
+Meta,electricity_mwh,persistence,Henrico (VA),2024,1,143798.0,143798.0,0.15154833331401188
+Meta,electricity_mwh,persistence,Huntsville (AL),2023,1,245357.0,245357.0,0.39947541346601584
+Meta,electricity_mwh,persistence,Huntsville (AL),2024,1,251605.0,251605.0,0.29060305866346037
+Meta,electricity_mwh,persistence,Los Lunas (NM),2023,1,180612.0,180612.0,0.1626988559589226
+Meta,electricity_mwh,persistence,Los Lunas (NM),2024,1,32967.0,32967.0,0.028840829102756007
+Meta,electricity_mwh,persistence,New Albany (OH),2023,1,90369.0,90369.0,0.11394933315512135
+Meta,electricity_mwh,persistence,New Albany (OH),2024,1,271846.0,271846.0,0.5215601179547098
+Meta,electricity_mwh,persistence,Prineville (OR),2023,1,393144.0,393144.0,0.28585617466758667
+Meta,electricity_mwh,persistence,Prineville (OR),2024,1,352970.0,352970.0,0.2042306532869754
+Meta,electricity_mwh,persistence,Sarpy (NE),2023,1,140456.0,140456.0,0.12233873447313845
+Meta,electricity_mwh,persistence,Sarpy (NE),2024,1,110148.0,110148.0,0.08754139714315007
+Meta,electricity_mwh,persistence,Stanton Springs (GA),2023,1,332299.0,332299.0,0.34308384052696517
+Meta,electricity_mwh,persistence,Stanton Springs (GA),2024,1,215815.0,215815.0,0.1822177004002094
+Meta,withdrawal_m3,nonnegative_linear_trend,Altoona (IA),2023,1,85000.0,85000.0,0.4913294797687861
+Meta,withdrawal_m3,nonnegative_linear_trend,Altoona (IA),2024,1,95000.0,95000.0,0.3925619834710744
+Meta,withdrawal_m3,nonnegative_linear_trend,DeKalb (IL),2023,1,5000.0,5000.0,0.09090909090909091
+Meta,withdrawal_m3,nonnegative_linear_trend,DeKalb (IL),2024,1,25000.0,25000.0,0.23809523809523808
+Meta,withdrawal_m3,nonnegative_linear_trend,Eagle Mountain (UT),2023,1,33000.0,33000.0,0.3793103448275862
+Meta,withdrawal_m3,nonnegative_linear_trend,Eagle Mountain (UT),2024,1,48000.0,48000.0,0.3609022556390977
+Meta,withdrawal_m3,nonnegative_linear_trend,Forest City (NC),2023,1,7000.0,7000.0,0.12727272727272726
+Meta,withdrawal_m3,nonnegative_linear_trend,Forest City (NC),2024,1,31000.0,31000.0,1.9375
+Meta,withdrawal_m3,nonnegative_linear_trend,Fort Worth (TX),2023,1,34000.0,34000.0,0.08415841584158416
+Meta,withdrawal_m3,nonnegative_linear_trend,Fort Worth (TX),2024,1,151000.0,151000.0,0.4855305466237942
+Meta,withdrawal_m3,nonnegative_linear_trend,Gallatin (TN),2023,1,3000.0,3000.0,1.0
+Meta,withdrawal_m3,nonnegative_linear_trend,Gallatin (TN),2024,1,199000.0,199000.0,0.9707317073170731
+Meta,withdrawal_m3,nonnegative_linear_trend,Henrico (VA),2023,1,12000.0,12000.0,0.2857142857142857
+Meta,withdrawal_m3,nonnegative_linear_trend,Henrico (VA),2024,1,63000.0,63000.0,0.6847826086956522
+Meta,withdrawal_m3,nonnegative_linear_trend,Huntsville (AL),2023,1,17000.0,17000.0,0.1118421052631579
+Meta,withdrawal_m3,nonnegative_linear_trend,Huntsville (AL),2024,1,9000.0,9000.0,0.0430622009569378
+Meta,withdrawal_m3,nonnegative_linear_trend,Los Lunas (NM),2023,1,114000.0,114000.0,0.4028268551236749
+Meta,withdrawal_m3,nonnegative_linear_trend,Los Lunas (NM),2024,1,153000.0,153000.0,0.6071428571428571
+Meta,withdrawal_m3,nonnegative_linear_trend,New Albany (OH),2023,1,19000.0,19000.0,0.2638888888888889
+Meta,withdrawal_m3,nonnegative_linear_trend,New Albany (OH),2024,1,29000.0,29000.0,0.3372093023255814
+Meta,withdrawal_m3,nonnegative_linear_trend,Prineville (OR),2023,1,54000.0,54000.0,0.3
+Meta,withdrawal_m3,nonnegative_linear_trend,Prineville (OR),2024,1,208000.0,208000.0,0.6341463414634146
+Meta,withdrawal_m3,nonnegative_linear_trend,Sarpy (NE),2023,1,27000.0,27000.0,0.21951219512195122
+Meta,withdrawal_m3,nonnegative_linear_trend,Sarpy (NE),2024,1,3000.0,3000.0,0.02112676056338028
+Meta,withdrawal_m3,nonnegative_linear_trend,Stanton Springs (GA),2023,1,12000.0,12000.0,0.19672131147540983
+Meta,withdrawal_m3,nonnegative_linear_trend,Stanton Springs (GA),2024,1,101000.0,101000.0,0.6917808219178082
+Meta,withdrawal_m3,other_state_median_growth,Altoona (IA),2023,1,22314.814814814832,22314.814814814832,0.12898736887176204
+Meta,withdrawal_m3,other_state_median_growth,Altoona (IA),2024,1,72545.67207657098,72545.67207657098,0.2997755044486404
+Meta,withdrawal_m3,other_state_median_growth,DeKalb (IL),2023,1,25555.555555555555,25555.555555555555,0.46464646464646464
+Meta,withdrawal_m3,other_state_median_growth,DeKalb (IL),2024,1,51915.14733941064,51915.14733941064,0.49442997466105376
+Meta,withdrawal_m3,other_state_median_growth,Eagle Mountain (UT),2023,1,923.1306778476574,923.1306778476574,0.010610697446524797
+Meta,withdrawal_m3,other_state_median_growth,Eagle Mountain (UT),2024,1,50103.77358490566,50103.77358490566,0.37672010214214785
+Meta,withdrawal_m3,other_state_median_growth,Forest City (NC),2023,1,6833.333333333336,6833.333333333336,0.12424242424242429
+Meta,withdrawal_m3,other_state_median_growth,Forest City (NC),2024,1,37872.76321265085,37872.76321265085,2.367047700790678
+Meta,withdrawal_m3,other_state_median_growth,Fort Worth (TX),2023,1,64407.407407407416,64407.407407407416,0.15942427576090945
+Meta,withdrawal_m3,other_state_median_growth,Fort Worth (TX),2024,1,78932.37227051088,78932.37227051088,0.25380184009810575
+Meta,withdrawal_m3,other_state_median_growth,Gallatin (TN),2023,1,3000.0,3000.0,1.0
+Meta,withdrawal_m3,other_state_median_growth,Gallatin (TN),2024,1,202067.4157303371,202067.4157303371,0.9856947108796931
+Meta,withdrawal_m3,other_state_median_growth,Henrico (VA),2023,1,11981.481481481482,11981.481481481482,0.28527336860670194
+Meta,withdrawal_m3,other_state_median_growth,Henrico (VA),2024,1,50860.79900124845,50860.79900124845,0.5528347717527006
+Meta,withdrawal_m3,other_state_median_growth,Huntsville (AL),2023,1,51415.793151642196,51415.793151642196,0.3382617970502776
+Meta,withdrawal_m3,other_state_median_growth,Huntsville (AL),2024,1,64169.81132075473,64169.81132075473,0.30703259005145805
+Meta,withdrawal_m3,other_state_median_growth,Los Lunas (NM),2023,1,129594.3396226415,129594.3396226415,0.4579305287019135
+Meta,withdrawal_m3,other_state_median_growth,Los Lunas (NM),2024,1,16001.942286348494,16001.942286348494,0.0634997709775734
+Meta,withdrawal_m3,other_state_median_growth,New Albany (OH),2023,1,13388.88888888889,13388.88888888889,0.1859567901234568
+Meta,withdrawal_m3,other_state_median_growth,New Albany (OH),2024,1,15475.655430711617,15475.655430711617,0.17994948175246067
+Meta,withdrawal_m3,other_state_median_growth,Prineville (OR),2023,1,56250.0,56250.0,0.3125
+Meta,withdrawal_m3,other_state_median_growth,Prineville (OR),2024,1,151072.9166666667,151072.9166666667,0.46058816056910573
+Meta,withdrawal_m3,other_state_median_growth,Sarpy (NE),2023,1,23578.125,23578.125,0.1916920731707317
+Meta,withdrawal_m3,other_state_median_growth,Sarpy (NE),2024,1,23999.669530733634,23999.669530733634,0.16901175725868756
+Meta,withdrawal_m3,other_state_median_growth,Stanton Springs (GA),2023,1,14685.474537037036,14685.474537037036,0.2407454842137219
+Meta,withdrawal_m3,other_state_median_growth,Stanton Springs (GA),2024,1,86129.62962962964,86129.62962962964,0.5899289700659565
+Meta,withdrawal_m3,persistence,Altoona (IA),2023,1,26000.0,26000.0,0.15028901734104047
+Meta,withdrawal_m3,persistence,Altoona (IA),2024,1,69000.0,69000.0,0.28512396694214875
+Meta,withdrawal_m3,persistence,DeKalb (IL),2023,1,25000.0,25000.0,0.45454545454545453
+Meta,withdrawal_m3,persistence,DeKalb (IL),2024,1,50000.0,50000.0,0.47619047619047616
+Meta,withdrawal_m3,persistence,Eagle Mountain (UT),2023,1,2000.0,2000.0,0.022988505747126436
+Meta,withdrawal_m3,persistence,Eagle Mountain (UT),2024,1,46000.0,46000.0,0.3458646616541353
+Meta,withdrawal_m3,persistence,Forest City (NC),2023,1,8000.0,8000.0,0.14545454545454545
+Meta,withdrawal_m3,persistence,Forest City (NC),2024,1,39000.0,39000.0,2.4375
+Meta,withdrawal_m3,persistence,Fort Worth (TX),2023,1,58000.0,58000.0,0.14356435643564355
+Meta,withdrawal_m3,persistence,Fort Worth (TX),2024,1,93000.0,93000.0,0.2990353697749196
+Meta,withdrawal_m3,persistence,Gallatin (TN),2023,1,3000.0,3000.0,1.0
+Meta,withdrawal_m3,persistence,Gallatin (TN),2024,1,202000.0,202000.0,0.9853658536585366
+Meta,withdrawal_m3,persistence,Henrico (VA),2023,1,13000.0,13000.0,0.30952380952380953
+Meta,withdrawal_m3,persistence,Henrico (VA),2024,1,50000.0,50000.0,0.5434782608695652
+Meta,withdrawal_m3,persistence,Huntsville (AL),2023,1,48000.0,48000.0,0.3157894736842105
+Meta,withdrawal_m3,persistence,Huntsville (AL),2024,1,57000.0,57000.0,0.2727272727272727
+Meta,withdrawal_m3,persistence,Los Lunas (NM),2023,1,122000.0,122000.0,0.43109540636042404
+Meta,withdrawal_m3,persistence,Los Lunas (NM),2024,1,31000.0,31000.0,0.12301587301587301
+Meta,withdrawal_m3,persistence,New Albany (OH),2023,1,15000.0,15000.0,0.20833333333333334
+Meta,withdrawal_m3,persistence,New Albany (OH),2024,1,14000.0,14000.0,0.16279069767441862
+Meta,withdrawal_m3,persistence,Prineville (OR),2023,1,60000.0,60000.0,0.3333333333333333
+Meta,withdrawal_m3,persistence,Prineville (OR),2024,1,148000.0,148000.0,0.45121951219512196
+Meta,withdrawal_m3,persistence,Sarpy (NE),2023,1,22000.0,22000.0,0.17886178861788618
+Meta,withdrawal_m3,persistence,Sarpy (NE),2024,1,19000.0,19000.0,0.13380281690140844
+Meta,withdrawal_m3,persistence,Stanton Springs (GA),2023,1,16000.0,16000.0,0.26229508196721313
+Meta,withdrawal_m3,persistence,Stanton Springs (GA),2024,1,85000.0,85000.0,0.5821917808219178

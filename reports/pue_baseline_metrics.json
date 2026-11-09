@@ -1,0 +1,23 @@
+[
+  {
+    "method": "last_quarter",
+    "n": 64,
+    "n_campuses": 16,
+    "mae": 0.01749999999999999,
+    "rmse": 0.027386127875258275
+  },
+  {
+    "method": "previous_year_unweighted_mean",
+    "n": 64,
+    "n_campuses": 16,
+    "mae": 0.017968749999999988,
+    "rmse": 0.02360978345940512
+  },
+  {
+    "method": "same_quarter_previous_year",
+    "n": 64,
+    "n_campuses": 16,
+    "mae": 0.007968749999999993,
+    "rmse": 0.01824314939915801
+  }
+]

@@ -1,0 +1,325 @@
+campus_name,state,year,quarter,quarterly_pue,ttm_pue,evidence_type,source_file,source_locator,county_label,reason
+"Bristow, Virginia",Virginia,2025,1,1.07,,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Bristow, Virginia",No exact county/state context mapping in this pilot
+"Bristow, Virginia",Virginia,2025,2,1.08,1.07,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Bristow, Virginia",No exact county/state context mapping in this pilot
+"Bristow, Virginia",Virginia,2025,3,1.12,1.09,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Bristow, Virginia",No exact county/state context mapping in this pilot
+"Bristow, Virginia",Virginia,2025,4,1.07,1.09,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Bristow, Virginia",No exact county/state context mapping in this pilot
+"Bristow, Virginia",Virginia,2026,1,1.07,1.09,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Bristow, Virginia",No exact county/state context mapping in this pilot
+"Bristow, Virginia",Virginia,2026,2,1.1,1.09,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Bristow, Virginia",No exact county/state context mapping in this pilot
+"Central Ohio (Columbus), Ohio",Ohio,2024,3,1.05,,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"Central Ohio (Columbus), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Columbus), Ohio",Ohio,2024,4,1.05,1.06,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"Central Ohio (Columbus), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Columbus), Ohio",Ohio,2025,1,1.05,1.05,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Central Ohio (Columbus), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Columbus), Ohio",Ohio,2025,2,1.05,1.05,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Central Ohio (Columbus), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Columbus), Ohio",Ohio,2025,3,1.07,1.06,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Central Ohio (Columbus), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Columbus), Ohio",Ohio,2025,4,1.05,1.06,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Central Ohio (Columbus), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Columbus), Ohio",Ohio,2026,1,1.06,1.06,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Central Ohio (Columbus), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Columbus), Ohio",Ohio,2026,2,1.06,1.06,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Central Ohio (Columbus), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Lancaster), Ohio",Ohio,2024,3,1.04,,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"Central Ohio (Lancaster), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Lancaster), Ohio",Ohio,2024,4,1.04,,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"Central Ohio (Lancaster), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Lancaster), Ohio",Ohio,2025,1,1.04,1.04,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Central Ohio (Lancaster), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Lancaster), Ohio",Ohio,2025,2,1.04,1.04,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Central Ohio (Lancaster), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Lancaster), Ohio",Ohio,2025,3,1.04,1.04,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Central Ohio (Lancaster), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Lancaster), Ohio",Ohio,2025,4,1.04,1.04,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Central Ohio (Lancaster), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Lancaster), Ohio",Ohio,2026,1,1.04,1.04,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Central Ohio (Lancaster), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (Lancaster), Ohio",Ohio,2026,2,1.04,1.04,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Central Ohio (Lancaster), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (New Albany), Ohio",Ohio,2024,3,1.07,1.08,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"Central Ohio (New Albany), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (New Albany), Ohio",Ohio,2024,4,1.05,1.07,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"Central Ohio (New Albany), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (New Albany), Ohio",Ohio,2025,1,1.05,1.06,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Central Ohio (New Albany), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (New Albany), Ohio",Ohio,2025,2,1.07,1.06,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Central Ohio (New Albany), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (New Albany), Ohio",Ohio,2025,3,1.07,1.06,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Central Ohio (New Albany), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (New Albany), Ohio",Ohio,2025,4,1.06,1.06,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Central Ohio (New Albany), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (New Albany), Ohio",Ohio,2026,1,1.07,1.06,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Central Ohio (New Albany), Ohio",No exact county/state context mapping in this pilot
+"Central Ohio (New Albany), Ohio",Ohio,2026,2,1.08,1.07,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Central Ohio (New Albany), Ohio",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2017,1,1.1,1.11,operator_reported,google_efficiency.html,HTML table 35; 2017 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2017,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 36; 2017 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2017,3,1.15,1.11,operator_reported,google_efficiency.html,HTML table 37; 2017 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2017,4,1.15,1.12,operator_reported,google_efficiency.html,HTML table 38; 2017 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2018,1,1.14,1.13,operator_reported,google_efficiency.html,HTML table 31; 2018 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2018,2,1.13,1.14,operator_reported,google_efficiency.html,HTML table 32; 2018 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2018,3,1.14,1.14,operator_reported,google_efficiency.html,HTML table 33; 2018 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2018,4,1.11,1.12,operator_reported,google_efficiency.html,HTML table 34; 2018 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2019,1,1.12,1.12,operator_reported,google_efficiency.html,HTML table 27; 2019 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2019,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 28; 2019 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2019,3,1.14,1.12,operator_reported,google_efficiency.html,HTML table 29; 2019 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2019,4,1.1,1.12,operator_reported,google_efficiency.html,HTML table 30; 2019 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2020,1,1.1,1.11,operator_reported,google_efficiency.html,HTML table 23; 2020 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2020,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 24; 2020 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2020,3,1.13,1.11,operator_reported,google_efficiency.html,HTML table 25; 2020 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2020,4,1.1,1.11,operator_reported,google_efficiency.html,HTML table 26; 2020 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2021,1,1.11,1.11,operator_reported,google_efficiency.html,HTML table 19; 2021 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2021,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 20; 2021 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2021,3,1.13,1.11,operator_reported,google_efficiency.html,HTML table 21; 2021 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2021,4,1.1,1.12,operator_reported,google_efficiency.html,HTML table 22; 2021 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2022,1,1.11,1.11,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2022,2,1.12,1.12,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2022,3,1.14,1.12,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2022,4,1.1,1.12,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2023,1,1.1,1.11,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2023,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2023,3,1.14,1.11,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2023,4,1.1,1.11,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2024,1,1.12,1.12,operator_reported,google_efficiency.html,HTML table 7; 2024 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2024,2,1.11,1.12,operator_reported,google_efficiency.html,HTML table 8; 2024 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2024,3,1.13,1.11,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2024,4,1.09,1.11,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2025,1,1.1,1.11,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2025,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2025,3,1.14,1.11,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2025,4,1.09,1.11,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2026,1,1.1,1.11,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa",Iowa,2026,2,1.12,1.11,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2017,1,1.1,1.11,operator_reported,google_efficiency.html,HTML table 35; 2017 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2017,2,1.1,1.11,operator_reported,google_efficiency.html,HTML table 36; 2017 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2017,3,1.12,1.1,operator_reported,google_efficiency.html,HTML table 37; 2017 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2017,4,1.08,1.1,operator_reported,google_efficiency.html,HTML table 38; 2017 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2018,1,1.09,1.1,operator_reported,google_efficiency.html,HTML table 31; 2018 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2018,2,1.1,1.1,operator_reported,google_efficiency.html,HTML table 32; 2018 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2018,3,1.11,1.1,operator_reported,google_efficiency.html,HTML table 33; 2018 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2018,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 34; 2018 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2019,1,1.08,1.09,operator_reported,google_efficiency.html,HTML table 27; 2019 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2019,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 28; 2019 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2019,3,1.11,1.09,operator_reported,google_efficiency.html,HTML table 29; 2019 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2019,4,1.07,1.09,operator_reported,google_efficiency.html,HTML table 30; 2019 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2020,1,1.08,1.09,operator_reported,google_efficiency.html,HTML table 23; 2020 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2020,2,1.09,1.1,operator_reported,google_efficiency.html,HTML table 24; 2020 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2020,3,1.11,1.1,operator_reported,google_efficiency.html,HTML table 25; 2020 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2020,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 26; 2020 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2021,1,1.08,1.09,operator_reported,google_efficiency.html,HTML table 19; 2021 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2021,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 20; 2021 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2021,3,1.11,1.09,operator_reported,google_efficiency.html,HTML table 21; 2021 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2021,4,1.07,1.09,operator_reported,google_efficiency.html,HTML table 22; 2021 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2022,1,1.07,1.09,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2022,2,1.08,1.09,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2022,3,1.1,1.08,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2022,4,1.07,1.08,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2023,1,1.07,1.08,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2023,2,1.08,1.08,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2023,3,1.09,1.08,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2023,4,1.07,1.08,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2024,1,1.07,1.08,operator_reported,google_efficiency.html,HTML table 7; 2024 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2024,2,1.07,1.07,operator_reported,google_efficiency.html,HTML table 8; 2024 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2024,3,1.08,1.07,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2024,4,1.06,1.07,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2025,1,1.07,1.07,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2025,2,1.08,1.07,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2025,3,1.1,1.08,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2025,4,1.07,1.08,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2026,1,1.07,1.08,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Council Bluffs, Iowa (2nd facility)",Iowa,2026,2,1.08,1.08,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Council Bluffs, Iowa",No exact county/state context mapping in this pilot
+"Fort Wayne, Indiana",Indiana,2026,2,1.05,,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Fort Wayne, Indiana",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2021,4,1.1,,operator_reported,google_efficiency.html,HTML table 22; 2021 Q4,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2022,1,1.09,,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2022,2,1.1,,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2022,3,1.15,1.12,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2022,4,1.09,1.11,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2023,1,1.07,1.1,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2023,2,1.08,1.09,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2023,3,1.1,1.09,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2023,4,1.07,1.08,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2024,1,1.07,1.08,operator_reported,google_efficiency.html,HTML table 7; 2024 Q1,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2024,2,1.09,1.08,operator_reported,google_efficiency.html,HTML table 8; 2024 Q2,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2024,3,1.11,1.09,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2024,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2025,1,1.07,1.09,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2025,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2025,3,1.12,1.09,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2025,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2026,1,1.08,1.09,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Henderson, Nevada",Nevada,2026,2,1.1,1.09,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Henderson, Nevada",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2017,1,1.1,1.1,operator_reported,google_efficiency.html,HTML table 35; 2017 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2017,2,1.1,1.1,operator_reported,google_efficiency.html,HTML table 36; 2017 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2017,3,1.12,1.1,operator_reported,google_efficiency.html,HTML table 37; 2017 Q3,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2017,4,1.1,1.1,operator_reported,google_efficiency.html,HTML table 38; 2017 Q4,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2018,1,1.1,1.1,operator_reported,google_efficiency.html,HTML table 31; 2018 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2018,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 32; 2018 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2018,3,1.13,1.11,operator_reported,google_efficiency.html,HTML table 33; 2018 Q3,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2018,4,1.09,1.11,operator_reported,google_efficiency.html,HTML table 34; 2018 Q4,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2019,1,1.09,1.1,operator_reported,google_efficiency.html,HTML table 27; 2019 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2019,2,1.1,1.1,operator_reported,google_efficiency.html,HTML table 28; 2019 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2019,3,1.12,1.1,operator_reported,google_efficiency.html,HTML table 29; 2019 Q3,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2019,4,1.08,1.1,operator_reported,google_efficiency.html,HTML table 30; 2019 Q4,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2020,1,1.08,1.1,operator_reported,google_efficiency.html,HTML table 23; 2020 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2020,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 24; 2020 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2020,3,1.12,1.09,operator_reported,google_efficiency.html,HTML table 25; 2020 Q3,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2020,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 26; 2020 Q4,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2021,1,1.08,1.09,operator_reported,google_efficiency.html,HTML table 19; 2021 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2021,2,1.1,1.09,operator_reported,google_efficiency.html,HTML table 20; 2021 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2021,3,1.11,1.09,operator_reported,google_efficiency.html,HTML table 21; 2021 Q3,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2021,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 22; 2021 Q4,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2022,1,1.08,1.09,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2022,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2022,3,1.11,1.09,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2022,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2023,1,1.08,1.09,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2023,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2023,3,1.12,1.09,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2023,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2024,1,1.08,1.1,operator_reported,google_efficiency.html,HTML table 7; 2024 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2024,2,1.11,1.1,operator_reported,google_efficiency.html,HTML table 8; 2024 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2024,3,1.24,1.13,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2024,4,1.08,1.13,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2025,1,1.08,1.13,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2025,2,1.1,1.13,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2025,3,1.12,1.1,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2025,4,1.08,1.1,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2026,1,1.08,1.1,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lenoir, North Carolina",North Carolina,2026,2,1.1,1.1,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Lenoir, North Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2017,1,1.1,1.12,operator_reported,google_efficiency.html,HTML table 35; 2017 Q1,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2017,2,1.13,1.12,operator_reported,google_efficiency.html,HTML table 36; 2017 Q2,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2017,3,1.16,1.13,operator_reported,google_efficiency.html,HTML table 37; 2017 Q3,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2017,4,1.11,1.13,operator_reported,google_efficiency.html,HTML table 38; 2017 Q4,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2018,1,1.1,1.12,operator_reported,google_efficiency.html,HTML table 31; 2018 Q1,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2018,2,1.13,1.12,operator_reported,google_efficiency.html,HTML table 32; 2018 Q2,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2018,3,1.15,1.12,operator_reported,google_efficiency.html,HTML table 33; 2018 Q3,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2018,4,1.1,1.12,operator_reported,google_efficiency.html,HTML table 34; 2018 Q4,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2019,1,1.08,1.11,operator_reported,google_efficiency.html,HTML table 27; 2019 Q1,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2019,2,1.12,1.11,operator_reported,google_efficiency.html,HTML table 28; 2019 Q2,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2019,3,1.14,1.11,operator_reported,google_efficiency.html,HTML table 29; 2019 Q3,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2019,4,1.1,1.11,operator_reported,google_efficiency.html,HTML table 30; 2019 Q4,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2020,1,1.09,1.11,operator_reported,google_efficiency.html,HTML table 23; 2020 Q1,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2020,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 24; 2020 Q2,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2020,3,1.14,1.11,operator_reported,google_efficiency.html,HTML table 25; 2020 Q3,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2020,4,1.09,1.11,operator_reported,google_efficiency.html,HTML table 26; 2020 Q4,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2021,1,1.08,1.11,operator_reported,google_efficiency.html,HTML table 19; 2021 Q1,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2021,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 20; 2021 Q2,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2021,3,1.13,1.11,operator_reported,google_efficiency.html,HTML table 21; 2021 Q3,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2021,4,1.09,1.1,operator_reported,google_efficiency.html,HTML table 22; 2021 Q4,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2022,1,1.08,1.1,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2022,2,1.1,1.1,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2022,3,1.13,1.1,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2022,4,1.08,1.1,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2023,1,1.08,1.1,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2023,2,1.11,1.1,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2023,3,1.14,1.11,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Lowcountry, South Carolina",South Carolina,2023,4,1.08,1.1,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"Lowcountry, South Carolina",No exact county/state context mapping in this pilot
+"Mesa, Arizona",Arizona,2026,1,1.22,,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Mesa, Arizona",No exact county/state context mapping in this pilot
+"Mesa, Arizona",Arizona,2026,2,1.28,,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Mesa, Arizona",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2021,4,1.17,,operator_reported,google_efficiency.html,HTML table 22; 2021 Q4,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2022,1,1.16,,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2022,2,1.18,,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2022,3,1.19,1.18,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2022,4,1.12,1.16,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2023,1,1.11,1.14,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2023,2,1.14,1.14,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2023,3,1.16,1.13,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2023,4,1.1,1.13,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2024,1,1.09,1.12,operator_reported,google_efficiency.html,HTML table 7; 2024 Q1,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2024,2,1.12,1.11,operator_reported,google_efficiency.html,HTML table 8; 2024 Q2,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2024,3,1.13,1.11,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2024,4,1.08,1.1,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2025,1,1.08,1.1,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2025,2,1.11,1.1,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2025,3,1.13,1.1,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2025,4,1.09,1.1,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2026,1,1.08,1.1,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"Midlothian, Texas",Texas,2026,2,1.12,1.11,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Midlothian, Texas",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2022,1,1.14,,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2022,2,1.13,,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2022,3,1.18,,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2022,4,1.13,1.14,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2023,1,1.13,1.14,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2023,2,1.1,1.13,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2023,3,1.11,1.11,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2023,4,1.08,1.1,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2024,1,1.08,1.09,operator_reported,google_efficiency.html,HTML table 7; 2024 Q1,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"New Albany, Ohio",Ohio,2024,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 8; 2024 Q2,"New Albany, Ohio",No exact county/state context mapping in this pilot
+"Omaha, Nebraska",Nebraska,2025,1,1.06,,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Omaha, Nebraska",No exact county/state context mapping in this pilot
+"Omaha, Nebraska",Nebraska,2025,2,1.04,,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Omaha, Nebraska",No exact county/state context mapping in this pilot
+"Omaha, Nebraska",Nebraska,2025,3,1.04,,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Omaha, Nebraska",No exact county/state context mapping in this pilot
+"Omaha, Nebraska",Nebraska,2025,4,1.05,1.05,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Omaha, Nebraska",No exact county/state context mapping in this pilot
+"Omaha, Nebraska",Nebraska,2026,1,1.05,1.05,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Omaha, Nebraska",No exact county/state context mapping in this pilot
+"Omaha, Nebraska",Nebraska,2026,2,1.06,1.05,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Omaha, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2021,4,1.15,,operator_reported,google_efficiency.html,HTML table 22; 2021 Q4,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2022,1,1.18,,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2022,2,1.12,,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2022,3,1.13,1.14,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2022,4,1.1,1.13,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2023,1,1.12,1.12,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2023,2,1.09,1.11,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2023,3,1.1,1.1,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2023,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2024,1,1.09,1.09,operator_reported,google_efficiency.html,HTML table 7; 2024 Q1,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2024,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 8; 2024 Q2,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2024,3,1.1,1.09,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2024,4,1.08,1.09,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2025,1,1.08,1.09,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2025,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2025,3,1.11,1.09,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2025,4,1.07,1.09,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2026,1,1.07,1.09,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Papillion, Nebraska",Nebraska,2026,2,1.09,1.09,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Papillion, Nebraska",No exact county/state context mapping in this pilot
+"Red Oak, Texas",Texas,2026,1,1.1,,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"Red Oak, Texas",No exact county/state context mapping in this pilot
+"Red Oak, Texas",Texas,2026,2,1.14,,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"Red Oak, Texas",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2017,1,1.14,1.13,operator_reported,google_efficiency.html,HTML table 35; 2017 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2017,2,1.14,1.13,operator_reported,google_efficiency.html,HTML table 36; 2017 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2017,3,1.15,1.14,operator_reported,google_efficiency.html,HTML table 37; 2017 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2017,4,1.14,1.14,operator_reported,google_efficiency.html,HTML table 38; 2017 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2018,1,1.14,1.14,operator_reported,google_efficiency.html,HTML table 31; 2018 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2018,2,1.13,1.14,operator_reported,google_efficiency.html,HTML table 32; 2018 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2018,3,1.13,1.13,operator_reported,google_efficiency.html,HTML table 33; 2018 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2018,4,1.11,1.13,operator_reported,google_efficiency.html,HTML table 34; 2018 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2019,1,1.11,1.12,operator_reported,google_efficiency.html,HTML table 27; 2019 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2019,2,1.11,1.12,operator_reported,google_efficiency.html,HTML table 28; 2019 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2019,3,1.12,1.11,operator_reported,google_efficiency.html,HTML table 29; 2019 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2019,4,1.11,1.11,operator_reported,google_efficiency.html,HTML table 30; 2019 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2020,1,1.11,1.11,operator_reported,google_efficiency.html,HTML table 23; 2020 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2020,2,1.11,1.11,operator_reported,google_efficiency.html,HTML table 24; 2020 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2020,3,1.11,1.11,operator_reported,google_efficiency.html,HTML table 25; 2020 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2020,4,1.1,1.1,operator_reported,google_efficiency.html,HTML table 26; 2020 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2021,1,1.1,1.1,operator_reported,google_efficiency.html,HTML table 19; 2021 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2021,2,1.11,1.1,operator_reported,google_efficiency.html,HTML table 20; 2021 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2021,3,1.12,1.11,operator_reported,google_efficiency.html,HTML table 21; 2021 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2021,4,1.11,1.11,operator_reported,google_efficiency.html,HTML table 22; 2021 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2022,1,1.1,1.11,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2022,2,1.09,1.11,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2022,3,1.1,1.1,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2022,4,1.09,1.1,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2023,1,1.09,1.1,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2023,2,1.1,1.1,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2023,3,1.1,1.1,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2023,4,1.1,1.1,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2024,1,1.1,1.1,operator_reported,google_efficiency.html,HTML table 7; 2024 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2024,2,1.1,1.1,operator_reported,google_efficiency.html,HTML table 8; 2024 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2024,3,1.11,1.1,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2024,4,1.1,1.1,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2025,1,1.1,1.1,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2025,2,1.1,1.1,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2025,3,1.11,1.1,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2025,4,1.1,1.1,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2026,1,1.1,1.1,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon",Oregon,2026,2,1.1,1.1,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2018,3,1.08,,operator_reported,google_efficiency.html,HTML table 33; 2018 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2018,4,1.24,,operator_reported,google_efficiency.html,HTML table 34; 2018 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2019,1,1.07,,operator_reported,google_efficiency.html,HTML table 27; 2019 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2019,2,1.06,1.11,operator_reported,google_efficiency.html,HTML table 28; 2019 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2019,3,1.07,1.11,operator_reported,google_efficiency.html,HTML table 29; 2019 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2019,4,1.08,1.07,operator_reported,google_efficiency.html,HTML table 30; 2019 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2020,1,1.08,1.07,operator_reported,google_efficiency.html,HTML table 23; 2020 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2020,2,1.08,1.08,operator_reported,google_efficiency.html,HTML table 24; 2020 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2020,3,1.08,1.08,operator_reported,google_efficiency.html,HTML table 25; 2020 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2020,4,1.06,1.07,operator_reported,google_efficiency.html,HTML table 26; 2020 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2021,1,1.06,1.07,operator_reported,google_efficiency.html,HTML table 19; 2021 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2021,2,1.06,1.06,operator_reported,google_efficiency.html,HTML table 20; 2021 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2021,3,1.07,1.06,operator_reported,google_efficiency.html,HTML table 21; 2021 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2021,4,1.05,1.06,operator_reported,google_efficiency.html,HTML table 22; 2021 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2022,1,1.08,1.06,operator_reported,google_efficiency.html,HTML table 15; 2022 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2022,2,1.07,1.07,operator_reported,google_efficiency.html,HTML table 16; 2022 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2022,3,1.08,1.07,operator_reported,google_efficiency.html,HTML table 17; 2022 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2022,4,1.05,1.07,operator_reported,google_efficiency.html,HTML table 18; 2022 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2023,1,1.07,1.07,operator_reported,google_efficiency.html,HTML table 11; 2023 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2023,2,1.07,1.06,operator_reported,google_efficiency.html,HTML table 12; 2023 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2023,3,1.08,1.06,operator_reported,google_efficiency.html,HTML table 13; 2023 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2023,4,1.06,1.07,operator_reported,google_efficiency.html,HTML table 14; 2023 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2024,1,1.06,1.07,operator_reported,google_efficiency.html,HTML table 7; 2024 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2024,2,1.06,1.06,operator_reported,google_efficiency.html,HTML table 8; 2024 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2024,3,1.08,1.07,operator_reported,google_efficiency.html,HTML table 9; 2024 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2024,4,1.06,1.06,operator_reported,google_efficiency.html,HTML table 10; 2024 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2025,1,1.06,1.07,operator_reported,google_efficiency.html,HTML table 3; 2025 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2025,2,1.06,1.06,operator_reported,google_efficiency.html,HTML table 4; 2025 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2025,3,1.08,1.07,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2025,4,1.06,1.06,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2026,1,1.06,1.06,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (2nd facility)",Oregon,2026,2,1.07,1.06,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"The Dalles, Oregon",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (3rd facility)",Oregon,2025,3,1.09,,operator_reported,google_efficiency.html,HTML table 5; 2025 Q3,"The Dalles, Oregon (3rd facility)",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (3rd facility)",Oregon,2025,4,1.07,,operator_reported,google_efficiency.html,HTML table 6; 2025 Q4,"The Dalles, Oregon (3rd facility)",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (3rd facility)",Oregon,2026,1,1.07,,operator_reported,google_efficiency.html,HTML table 1; 2026 Q1,"The Dalles, Oregon (3rd facility)",No exact county/state context mapping in this pilot
+"The Dalles, Oregon (3rd facility)",Oregon,2026,2,1.08,1.08,operator_reported,google_efficiency.html,HTML table 2; 2026 Q2,"The Dalles, Oregon (3rd facility)",No exact county/state context mapping in this pilot

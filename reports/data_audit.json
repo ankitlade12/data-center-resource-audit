@@ -1,0 +1,26 @@
+{
+  "pue_rows": 520,
+  "pue_distinct_source_labels": 27,
+  "pue_year_min": 2017,
+  "pue_year_max": 2026,
+  "pue_missing_ttm": 45,
+  "water_rows_by_year": {
+    "2022": 16,
+    "2023": 18,
+    "2024": 23,
+    "2025": 26
+  },
+  "water_max_balance_residual_mgal": 0.03,
+  "egrid_subregions": 27,
+  "source_manifest_sha256": "0c7238450f292508c9b52358812def074b4d2c029dc810736777f6b8436c36e2",
+  "limitations": [
+    "Google subset: one operator; not a representative US inventory.",
+    "Campus/source labels are not canonical facility IDs; no inferred joins.",
+    "Annual water must not be represented as observed monthly water.",
+    "Water includes reported estimates and nonfreshwater sources.",
+    "PUE does not measure absolute electricity or cooling alone.",
+    "Google subset: AI workload share, facility electricity and resource headroom are not established.",
+    "2023 eGRID factors are not temporally matched to 2024/2025 water data.",
+    "Current disclosure snapshots may revise historical values; not vintage backtesting."
+  ]
+}

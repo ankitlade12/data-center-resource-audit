@@ -1,0 +1,23 @@
+[
+  {
+    "file": "data/raw/icprb_water_supply_2025.pdf",
+    "url": "https://www.potomacriver.org/wp-content/uploads/2025/12/2025_WMA_Water_Supply_Study_ICPRB_Dec-2025-export.pdf",
+    "access_date": "2026-11-08",
+    "sha256": "2ee07c17d80fb962d9399408677522914f666bac69eaa7c739ff0cb31fb99d45",
+    "locator": "PDF p.127 / printed 6-14"
+  },
+  {
+    "file": "data/raw/prince_william_water_briefing_2024.pdf",
+    "url": "https://www.pwcva.gov/assets/2024-12/Prince%20William%20Water%20Sustainability%20Commission%20Presentation.pdf",
+    "access_date": "2026-11-08",
+    "sha256": "e27c4f62a43f8c3e7d3b82e0e9c8d6df4d98ff683dd16405656440db971cd271",
+    "locator": "PDF pp.12-13,21 / slides14-15,23"
+  },
+  {
+    "file": "data/raw/loudoun_water_considerations_2026.html",
+    "url": "https://www.loudoun.gov/6402/Water-Considerations",
+    "access_date": "2026-11-08",
+    "sha256": "8c603546b85638082ae584cecd9ab25f04bd840ca907aaff99eb10d791c86140",
+    "locator": "Wastewater Management"
+  }
+]

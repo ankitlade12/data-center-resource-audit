@@ -1,0 +1,317 @@
+{
+  "google_2026_environmental_report.pdf": {
+    "url": "https://sustainability.google/files/1699a2e19277e478b38a659f00cb38398a836e8c/download-1699a2e1.pdf",
+    "resolved_url": "https://sustainability.google/files/1699a2e19277e478b38a659f00cb38398a836e8c/download-1699a2e1.pdf",
+    "retrieved_at_utc": "2026-10-10T18:42:02.605576+00:00",
+    "registered_at_utc": "2026-10-10T18:42:02.605604+00:00",
+    "sha256": "6a23a6db212d5d7da8d887e773e98e78ee16b98eaf8d627a4e31f98b6f487ca3",
+    "bytes": 22939183,
+    "evidence_type": "primary_public_source"
+  },
+  "google_efficiency.html": {
+    "url": "https://www.datacenters.google/efficiency/",
+    "resolved_url": "https://www.datacenters.google/efficiency/",
+    "retrieved_at_utc": null,
+    "registered_at_utc": "2026-10-10T18:42:02.620809+00:00",
+    "sha256": "f3ac21db2070ad594117f58ffbc980220458a52f158a80ef06690ab6f69ebf1c",
+    "bytes": 644505,
+    "evidence_type": "primary_public_source"
+  },
+  "google_2025_environmental_report.pdf": {
+    "url": "https://www.gstatic.com/gumdrop/sustainability/google-2025-environmental-report.pdf",
+    "resolved_url": "https://www.gstatic.com/gumdrop/sustainability/google-2025-environmental-report.pdf",
+    "retrieved_at_utc": "2026-10-10T18:42:03.933376+00:00",
+    "registered_at_utc": "2026-10-10T18:42:03.933404+00:00",
+    "sha256": "00bf26d9a1899c6d034e9b6f8ba8943dc3902e177038921283c74936264c5c10",
+    "bytes": 19452765,
+    "evidence_type": "primary_public_source"
+  },
+  "egrid2023_data_rev2.xlsx": {
+    "url": "https://www.epa.gov/system/files/documents/2025-06/egrid2023_data_rev2.xlsx",
+    "resolved_url": "https://www.epa.gov/system/files/documents/2025-06/egrid2023_data_rev2.xlsx",
+    "retrieved_at_utc": "2026-10-10T18:42:04.908220+00:00",
+    "registered_at_utc": "2026-10-10T18:42:04.908253+00:00",
+    "sha256": "895cd81dd8662406189ad8adf5a2578dcb362cdb5cff7cca81b10ee6bd2447c6",
+    "bytes": 21213301,
+    "evidence_type": "primary_public_source"
+  },
+  "virginia_jlarc_2024.pdf": {
+    "url": "https://jlarc.virginia.gov/pdfs/reports/Rpt598-2.pdf",
+    "resolved_url": "https://jlarc.virginia.gov/pdfs/reports/Rpt598-2.pdf",
+    "retrieved_at_utc": "2026-10-10T18:42:08.001574+00:00",
+    "registered_at_utc": "2026-10-10T18:42:08.001606+00:00",
+    "sha256": "19c7e0e5fc5fe60c8158f24ad1dc7c109fffe61c4fae67e788f38135fd1bbd55",
+    "bytes": 10148941,
+    "evidence_type": "primary_public_source"
+  },
+  "google_2023_environmental_report.pdf": {
+    "url": "https://www.gstatic.com/gumdrop/sustainability/google-2023-environmental-report.pdf",
+    "resolved_url": "https://www.gstatic.com/gumdrop/sustainability/google-2023-environmental-report.pdf",
+    "retrieved_at_utc": "2026-10-10T19:32:21.017448+00:00",
+    "registered_at_utc": "2026-10-10T19:32:21.017474+00:00",
+    "sha256": "111780cb32516f4541ca7078e9efcf0602579c4bd345f56dad608fbcd92a1c15",
+    "bytes": 13666218,
+    "evidence_type": "primary_public_source"
+  },
+  "google_2024_environmental_report.pdf": {
+    "url": "https://www.gstatic.com/gumdrop/sustainability/google-2024-environmental-report.pdf",
+    "resolved_url": "https://www.gstatic.com/gumdrop/sustainability/google-2024-environmental-report.pdf",
+    "retrieved_at_utc": "2026-10-10T19:32:21.659482+00:00",
+    "registered_at_utc": "2026-10-10T19:32:21.659513+00:00",
+    "sha256": "29ade2be2f75e33b94e88fc676a31aaaab205e4ae7f146bc284c57d93d858645",
+    "bytes": 14845245,
+    "evidence_type": "primary_public_source"
+  },
+  "census_counties_2025.zip": {
+    "url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_counties_national.zip",
+    "resolved_url": "https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2025_Gazetteer/2025_Gaz_counties_national.zip",
+    "retrieved_at_utc": "2026-10-10T19:32:21.851367+00:00",
+    "registered_at_utc": "2026-10-10T19:32:21.851401+00:00",
+    "sha256": "4c90d0f805779923b5958ab13d0c1e9b99fe4932b786bfcf75dd739bb2dcb4ea",
+    "bytes": 138993,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_AL-071_tavg_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/AL-071/tavg/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/AL-071/tavg/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:30.507073+00:00",
+    "registered_at_utc": "2026-10-10T19:33:30.507097+00:00",
+    "sha256": "511e21205f6bec0cf1f367a750964ff1f247c54b83f8d33d3c6d668cc03ab0e2",
+    "bytes": 2677,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_AL-071_pcp_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/AL-071/pcp/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/AL-071/pcp/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:30.909566+00:00",
+    "registered_at_utc": "2026-10-10T19:33:30.909586+00:00",
+    "sha256": "f7f47a35a22cd1eb3b1db3f396cc2daa7211f53271264bde53e6dabfb00d0df3",
+    "bytes": 2666,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_GA-097_tavg_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/GA-097/tavg/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/GA-097/tavg/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:31.394849+00:00",
+    "registered_at_utc": "2026-10-10T19:33:31.394856+00:00",
+    "sha256": "667c7e5b7b8d6a641c440adb3177ad28bb76b183e72356d5b0889d92ba0308cc",
+    "bytes": 2683,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_GA-097_pcp_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/GA-097/pcp/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/GA-097/pcp/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:31.778138+00:00",
+    "registered_at_utc": "2026-10-10T19:33:31.778147+00:00",
+    "sha256": "d338975b26bfa49d374196272f201f820f2e563d5303a7071395a5f2ac3773fe",
+    "bytes": 2673,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_NV-029_tavg_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/NV-029/tavg/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/NV-029/tavg/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:32.287725+00:00",
+    "registered_at_utc": "2026-10-10T19:33:32.287745+00:00",
+    "sha256": "47092e48f91877072a6685657db04ff42c0361e4c1a408c787aa593b3bcc5f06",
+    "bytes": 2681,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_NV-029_pcp_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/NV-029/pcp/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/NV-029/pcp/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:32.743646+00:00",
+    "registered_at_utc": "2026-10-10T19:33:32.743674+00:00",
+    "sha256": "6b240190c56d348fa0b326a692b950388a9ab39d641d67535939514eb8db2ec4",
+    "bytes": 2670,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_OK-097_tavg_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/OK-097/tavg/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/OK-097/tavg/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:33.220045+00:00",
+    "registered_at_utc": "2026-10-10T19:33:33.220078+00:00",
+    "sha256": "7fd94d4b875283e34466fb65a18b4f6b963fa0e329364c19773c00f70abc40c8",
+    "bytes": 2676,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_OK-097_pcp_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/OK-097/pcp/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/OK-097/pcp/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:33.802255+00:00",
+    "registered_at_utc": "2026-10-10T19:33:33.802293+00:00",
+    "sha256": "e36adcd437c2bdfca3b3daabd6f40494589d507eefd40206411af6a014e2ab1e",
+    "bytes": 2675,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_SC-015_tavg_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/SC-015/tavg/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/SC-015/tavg/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:34.105887+00:00",
+    "registered_at_utc": "2026-10-10T19:33:34.105923+00:00",
+    "sha256": "5cd9fbde971efb43bfa20e1f3cfdefc82adb07726f260e6d029eda19be6a9089",
+    "bytes": 2691,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_SC-015_pcp_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/SC-015/pcp/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/SC-015/pcp/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:34.543041+00:00",
+    "registered_at_utc": "2026-10-10T19:33:34.543071+00:00",
+    "sha256": "632c7ef018fc082a8eee3c62a4e49965ba4bdb247522073540c628c500201101",
+    "bytes": 2683,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_TN-125_tavg_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/TN-125/tavg/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/TN-125/tavg/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:35.066983+00:00",
+    "registered_at_utc": "2026-10-10T19:33:35.067014+00:00",
+    "sha256": "92f53333cc9bbc496435d8226e30c3b4615d9d10c73da51b34c06742e4980b56",
+    "bytes": 2678,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_TN-125_pcp_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/TN-125/pcp/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/TN-125/pcp/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:35.438063+00:00",
+    "registered_at_utc": "2026-10-10T19:33:35.438100+00:00",
+    "sha256": "6be7d0487041e20fe0bc006865c16e021f9ad88d2e0cda3927f85f229746e098",
+    "bytes": 2678,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_VA-107_tavg_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/VA-107/tavg/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/VA-107/tavg/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:35.904353+00:00",
+    "registered_at_utc": "2026-10-10T19:33:35.904383+00:00",
+    "sha256": "aaa371c67633ba275421cac6993def02044198bd905ec70f4a2f231f62cef891",
+    "bytes": 2670,
+    "evidence_type": "primary_public_source"
+  },
+  "noaa_VA-107_pcp_2017_2025.json": {
+    "url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/VA-107/pcp/1/0/2017-2025.json",
+    "resolved_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/time-series/VA-107/pcp/1/0/2017-2025.json",
+    "retrieved_at_utc": "2026-10-10T19:33:36.360831+00:00",
+    "registered_at_utc": "2026-10-10T19:33:36.360850+00:00",
+    "sha256": "0bc421d54293b01d18e38e062829aae01985e5017fb5e42d3ccfc8f35531e638",
+    "bytes": 2665,
+    "evidence_type": "primary_public_source"
+  },
+  "meta_2025_environmental_data_index.pdf": {
+    "url": "https://sustainability.atmeta.com/asset/2025-environmental-data-index/",
+    "resolved_url": "https://sustainability.atmeta.com/wp-content/uploads/2025/10/Meta_2025-Environmental-Data-Index.pdf",
+    "retrieved_at_utc": "2026-10-10T19:38:57.970694+00:00",
+    "registered_at_utc": "2026-10-10T19:38:57.970723+00:00",
+    "sha256": "d7527cd23308869105b404b486117603bb3f5ee10e30499367f8698110afb66d",
+    "bytes": 2266742,
+    "evidence_type": "primary_public_source"
+  },
+  "dalles_water_master_plan_2024.pdf": {
+    "url": "https://cms8.revize.com/revize/dallesor/departments/public%20works/master%20plans/cotd-water-system-master-plan-update-nov-2024-final.pdf",
+    "resolved_url": "https://cms8.revize.com/revize/dallesor/departments/public%20works/master%20plans/cotd-water-system-master-plan-update-nov-2024-final.pdf",
+    "retrieved_at_utc": "2026-10-10T21:59:24.310333+00:00",
+    "registered_at_utc": "2026-10-10T21:59:24.310358+00:00",
+    "sha256": "00daa44d05c74975f316d7b3c0f148387b52047d20398d79de7259bf958cf639",
+    "bytes": 99941253,
+    "evidence_type": "primary_public_source"
+  },
+  "nwascopud_annual_2024.pdf": {
+    "url": "https://www.nwascopud.org/wp-content/uploads/2024-NWCPUD-Annual-Report_Web.pdf",
+    "resolved_url": "https://www.nwascopud.org/wp-content/uploads/2024-NWCPUD-Annual-Report_Web.pdf",
+    "retrieved_at_utc": "2026-10-10T22:01:10.589025+00:00",
+    "registered_at_utc": "2026-10-10T22:01:10.589056+00:00",
+    "sha256": "5990ccdad3e54f0abd3bc563df94cd855e00bb3d0cc4739c1e09342ea83336d6",
+    "bytes": 9849787,
+    "evidence_type": "primary_public_source"
+  },
+  "dalles_city_statement_2026.pdf": {
+    "url": "https://www.portofthedalles.gov/files/44f4ca9fb/POTD%2BCommission%2BRegular%2BSession%2BMeeting%2BPacket_02-18-2026.pdf",
+    "resolved_url": "https://www.portofthedalles.gov/files/44f4ca9fb/POTD%2BCommission%2BRegular%2BSession%2BMeeting%2BPacket_02-18-2026.pdf",
+    "retrieved_at_utc": "2026-10-10T22:01:11.754605+00:00",
+    "registered_at_utc": "2026-10-10T22:01:11.754646+00:00",
+    "sha256": "c48575c97fa4c6fbae9139f4bc1cb2febabe0de82aad1618fac70fe2b6a12565",
+    "bytes": 2918042,
+    "evidence_type": "primary_public_source"
+  },
+  "dalles_city_water_via_opb.jpg": {
+    "url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/IO55GDK2EBDTXLPWN7UXNYXD7E.jpg?auth=fe7a2c6dfe03ab1f16a6897bd1a1ebc41398eb0fd0b5fe8b23a9239b7565c9c9&width=2000",
+    "resolved_url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/IO55GDK2EBDTXLPWN7UXNYXD7E.jpg?auth=fe7a2c6dfe03ab1f16a6897bd1a1ebc41398eb0fd0b5fe8b23a9239b7565c9c9&width=2000",
+    "retrieved_at_utc": "2026-10-10T22:09:54.304649+00:00",
+    "registered_at_utc": "2026-10-10T22:09:54.304678+00:00",
+    "sha256": "0403227a9ab4fe41bf0628767167a844478c396022038089b236a27cc1815554",
+    "bytes": 198402,
+    "evidence_type": "primary_record_reproduced_by_news_outlet"
+  },
+  "opb_dalles_records_context.html": {
+    "url": "https://www.opb.org/article/2026/01/23/the-dalles-mayor-data-center-google/",
+    "resolved_url": "https://www.opb.org/article/2026/01/23/the-dalles-mayor-data-center-google/",
+    "retrieved_at_utc": "2026-10-10T22:09:54.900441+00:00",
+    "registered_at_utc": "2026-10-10T22:09:54.900463+00:00",
+    "sha256": "2b7c85642c487981bde689d72b352dc6bd3e8a1def98efa883cd2502fb502a2a",
+    "bytes": 314934,
+    "evidence_type": "secondary_provenance_context"
+  },
+  "nwascopud_transmission_comments_2025.pdf": {
+    "url": "https://www.bpa.gov/-/media/Aep/transmission/nt-service/Northern-Wasco-County-PUD-NITS-Access-to-Tx-Capacity-Comments.pdf",
+    "resolved_url": "https://www.bpa.gov/-/media/Aep/transmission/nt-service/Northern-Wasco-County-PUD-NITS-Access-to-Tx-Capacity-Comments.pdf",
+    "retrieved_at_utc": "2026-10-10T22:09:55.561911+00:00",
+    "registered_at_utc": "2026-10-10T22:09:55.561948+00:00",
+    "sha256": "4019dcbc560d531ac51674c31f3dd9f924d6ed066f52ba783c6a9831b94f5bcd",
+    "bytes": 67069,
+    "evidence_type": "primary_public_source"
+  },
+  "google_ai_measurement_2025.pdf": {
+    "url": "https://arxiv.org/pdf/2508.15734",
+    "resolved_url": "https://arxiv.org/pdf/2508.15734",
+    "retrieved_at_utc": "2026-10-10T22:09:56.028203+00:00",
+    "registered_at_utc": "2026-10-10T22:09:56.028233+00:00",
+    "sha256": "348b58c832076258e1792a710fab3f0ac60f02001857532a7136771b52b30339",
+    "bytes": 687599,
+    "evidence_type": "primary_public_source"
+  },
+  "deepmind_cooling_2018.html": {
+    "url": "https://deepmind.google/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/",
+    "resolved_url": "https://deepmind.google/blog/safety-first-ai-for-autonomous-data-centre-cooling-and-industrial-control/",
+    "retrieved_at_utc": "2026-10-10T22:09:56.981585+00:00",
+    "registered_at_utc": "2026-10-10T22:09:56.981618+00:00",
+    "sha256": "0b40d0734f737c811fb712735fa99d5d95ca7e96743f6f9d5d239a106b4a9f94",
+    "bytes": 150256,
+    "evidence_type": "primary_public_source"
+  },
+  "doe_thermosyphon_2019.pdf": {
+    "url": "https://www.energy.gov/sites/default/files/2019/05/f63/data-center-water-efficiency-0.pdf",
+    "resolved_url": "https://www.energy.gov/sites/default/files/2019/05/f63/data-center-water-efficiency-0.pdf",
+    "retrieved_at_utc": "2026-10-10T22:12:40.981638+00:00",
+    "registered_at_utc": "2026-10-10T22:12:40.981675+00:00",
+    "sha256": "fc7091cb9c8e7dc37de9923ce4191682813008760508b44a0ef85d286625f1a8",
+    "bytes": 305133,
+    "evidence_type": "primary_public_source"
+  },
+  "cec_liquid_cooling_2024.pdf": {
+    "url": "https://www.energy.ca.gov/sites/default/files/2024-06/CEC-500-2024-061.pdf",
+    "resolved_url": "https://www.energy.ca.gov/sites/default/files/2024-06/CEC-500-2024-061.pdf",
+    "retrieved_at_utc": "2026-10-10T22:12:43.215154+00:00",
+    "registered_at_utc": "2026-10-10T22:12:43.215195+00:00",
+    "sha256": "0426a3b198720e75b12f505bad9ac7733198fa6f3932f79a4377aeeb32697f0e",
+    "bytes": 1922706,
+    "evidence_type": "primary_public_source"
+  },
+  "han_peak_water_2026.html": {
+    "url": "https://arxiv.org/html/2603.02705v1",
+    "resolved_url": "https://arxiv.org/html/2603.02705v1",
+    "retrieved_at_utc": "2026-10-10T22:16:34.157879+00:00",
+    "registered_at_utc": "2026-10-10T22:16:34.157895+00:00",
+    "sha256": "e4f5b6dfc5880be00d049d80e00d8ec721c9b3631e660f7fbde2ec8fd6fefa6c",
+    "bytes": 781844,
+    "evidence_type": "primary_public_source"
+  },
+  "beyond_pue_2026.html": {
+    "url": "https://arxiv.org/html/2609.23421v1",
+    "resolved_url": "https://arxiv.org/html/2609.23421v1",
+    "retrieved_at_utc": "2026-10-10T22:16:34.291543+00:00",
+    "registered_at_utc": "2026-10-10T22:16:34.291562+00:00",
+    "sha256": "838c3c3bceffb3fa0a60b76a7177cdec94435ca18a195cf3a1343715ea9508fc",
+    "bytes": 114770,
+    "evidence_type": "primary_public_source"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "location_labels": 15,
+  "location_year_rows": 75,
+  "complete_electricity_withdrawal_carbon_rows": 61,
+  "complete_rows_by_year": {
+    "2020": 8,
+    "2021": 12,
+    "2022": 13,
+    "2023": 13,
+    "2024": 15
+  },
+  "years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "source_missing_marker": "Dash retained as missing, never replaced with zero.",
+  "limitations": [
+    "Annual site electricity and withdrawal available; site consumptive water is not disclosed in the selected table.",
+    "Meta WUE is withdrawal per IT kWh; derived panel intensity is withdrawal per facility kWh, not WUE.",
+    "Scope 2 location-based emissions are accounting disclosures, not an independent causal grid model.",
+    "Market-based zeros do not imply zero physical grid emissions.",
+    "Historical disclosures are revised; publication-vintage reconstruction is not available.",
+    "Reported values are rounded and may include estimates; AI workload shares are unknown.",
+    "No direct facility identity or water-source join to the Google sample is implied."
+  ]
+}

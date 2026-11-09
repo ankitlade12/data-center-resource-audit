@@ -1,0 +1,10 @@
+{
+  "year": 2024,
+  "locations": 15,
+  "electricity_mwh": 12775115.0,
+  "withdrawal_m3": 2365000.0,
+  "scope2_location_tco2e": 4520184.0,
+  "weighted_withdrawal_l_per_facility_kwh": 0.1851255350734612,
+  "weighted_carbon_kg_per_kwh": 0.35382726496004147,
+  "meaning": "Selected disclosed U.S. sites; no AI attribution, independent emissions validation or national extrapolation."
+}

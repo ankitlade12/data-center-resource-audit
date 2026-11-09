@@ -1,0 +1,3 @@
+method,baseline,n,campuses,delta_mae,low,high
+last_quarter,same_quarter_previous_year,64,16,0.009531249999999993,0.0040625,0.014691406249999968
+previous_year_unweighted_mean,same_quarter_previous_year,64,16,0.009999999999999957,0.006171874999999957,0.014609374999999938

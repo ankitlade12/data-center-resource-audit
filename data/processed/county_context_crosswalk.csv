@@ -1,0 +1,8 @@
+county_label,county_fips,state,county_latitude,county_longitude,spatial_support,coordinate_source
+"Jackson County, Alabama",01071,AL,34.764114,-85.980056,county_representative_point_not_facility_coordinate,census_counties_2025.zip
+"Douglas County, Georgia",13097,GA,33.701242,-84.767314,county_representative_point_not_facility_coordinate,census_counties_2025.zip
+"Storey County, Nevada",32029,NV,39.438385,-119.524646,county_representative_point_not_facility_coordinate,census_counties_2025.zip
+"Mayes County, Oklahoma",40097,OK,36.303804,-95.235638,county_representative_point_not_facility_coordinate,census_counties_2025.zip
+"Berkeley County, South Carolina",45015,SC,33.2077,-79.953655,county_representative_point_not_facility_coordinate,census_counties_2025.zip
+"Montgomery County, Tennessee",47125,TN,36.500354,-87.380887,county_representative_point_not_facility_coordinate,census_counties_2025.zip
+"Loudoun County, Virginia",51107,VA,39.0812,-77.638898,county_representative_point_not_facility_coordinate,census_counties_2025.zip

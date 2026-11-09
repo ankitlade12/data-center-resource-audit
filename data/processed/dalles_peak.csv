@@ -1,0 +1,7 @@
+year,maximum_mgd,existing_wells_mgd,proposed_wells_mgd,treatment_mgd,total_mgd,published_margin_mgd,computed_margin_mgd,rounding_residual_mgd,source_file,pdf_page
+2024,9.28,4.68,3.88,5.31,13.87,4.59,4.59,0.0,dalles_water_master_plan_2024.pdf,49
+2029,12.08,4.68,3.88,5.31,13.87,1.79,1.7899999999999991,8.881784197001252e-16,dalles_water_master_plan_2024.pdf,49
+2034,14.9,4.68,3.88,5.31,13.87,-1.02,-1.0300000000000011,0.010000000000001119,dalles_water_master_plan_2024.pdf,49
+2039,15.26,4.68,3.88,5.31,13.87,-1.38,-1.3900000000000006,0.010000000000000675,dalles_water_master_plan_2024.pdf,49
+2044,15.63,4.68,3.88,5.31,13.87,-1.75,-1.7600000000000016,0.010000000000001563,dalles_water_master_plan_2024.pdf,49
+2074,19.4,4.68,3.88,5.31,13.87,-5.53,-5.529999999999999,-8.881784197001252e-16,dalles_water_master_plan_2024.pdf,49

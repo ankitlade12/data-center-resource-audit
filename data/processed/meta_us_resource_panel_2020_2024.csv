@@ -1,0 +1,76 @@
+operator,location_name,year,electricity_mwh,withdrawal_megaliters,withdrawal_m3,scope2_location_tco2e,scope2_market_tco2e,withdrawal_l_per_facility_kwh,implied_scope2_kg_per_kwh,direct_consumption_m3,evidence_type,source_file,electricity_pdf_page,water_pdf_page,carbon_pdf_page,methodology_pdf_page
+Meta,Altoona (IA),2020,980000.0,151.0,151000.0,555000.0,,0.1540816326530612,0.5663265306122449,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Altoona (IA),2021,950705.0,140.0,140000.0,425377.0,,0.14725913927033096,0.4474332206099684,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Altoona (IA),2022,1043606.0,199.0,199000.0,474826.0,,0.1906849903124359,0.45498588547785274,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Altoona (IA),2023,1243306.0,173.0,173000.0,532158.0,,0.1391451501078576,0.4280185248040305,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Altoona (IA),2024,1585392.0,242.0,242000.0,666434.0,0.0,0.15264363640033507,0.42035912884636734,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,DeKalb (IL),2020,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,DeKalb (IL),2021,4724.0,0.0,0.0,2122.0,,0.0,0.44919559695173583,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,DeKalb (IL),2022,16934.0,30.0,30000.0,8087.0,,1.7715837959135468,0.4775599385850951,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,DeKalb (IL),2023,138965.0,55.0,55000.0,63407.0,,0.3957831108552513,0.45628035836361674,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,DeKalb (IL),2024,372339.0,105.0,105000.0,154732.0,0.0,0.2820010796612764,0.41556753388712975,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Eagle Mountain (UT),2020,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Eagle Mountain (UT),2021,229946.0,58.0,58000.0,62962.0,,0.2522331329964426,0.2738121124090004,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Eagle Mountain (UT),2022,504049.0,89.0,89000.0,145985.0,,0.1765701350463943,0.28962461982862775,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Eagle Mountain (UT),2023,787740.0,87.0,87000.0,216510.0,,0.11044253179983243,0.2748495696549623,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Eagle Mountain (UT),2024,1115619.0,133.0,133000.0,321585.0,0.0,0.11921632743795149,0.28825701247468893,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Forest City (NC),2020,595000.0,68.0,68000.0,202000.0,,0.11428571428571428,0.33949579831932775,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Forest City (NC),2021,580842.0,64.0,64000.0,165026.0,,0.11018486955144428,0.28411512941557254,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Forest City (NC),2022,492786.0,63.0,63000.0,143754.0,,0.12784454103809767,0.2917168913077888,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Forest City (NC),2023,507068.0,55.0,55000.0,144050.0,,0.10846671452349586,0.2840841859474469,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Forest City (NC),2024,535555.0,16.0,16000.0,144104.0,0.0,0.02987554966343326,0.26907413804371166,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Fort Worth (TX),2020,941000.0,300.0,300000.0,399000.0,,0.3188097768331562,0.42401700318809776,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Fort Worth (TX),2021,1014447.0,254.0,254000.0,378198.0,,0.2503827208321381,0.37281198524910614,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Fort Worth (TX),2022,959419.0,346.0,346000.0,355696.0,,0.36063492592913005,0.3707410422349359,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Fort Worth (TX),2023,1029570.0,404.0,404000.0,361674.0,,0.3923968258593393,0.35128645939567005,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Fort Worth (TX),2024,1109004.0,311.0,311000.0,372728.0,0.0,0.28043181088616453,0.3360925659420525,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Gallatin (TN),2020,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Gallatin (TN),2021,0.0,0.0,0.0,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Gallatin (TN),2022,6264.0,0.0,0.0,2664.0,,0.0,0.42528735632183906,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Gallatin (TN),2023,116520.0,3.0,3000.0,49617.0,,0.025746652935118436,0.4258238928939238,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Gallatin (TN),2024,359730.0,205.0,205000.0,147025.0,0.0,0.5698718483306925,0.40870930976009784,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Henrico (VA),2020,204000.0,42.0,42000.0,69000.0,,0.20588235294117646,0.3382352941176471,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Henrico (VA),2021,515270.0,80.0,80000.0,146396.0,,0.1552584082131698,0.2841151241096901,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Henrico (VA),2022,701003.0,55.0,55000.0,204494.0,,0.07845900802136367,0.29171629793310444,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Henrico (VA),2023,805061.0,42.0,42000.0,228705.0,,0.052169959791866706,0.2840840631952113,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Henrico (VA),2024,948859.0,92.0,92000.0,255314.0,0.0,0.09695855759391016,0.2690747518862128,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Huntsville (AL),2020,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Huntsville (AL),2021,85286.0,39.0,39000.0,32464.0,,0.4572849002180897,0.3806486410430786,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Huntsville (AL),2022,368841.0,104.0,104000.0,156885.0,,0.2819643152469492,0.42534588074536184,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Huntsville (AL),2023,614198.0,152.0,152000.0,261541.0,,0.2474771979068639,0.42582522248525717,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Huntsville (AL),2024,865803.0,209.0,209000.0,353862.0,0.0,0.24139440496279177,0.4087096025308298,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Kansas City (MO),2020,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Kansas City (MO),2021,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Kansas City (MO),2022,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Kansas City (MO),2023,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Kansas City (MO),2024,22963.0,41.0,41000.0,12993.0,0.0,1.7854809911596916,0.5658232809301921,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Los Lunas (NM),2020,571000.0,140.0,140000.0,266000.0,,0.24518388791593695,0.4658493870402802,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Los Lunas (NM),2021,717932.0,153.0,153000.0,276795.0,,0.2131121053247383,0.3855448705448427,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Los Lunas (NM),2022,929488.0,161.0,161000.0,347033.0,,0.17321364019761418,0.37335931179315923,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Los Lunas (NM),2023,1110100.0,283.0,283000.0,392487.0,,0.25493198810917933,0.3535600396360688,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Los Lunas (NM),2024,1143067.0,252.0,252000.0,385582.0,0.0,0.22045951812098502,0.33732230919097483,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Mesa (AZ),2020,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Mesa (AZ),2021,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Mesa (AZ),2022,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Mesa (AZ),2023,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Mesa (AZ),2024,24657.0,57.0,57000.0,8317.0,0.0,2.3117167538630006,0.3373078638926066,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,New Albany (OH),2020,270000.0,35.0,35000.0,157000.0,,0.12962962962962962,0.5814814814814815,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,New Albany (OH),2021,511414.0,121.0,121000.0,229785.0,,0.23659891985749315,0.44931308098722367,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,New Albany (OH),2022,702694.0,87.0,87000.0,335561.0,,0.12380922563733289,0.4775350294722881,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,New Albany (OH),2023,793063.0,72.0,72000.0,361857.0,,0.09078723884483327,0.4562777484260393,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,New Albany (OH),2024,521217.0,86.0,86000.0,216600.0,0.0,0.1649984555377127,0.4155658775519601,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Prineville (OR),2020,686000.0,445.0,445000.0,200000.0,,0.6486880466472303,0.2915451895043732,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Prineville (OR),2021,898409.0,354.0,354000.0,245996.0,,0.39402989061774757,0.27381292930057466,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Prineville (OR),2022,982177.0,240.0,240000.0,284462.0,,0.24435514169034706,0.2896239679813313,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Prineville (OR),2023,1375321.0,180.0,180000.0,378007.0,,0.13087853671979124,0.27485001683243404,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Prineville (OR),2024,1728291.0,328.0,328000.0,498192.0,0.0,0.18978285485488267,0.2882570122739747,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Sarpy (NE),2020,519000.0,108.0,108000.0,294000.0,,0.20809248554913296,0.5664739884393064,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Sarpy (NE),2021,736810.0,106.0,106000.0,329674.0,,0.14386341119148763,0.44743420963341973,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Sarpy (NE),2022,1007635.0,101.0,101000.0,458460.0,,0.10023470800438651,0.45498618051179246,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Sarpy (NE),2023,1148091.0,123.0,123000.0,491404.0,,0.10713436478467299,0.428018336525589,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Sarpy (NE),2024,1258239.0,142.0,142000.0,528913.0,0.0,0.11285614259294141,0.4203597249807072,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Stanton Springs (GA),2020,,,,,,,,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Stanton Springs (GA),2021,215279.0,105.0,105000.0,84402.0,,0.48773916638408765,0.39205867734428346,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Stanton Springs (GA),2022,636266.0,77.0,77000.0,258773.0,,0.12101856770595945,0.4067056859866785,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Stanton Springs (GA),2023,968565.0,61.0,61000.0,394369.0,,0.06297976903976502,0.40716833666300145,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18
+Meta,Stanton Springs (GA),2024,1184380.0,146.0,146000.0,453803.0,0.0,0.12327124740370489,0.3831565882571472,,operator_reported_including_estimates,meta_2025_environmental_data_index.pdf,6,9,4,18

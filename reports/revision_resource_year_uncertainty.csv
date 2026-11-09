@@ -1,0 +1,13 @@
+year,operator,target,method,baseline,delta_mae,states,low,high
+2023,Meta,electricity_mwh,nonnegative_linear_trend,persistence,-72963.69230769231,13,-137230.26346153847,-14785.676923076971
+2023,Meta,electricity_mwh,other_state_median_growth,persistence,-35074.40179501488,13,-111933.04977431406,39690.36896447187
+2023,Meta,withdrawal_m3,nonnegative_linear_trend,persistence,307.6923076923077,13,-10461.538461538461,12923.076923076924
+2023,Meta,withdrawal_m3,other_state_median_growth,persistence,456.0264977423016,13,-1215.9043358262063,2420.683943365987
+2024,Google,consumption_m3,nonnegative_linear_trend,persistence,-23658.82364999994,13,-115910.79595213791,62942.565340424146
+2024,Google,consumption_m3,other_state_median_growth,persistence,50144.615983574375,13,-37127.911731225955,168253.6471810721
+2024,Meta,electricity_mwh,nonnegative_linear_trend,persistence,-110495.84615384616,13,-176998.62115384615,-41653.98076923084
+2024,Meta,electricity_mwh,other_state_median_growth,persistence,-9151.018926518795,13,-109886.6407564632,96684.72735433905
+2024,Meta,withdrawal_m3,nonnegative_linear_trend,persistence,16307.692307692309,13,-3924.9999999999995,41000.0
+2024,Meta,withdrawal_m3,other_state_median_growth,persistence,-142.4947630400493,13,-3898.167665617633,3025.584850623256
+2025,Google,consumption_m3,nonnegative_linear_trend,persistence,-82395.79649839993,13,-203598.3728024399,17494.50588188612
+2025,Google,consumption_m3,other_state_median_growth,persistence,-141675.56438607158,13,-286136.36003517336,-26799.718038988303

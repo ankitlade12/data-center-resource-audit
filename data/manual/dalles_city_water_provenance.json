@@ -1,0 +1,22 @@
+{
+  "source_file": "dalles_city_water_via_opb.jpg",
+  "source_sha256": "0403227a9ab4fe41bf0628767167a844478c396022038089b236a27cc1815554",
+  "source_url": "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/IO55GDK2EBDTXLPWN7UXNYXD7E.jpg?auth=fe7a2c6dfe03ab1f16a6897bd1a1ebc41398eb0fd0b5fe8b23a9239b7565c9c9&width=2000",
+  "context_file": "opb_dalles_records_context.html",
+  "source_author": "City of The Dalles",
+  "source_title": "Google and City Water Consumption (gallons)",
+  "source_as_of": "2025-01-10",
+  "release_date_reported_by_opb": "2025-12-24",
+  "extraction": "Manual transcription checked against displayed source image; no second human transcription review.",
+  "temporal_support": "Calendar year",
+  "boundary": "City-reported Google use; source labels it consumption, but it is not established as hydrologic consumption net of discharge.",
+  "unit": "US gallons",
+  "missing_metadata": [
+    "meter account list",
+    "buildings/campuses included",
+    "billing adjustment rules",
+    "independent meter audit",
+    "monthly records"
+  ],
+  "candidate_join": "The Dalles, OR operator location; reporting boundary reconciliation pending"
+}

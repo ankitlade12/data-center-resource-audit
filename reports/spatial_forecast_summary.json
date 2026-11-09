@@ -1,0 +1,68 @@
+{
+  "comparisons": [
+    {
+      "mode": "forward_year",
+      "model": "geo_climate_ridge",
+      "baseline": "same_quarter_previous_year",
+      "paired_observations": 116,
+      "counties": 7,
+      "mae_difference": 0.003796000873676115,
+      "bootstrap_95_low": 0.0010232283889751125,
+      "bootstrap_95_high": 0.006470664074149297,
+      "meaning": "Negative favors model. Exploratory county-cluster interval; not population-level evidence."
+    },
+    {
+      "mode": "heldout_county_forward_year",
+      "model": "geo_climate_ridge",
+      "baseline": "seasonal_trend_ridge",
+      "paired_observations": 64,
+      "counties": 7,
+      "mae_difference": -0.0043829161792131935,
+      "bootstrap_95_low": -0.0141759707171679,
+      "bootstrap_95_high": 0.005670326340308438,
+      "meaning": "Negative favors model. Exploratory county-cluster interval; not population-level evidence."
+    }
+  ],
+  "interpretation": "Exploratory efficiency forecasting only. Temporal and spatial tasks have different baselines. Weather features use historical normals, not observed future weather. No causal or resource-stress claim.",
+  "config": {
+    "status": "exploratory_protocol_recorded_before_running_geo_climate_comparison",
+    "note": "The original 2025 baseline results were already seen. This is not preregistration or an untouched final test.",
+    "target": "operator-reported quarterly PUE; not electricity, water or resource stress",
+    "temporal_target_years": [
+      2021,
+      2022,
+      2023,
+      2024,
+      2025
+    ],
+    "spatial_target_years": [
+      2024,
+      2025
+    ],
+    "ridge_penalty": 1.0,
+    "climate_normal_lookback_years": 3,
+    "models": {
+      "seasonal_trend_ridge": [
+        "year",
+        "quarter_2",
+        "quarter_3",
+        "quarter_4"
+      ],
+      "geo_climate_ridge": [
+        "year",
+        "quarter_2",
+        "quarter_3",
+        "quarter_4",
+        "county_latitude",
+        "county_longitude",
+        "prior_temperature_c",
+        "prior_precipitation_mm"
+      ]
+    },
+    "test_weather": "Only county climate from years before the target year is used, never realized target-year weather.",
+    "availability_assumption": "Historical hindcast assumes preceding-year PUE is available at the nominal origin. Actual publication timestamps and reporting delays are not reconstructed.",
+    "spatial_holdout": "Remove all PUE observations from the test county, including both Loudoun campus labels, before fitting.",
+    "uncertainty": "Paired county-cluster bootstrap of mean absolute error differences; 2000 draws, seed 20261010. Seven counties are too few for broad population inference.",
+    "claim_gate": "No model superiority, AI-only impact or future stress claim from this exploratory pilot alone."
+  }
+}

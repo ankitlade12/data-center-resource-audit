@@ -1,0 +1,194 @@
+{
+  "metrics": [
+    {
+      "operator": "Google",
+      "target": "consumption_m3",
+      "method": "nonnegative_linear_trend",
+      "observations": 34,
+      "locations": 18,
+      "states": 13,
+      "mae": 266136.71554334124,
+      "rmse": 395877.45009305095,
+      "wape": 0.17519532108881436
+    },
+    {
+      "operator": "Google",
+      "target": "consumption_m3",
+      "method": "other_state_median_growth",
+      "observations": 34,
+      "locations": 18,
+      "states": 13,
+      "mae": 269484.3394303736,
+      "rmse": 430839.8720462707,
+      "wape": 0.17739903071443236
+    },
+    {
+      "operator": "Google",
+      "target": "consumption_m3",
+      "method": "persistence",
+      "observations": 34,
+      "locations": 18,
+      "states": 13,
+      "mae": 320891.58364249405,
+      "rmse": 531134.0366051262,
+      "wape": 0.21123994078069802
+    },
+    {
+      "operator": "Meta",
+      "target": "electricity_mwh",
+      "method": "nonnegative_linear_trend",
+      "observations": 26,
+      "locations": 13,
+      "states": 13,
+      "mae": 97501.96153846153,
+      "rmse": 127651.54436846366,
+      "wape": 0.10849750330225945
+    },
+    {
+      "operator": "Meta",
+      "target": "electricity_mwh",
+      "method": "other_state_median_growth",
+      "observations": 26,
+      "locations": 13,
+      "states": 13,
+      "mae": 167119.02040846396,
+      "rmse": 195345.2230567101,
+      "wape": 0.18596545323331945
+    },
+    {
+      "operator": "Meta",
+      "target": "electricity_mwh",
+      "method": "persistence",
+      "observations": 26,
+      "locations": 13,
+      "states": 13,
+      "mae": 189231.73076923078,
+      "rmse": 218085.3442766598,
+      "wape": 0.2105718696328788
+    },
+    {
+      "operator": "Meta",
+      "target": "withdrawal_m3",
+      "method": "nonnegative_linear_trend",
+      "observations": 26,
+      "locations": 13,
+      "states": 13,
+      "mae": 59115.38461538462,
+      "rmse": 84175.41208690338,
+      "wape": 0.3884255749305029
+    },
+    {
+      "operator": "Meta",
+      "target": "withdrawal_m3",
+      "method": "other_state_median_growth",
+      "observations": 26,
+      "locations": 13,
+      "states": 13,
+      "mae": 50964.45817504343,
+      "rmse": 69623.84233133734,
+      "wape": 0.3348688179305356
+    },
+    {
+      "operator": "Meta",
+      "target": "withdrawal_m3",
+      "method": "persistence",
+      "observations": 26,
+      "locations": 13,
+      "states": 13,
+      "mae": 50807.692307692305,
+      "rmse": 68895.4056746669,
+      "wape": 0.3338387667424817
+    }
+  ],
+  "comparisons": [
+    {
+      "operator": "Google",
+      "target": "consumption_m3",
+      "method": "nonnegative_linear_trend",
+      "baseline": "persistence",
+      "delta_mae": -54754.868099152874,
+      "states": 13,
+      "low": -154743.16484100826,
+      "high": 20614.899559592133
+    },
+    {
+      "operator": "Google",
+      "target": "consumption_m3",
+      "method": "other_state_median_growth",
+      "baseline": "persistence",
+      "delta_mae": -51407.24421212054,
+      "states": 13,
+      "low": -108322.62747915529,
+      "high": 10472.060365452973
+    },
+    {
+      "operator": "Meta",
+      "target": "electricity_mwh",
+      "method": "nonnegative_linear_trend",
+      "baseline": "persistence",
+      "delta_mae": -91729.76923076923,
+      "states": 13,
+      "low": -147018.15,
+      "high": -39023.1875
+    },
+    {
+      "operator": "Meta",
+      "target": "electricity_mwh",
+      "method": "other_state_median_growth",
+      "baseline": "persistence",
+      "delta_mae": -22112.710360766836,
+      "states": 13,
+      "low": -104464.29977196535,
+      "high": 61793.43945474853
+    },
+    {
+      "operator": "Meta",
+      "target": "withdrawal_m3",
+      "method": "nonnegative_linear_trend",
+      "baseline": "persistence",
+      "delta_mae": 8307.692307692309,
+      "states": 13,
+      "low": -4424.038461538461,
+      "high": 21695.19230769229
+    },
+    {
+      "operator": "Meta",
+      "target": "withdrawal_m3",
+      "method": "other_state_median_growth",
+      "baseline": "persistence",
+      "delta_mae": 156.7658673511259,
+      "states": 13,
+      "low": -1070.8725237029814,
+      "high": 1431.8857781710024
+    }
+  ],
+  "config": {
+    "status": "exploratory specification written before resource-target evaluation",
+    "targets": [
+      "Meta electricity_mwh",
+      "Meta withdrawal_m3",
+      "Google consumption_m3"
+    ],
+    "target_years": {
+      "Meta": [
+        2023,
+        2024
+      ],
+      "Google": [
+        2024,
+        2025
+      ]
+    },
+    "methods": [
+      "persistence",
+      "nonnegative_linear_trend",
+      "other_state_median_growth"
+    ],
+    "growth_training": "Prior observed one-year ratios only; exclude every site in target state; prior value must be positive. No target-year outcomes.",
+    "task": "Existing-location annual demand, with regional transfer of a growth parameter. Target-site lag is available. This is not new-site or cold-start forecasting.",
+    "minimum_prior_years": 2,
+    "uncertainty": "2000 paired state-cluster bootstrap draws; seed 20261010; exploratory intervals, not calibrated forecast intervals.",
+    "availability": "Current report snapshots, not historical publication vintages. Prior-year disclosure assumed available; operational publication lag is not reconstructed.",
+    "independence": "Observed operator disclosures, not labels generated from PUE/WUE. Not independent meter or utility validation."
+  }
+}

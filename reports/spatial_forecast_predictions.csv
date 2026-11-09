@@ -1,0 +1,477 @@
+mode,model,target_year,campus_name,county_fips,quarter,observed_pue,predicted_pue,heldout_county,training_rows,training_end_year,climate_feature_latest_year,absolute_error
+forward_year,seasonal_trend_ridge,2021,"Douglas County, Georgia",13097,1,1.08,1.1167173983800511,,30,2020,2020,0.03671739838005106
+forward_year,seasonal_trend_ridge,2021,"Douglas County, Georgia",13097,2,1.09,1.1496197289677206,,30,2020,2020,0.0596197289677205
+forward_year,seasonal_trend_ridge,2021,"Douglas County, Georgia",13097,3,1.12,1.1801240673625142,,30,2020,2020,0.06012406736251408
+forward_year,seasonal_trend_ridge,2021,"Douglas County, Georgia",13097,4,1.08,1.1166750435013433,,30,2020,2020,0.03667504350134321
+forward_year,seasonal_trend_ridge,2021,"Mayes County, Oklahoma",40097,1,1.08,1.1167173983800511,,30,2020,2020,0.03671739838005106
+forward_year,seasonal_trend_ridge,2021,"Mayes County, Oklahoma",40097,2,1.11,1.1496197289677206,,30,2020,2020,0.03961972896772048
+forward_year,seasonal_trend_ridge,2021,"Mayes County, Oklahoma",40097,3,1.14,1.1801240673625142,,30,2020,2020,0.04012406736251428
+forward_year,seasonal_trend_ridge,2021,"Mayes County, Oklahoma",40097,4,1.08,1.1166750435013433,,30,2020,2020,0.03667504350134321
+forward_year,geo_climate_ridge,2021,"Douglas County, Georgia",13097,1,1.08,1.1109820064359266,,30,2020,2020,0.030982006435926523
+forward_year,geo_climate_ridge,2021,"Douglas County, Georgia",13097,2,1.09,1.1368934205378098,,30,2020,2020,0.04689342053780976
+forward_year,geo_climate_ridge,2021,"Douglas County, Georgia",13097,3,1.12,1.1692758399872027,,30,2020,2020,0.04927583998720264
+forward_year,geo_climate_ridge,2021,"Douglas County, Georgia",13097,4,1.08,1.1076283105616567,,30,2020,2020,0.0276283105616566
+forward_year,geo_climate_ridge,2021,"Mayes County, Oklahoma",40097,1,1.08,1.0962856032128714,,30,2020,2020,0.016285603212871314
+forward_year,geo_climate_ridge,2021,"Mayes County, Oklahoma",40097,2,1.11,1.1301261803396125,,30,2020,2020,0.020126180339612443
+forward_year,geo_climate_ridge,2021,"Mayes County, Oklahoma",40097,3,1.14,1.1619763500640463,,30,2020,2020,0.021976350064046413
+forward_year,geo_climate_ridge,2021,"Mayes County, Oklahoma",40097,4,1.08,1.095003928712225,,30,2020,2020,0.015003928712225001
+forward_year,same_quarter_previous_year,2021,"Douglas County, Georgia",13097,1,1.08,1.09,,14,2020,2020,0.010000000000000009
+forward_year,same_quarter_previous_year,2021,"Douglas County, Georgia",13097,2,1.09,1.1,,14,2020,2020,0.010000000000000009
+forward_year,same_quarter_previous_year,2021,"Douglas County, Georgia",13097,3,1.12,1.13,,14,2020,2020,0.009999999999999787
+forward_year,same_quarter_previous_year,2021,"Douglas County, Georgia",13097,4,1.08,1.08,,14,2020,2020,0.0
+forward_year,same_quarter_previous_year,2021,"Mayes County, Oklahoma",40097,1,1.08,1.1,,14,2020,2020,0.020000000000000018
+forward_year,same_quarter_previous_year,2021,"Mayes County, Oklahoma",40097,2,1.11,1.12,,14,2020,2020,0.010000000000000009
+forward_year,same_quarter_previous_year,2021,"Mayes County, Oklahoma",40097,3,1.14,1.16,,14,2020,2020,0.020000000000000018
+forward_year,same_quarter_previous_year,2021,"Mayes County, Oklahoma",40097,4,1.08,1.1,,14,2020,2020,0.020000000000000018
+forward_year,seasonal_trend_ridge,2022,"Douglas County, Georgia",13097,1,1.08,1.0961456522590243,,54,2021,2021,0.0161456522590242
+forward_year,seasonal_trend_ridge,2022,"Douglas County, Georgia",13097,2,1.1,1.1222923093200614,,54,2021,2021,0.02229230932006132
+forward_year,seasonal_trend_ridge,2022,"Douglas County, Georgia",13097,3,1.12,1.1497724948990289,,54,2021,2021,0.02977249489902878
+forward_year,seasonal_trend_ridge,2022,"Douglas County, Georgia",13097,4,1.07,1.0934028834549927,,54,2021,2021,0.02340288345499264
+forward_year,seasonal_trend_ridge,2022,"Jackson County, Alabama",01071,1,1.1,1.0961456522590243,,54,2021,2021,0.0038543477409758164
+forward_year,seasonal_trend_ridge,2022,"Jackson County, Alabama",01071,2,1.12,1.1222923093200614,,54,2021,2021,0.002292309320061303
+forward_year,seasonal_trend_ridge,2022,"Jackson County, Alabama",01071,3,1.14,1.1497724948990289,,54,2021,2021,0.009772494899028983
+forward_year,seasonal_trend_ridge,2022,"Jackson County, Alabama",01071,4,1.1,1.0934028834549927,,54,2021,2021,0.0065971165450073865
+forward_year,seasonal_trend_ridge,2022,"Loudoun County, Virginia",51107,1,1.07,1.0961456522590243,,54,2021,2021,0.02614565225902421
+forward_year,seasonal_trend_ridge,2022,"Loudoun County, Virginia",51107,2,1.09,1.1222923093200614,,54,2021,2021,0.03229230932006133
+forward_year,seasonal_trend_ridge,2022,"Loudoun County, Virginia",51107,3,1.11,1.1497724948990289,,54,2021,2021,0.03977249489902879
+forward_year,seasonal_trend_ridge,2022,"Loudoun County, Virginia",51107,4,1.07,1.0934028834549927,,54,2021,2021,0.02340288345499264
+forward_year,seasonal_trend_ridge,2022,"Loudoun County, Virginia (2nd facility)",51107,1,1.08,1.0961456522590243,,54,2021,2021,0.0161456522590242
+forward_year,seasonal_trend_ridge,2022,"Loudoun County, Virginia (2nd facility)",51107,2,1.09,1.1222923093200614,,54,2021,2021,0.03229230932006133
+forward_year,seasonal_trend_ridge,2022,"Loudoun County, Virginia (2nd facility)",51107,3,1.11,1.1497724948990289,,54,2021,2021,0.03977249489902879
+forward_year,seasonal_trend_ridge,2022,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0934028834549927,,54,2021,2021,0.02340288345499264
+forward_year,seasonal_trend_ridge,2022,"Mayes County, Oklahoma",40097,1,1.08,1.0961456522590243,,54,2021,2021,0.0161456522590242
+forward_year,seasonal_trend_ridge,2022,"Mayes County, Oklahoma",40097,2,1.11,1.1222923093200614,,54,2021,2021,0.012292309320061312
+forward_year,seasonal_trend_ridge,2022,"Mayes County, Oklahoma",40097,3,1.13,1.1497724948990289,,54,2021,2021,0.01977249489902899
+forward_year,seasonal_trend_ridge,2022,"Mayes County, Oklahoma",40097,4,1.07,1.0934028834549927,,54,2021,2021,0.02340288345499264
+forward_year,seasonal_trend_ridge,2022,"Montgomery County, Tennessee",47125,1,1.11,1.0961456522590243,,54,2021,2021,0.013854347740975825
+forward_year,seasonal_trend_ridge,2022,"Montgomery County, Tennessee",47125,2,1.12,1.1222923093200614,,54,2021,2021,0.002292309320061303
+forward_year,seasonal_trend_ridge,2022,"Montgomery County, Tennessee",47125,3,1.14,1.1497724948990289,,54,2021,2021,0.009772494899028983
+forward_year,seasonal_trend_ridge,2022,"Montgomery County, Tennessee",47125,4,1.08,1.0934028834549927,,54,2021,2021,0.013402883454992631
+forward_year,geo_climate_ridge,2022,"Douglas County, Georgia",13097,1,1.08,1.0953021050348615,,54,2021,2021,0.015302105034861402
+forward_year,geo_climate_ridge,2022,"Douglas County, Georgia",13097,2,1.1,1.1152820371958665,,54,2021,2021,0.015282037195866405
+forward_year,geo_climate_ridge,2022,"Douglas County, Georgia",13097,3,1.12,1.146066710096014,,54,2021,2021,0.026066710096013912
+forward_year,geo_climate_ridge,2022,"Douglas County, Georgia",13097,4,1.07,1.0880236580561506,,54,2021,2021,0.018023658056150582
+forward_year,geo_climate_ridge,2022,"Jackson County, Alabama",01071,1,1.1,1.1003493980534702,,54,2021,2021,0.000349398053470118
+forward_year,geo_climate_ridge,2022,"Jackson County, Alabama",01071,2,1.12,1.116370442610828,,54,2021,2021,0.0036295573891720334
+forward_year,geo_climate_ridge,2022,"Jackson County, Alabama",01071,3,1.14,1.1459270927075953,,54,2021,2021,0.005927092707595394
+forward_year,geo_climate_ridge,2022,"Jackson County, Alabama",01071,4,1.1,1.090651931225135,,54,2021,2021,0.009348068774865048
+forward_year,geo_climate_ridge,2022,"Loudoun County, Virginia",51107,1,1.07,1.097952190934591,,54,2021,2021,0.027952190934591004
+forward_year,geo_climate_ridge,2022,"Loudoun County, Virginia",51107,2,1.09,1.1241788058244981,,54,2021,2021,0.03417880582449806
+forward_year,geo_climate_ridge,2022,"Loudoun County, Virginia",51107,3,1.11,1.1552201341226338,,54,2021,2021,0.045220134122633704
+forward_year,geo_climate_ridge,2022,"Loudoun County, Virginia",51107,4,1.07,1.095839786509265,,54,2021,2021,0.025839786509264995
+forward_year,geo_climate_ridge,2022,"Loudoun County, Virginia (2nd facility)",51107,1,1.08,1.097952190934591,,54,2021,2021,0.017952190934590995
+forward_year,geo_climate_ridge,2022,"Loudoun County, Virginia (2nd facility)",51107,2,1.09,1.1241788058244981,,54,2021,2021,0.03417880582449806
+forward_year,geo_climate_ridge,2022,"Loudoun County, Virginia (2nd facility)",51107,3,1.11,1.1552201341226338,,54,2021,2021,0.045220134122633704
+forward_year,geo_climate_ridge,2022,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.095839786509265,,54,2021,2021,0.025839786509264995
+forward_year,geo_climate_ridge,2022,"Mayes County, Oklahoma",40097,1,1.08,1.083941168922298,,54,2021,2021,0.0039411689222979
+forward_year,geo_climate_ridge,2022,"Mayes County, Oklahoma",40097,2,1.11,1.1170101678474147,,54,2021,2021,0.0070101678474145945
+forward_year,geo_climate_ridge,2022,"Mayes County, Oklahoma",40097,3,1.13,1.1405650864809111,,54,2021,2021,0.010565086480911257
+forward_year,geo_climate_ridge,2022,"Mayes County, Oklahoma",40097,4,1.07,1.082992948869019,,54,2021,2021,0.012992948869019028
+forward_year,geo_climate_ridge,2022,"Montgomery County, Tennessee",47125,1,1.11,1.094633108222378,,54,2021,2021,0.015366891777622183
+forward_year,geo_climate_ridge,2022,"Montgomery County, Tennessee",47125,2,1.12,1.1152313468989312,,54,2021,2021,0.004768653101068887
+forward_year,geo_climate_ridge,2022,"Montgomery County, Tennessee",47125,3,1.14,1.1466047737811649,,54,2021,2021,0.006604773781164974
+forward_year,geo_climate_ridge,2022,"Montgomery County, Tennessee",47125,4,1.08,1.0894242107529404,,54,2021,2021,0.00942421075294031
+forward_year,same_quarter_previous_year,2022,"Douglas County, Georgia",13097,1,1.08,1.08,,24,2021,2021,0.0
+forward_year,same_quarter_previous_year,2022,"Douglas County, Georgia",13097,2,1.1,1.09,,24,2021,2021,0.010000000000000009
+forward_year,same_quarter_previous_year,2022,"Douglas County, Georgia",13097,3,1.12,1.12,,24,2021,2021,0.0
+forward_year,same_quarter_previous_year,2022,"Douglas County, Georgia",13097,4,1.07,1.08,,24,2021,2021,0.010000000000000009
+forward_year,same_quarter_previous_year,2022,"Jackson County, Alabama",01071,1,1.1,1.11,,24,2021,2021,0.010000000000000009
+forward_year,same_quarter_previous_year,2022,"Jackson County, Alabama",01071,2,1.12,1.13,,24,2021,2021,0.009999999999999787
+forward_year,same_quarter_previous_year,2022,"Jackson County, Alabama",01071,3,1.14,1.15,,24,2021,2021,0.010000000000000009
+forward_year,same_quarter_previous_year,2022,"Jackson County, Alabama",01071,4,1.1,1.11,,24,2021,2021,0.010000000000000009
+forward_year,same_quarter_previous_year,2022,"Loudoun County, Virginia",51107,1,1.07,1.1,,24,2021,2021,0.030000000000000027
+forward_year,same_quarter_previous_year,2022,"Loudoun County, Virginia",51107,2,1.09,1.1,,24,2021,2021,0.010000000000000009
+forward_year,same_quarter_previous_year,2022,"Loudoun County, Virginia",51107,3,1.11,1.11,,24,2021,2021,0.0
+forward_year,same_quarter_previous_year,2022,"Loudoun County, Virginia",51107,4,1.07,1.09,,24,2021,2021,0.020000000000000018
+forward_year,same_quarter_previous_year,2022,"Loudoun County, Virginia (2nd facility)",51107,1,1.08,1.14,,24,2021,2021,0.05999999999999983
+forward_year,same_quarter_previous_year,2022,"Loudoun County, Virginia (2nd facility)",51107,2,1.09,1.15,,24,2021,2021,0.05999999999999983
+forward_year,same_quarter_previous_year,2022,"Loudoun County, Virginia (2nd facility)",51107,3,1.11,1.16,,24,2021,2021,0.04999999999999982
+forward_year,same_quarter_previous_year,2022,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.09,,24,2021,2021,0.020000000000000018
+forward_year,same_quarter_previous_year,2022,"Mayes County, Oklahoma",40097,1,1.08,1.08,,24,2021,2021,0.0
+forward_year,same_quarter_previous_year,2022,"Mayes County, Oklahoma",40097,2,1.11,1.11,,24,2021,2021,0.0
+forward_year,same_quarter_previous_year,2022,"Mayes County, Oklahoma",40097,3,1.13,1.14,,24,2021,2021,0.010000000000000009
+forward_year,same_quarter_previous_year,2022,"Mayes County, Oklahoma",40097,4,1.07,1.08,,24,2021,2021,0.010000000000000009
+forward_year,same_quarter_previous_year,2022,"Montgomery County, Tennessee",47125,1,1.11,1.09,,24,2021,2021,0.020000000000000018
+forward_year,same_quarter_previous_year,2022,"Montgomery County, Tennessee",47125,2,1.12,1.1,,24,2021,2021,0.020000000000000018
+forward_year,same_quarter_previous_year,2022,"Montgomery County, Tennessee",47125,3,1.14,1.14,,24,2021,2021,0.0
+forward_year,same_quarter_previous_year,2022,"Montgomery County, Tennessee",47125,4,1.08,1.09,,24,2021,2021,0.010000000000000009
+forward_year,seasonal_trend_ridge,2023,"Douglas County, Georgia",13097,1,1.07,1.0887214435888917,,80,2022,2022,0.018721443588891606
+forward_year,seasonal_trend_ridge,2023,"Douglas County, Georgia",13097,2,1.09,1.112715665242667,,80,2022,2022,0.022715665242666994
+forward_year,seasonal_trend_ridge,2023,"Douglas County, Georgia",13097,3,1.13,1.1450381703038284,,80,2022,2022,0.01503817030382848
+forward_year,seasonal_trend_ridge,2023,"Douglas County, Georgia",13097,4,1.08,1.0893609683191487,,80,2022,2022,0.009360968319148677
+forward_year,seasonal_trend_ridge,2023,"Jackson County, Alabama",01071,1,1.09,1.0887214435888917,,80,2022,2022,0.0012785564111084113
+forward_year,seasonal_trend_ridge,2023,"Jackson County, Alabama",01071,2,1.11,1.112715665242667,,80,2022,2022,0.002715665242666976
+forward_year,seasonal_trend_ridge,2023,"Jackson County, Alabama",01071,3,1.13,1.1450381703038284,,80,2022,2022,0.01503817030382848
+forward_year,seasonal_trend_ridge,2023,"Jackson County, Alabama",01071,4,1.09,1.0893609683191487,,80,2022,2022,0.0006390316808513319
+forward_year,seasonal_trend_ridge,2023,"Loudoun County, Virginia",51107,1,1.07,1.0887214435888917,,80,2022,2022,0.018721443588891606
+forward_year,seasonal_trend_ridge,2023,"Loudoun County, Virginia",51107,2,1.08,1.112715665242667,,80,2022,2022,0.032715665242667
+forward_year,seasonal_trend_ridge,2023,"Loudoun County, Virginia",51107,3,1.1,1.1450381703038284,,80,2022,2022,0.045038170303828284
+forward_year,seasonal_trend_ridge,2023,"Loudoun County, Virginia",51107,4,1.09,1.0893609683191487,,80,2022,2022,0.0006390316808513319
+forward_year,seasonal_trend_ridge,2023,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.0887214435888917,,80,2022,2022,0.018721443588891606
+forward_year,seasonal_trend_ridge,2023,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.112715665242667,,80,2022,2022,0.032715665242667
+forward_year,seasonal_trend_ridge,2023,"Loudoun County, Virginia (2nd facility)",51107,3,1.11,1.1450381703038284,,80,2022,2022,0.035038170303828275
+forward_year,seasonal_trend_ridge,2023,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0893609683191487,,80,2022,2022,0.019360968319148686
+forward_year,seasonal_trend_ridge,2023,"Mayes County, Oklahoma",40097,1,1.08,1.0887214435888917,,80,2022,2022,0.008721443588891598
+forward_year,seasonal_trend_ridge,2023,"Mayes County, Oklahoma",40097,2,1.1,1.112715665242667,,80,2022,2022,0.012715665242666985
+forward_year,seasonal_trend_ridge,2023,"Mayes County, Oklahoma",40097,3,1.14,1.1450381703038284,,80,2022,2022,0.005038170303828471
+forward_year,seasonal_trend_ridge,2023,"Mayes County, Oklahoma",40097,4,1.08,1.0893609683191487,,80,2022,2022,0.009360968319148677
+forward_year,seasonal_trend_ridge,2023,"Montgomery County, Tennessee",47125,1,1.1,1.0887214435888917,,80,2022,2022,0.01127855641110842
+forward_year,seasonal_trend_ridge,2023,"Montgomery County, Tennessee",47125,2,1.1,1.112715665242667,,80,2022,2022,0.012715665242666985
+forward_year,seasonal_trend_ridge,2023,"Montgomery County, Tennessee",47125,3,1.13,1.1450381703038284,,80,2022,2022,0.01503817030382848
+forward_year,seasonal_trend_ridge,2023,"Montgomery County, Tennessee",47125,4,1.09,1.0893609683191487,,80,2022,2022,0.0006390316808513319
+forward_year,geo_climate_ridge,2023,"Douglas County, Georgia",13097,1,1.07,1.0809307255751206,,80,2022,2022,0.010930725575120537
+forward_year,geo_climate_ridge,2023,"Douglas County, Georgia",13097,2,1.09,1.1062865325292808,,80,2022,2022,0.016286532529280695
+forward_year,geo_climate_ridge,2023,"Douglas County, Georgia",13097,3,1.13,1.1368013444334253,,80,2022,2022,0.006801344433425394
+forward_year,geo_climate_ridge,2023,"Douglas County, Georgia",13097,4,1.08,1.078225330610913,,80,2022,2022,0.0017746693890869913
+forward_year,geo_climate_ridge,2023,"Jackson County, Alabama",01071,1,1.09,1.0867773332739759,,80,2022,2022,0.003222666726024226
+forward_year,geo_climate_ridge,2023,"Jackson County, Alabama",01071,2,1.11,1.110948233392067,,80,2022,2022,0.000948233392066955
+forward_year,geo_climate_ridge,2023,"Jackson County, Alabama",01071,3,1.13,1.141116039922873,,80,2022,2022,0.011116039922873133
+forward_year,geo_climate_ridge,2023,"Jackson County, Alabama",01071,4,1.09,1.0832117350423303,,80,2022,2022,0.006788264957669821
+forward_year,geo_climate_ridge,2023,"Loudoun County, Virginia",51107,1,1.07,1.0814913666451547,,80,2022,2022,0.0114913666451546
+forward_year,geo_climate_ridge,2023,"Loudoun County, Virginia",51107,2,1.08,1.1049322283142406,,80,2022,2022,0.02493222831424058
+forward_year,geo_climate_ridge,2023,"Loudoun County, Virginia",51107,3,1.1,1.1333493025470918,,80,2022,2022,0.033349302547091675
+forward_year,geo_climate_ridge,2023,"Loudoun County, Virginia",51107,4,1.09,1.0774626790894375,,80,2022,2022,0.012537320910562588
+forward_year,geo_climate_ridge,2023,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.0814913666451547,,80,2022,2022,0.0114913666451546
+forward_year,geo_climate_ridge,2023,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.1049322283142406,,80,2022,2022,0.02493222831424058
+forward_year,geo_climate_ridge,2023,"Loudoun County, Virginia (2nd facility)",51107,3,1.11,1.1333493025470918,,80,2022,2022,0.023349302547091666
+forward_year,geo_climate_ridge,2023,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0774626790894375,,80,2022,2022,0.0074626790894374295
+forward_year,geo_climate_ridge,2023,"Mayes County, Oklahoma",40097,1,1.08,1.1060896530491593,,80,2022,2022,0.026089653049159223
+forward_year,geo_climate_ridge,2023,"Mayes County, Oklahoma",40097,2,1.1,1.1282977238595489,,80,2022,2022,0.028297723859548762
+forward_year,geo_climate_ridge,2023,"Mayes County, Oklahoma",40097,3,1.14,1.1559566321601025,,80,2022,2022,0.01595663216010257
+forward_year,geo_climate_ridge,2023,"Mayes County, Oklahoma",40097,4,1.08,1.1013152104879442,,80,2022,2022,0.02131521048794416
+forward_year,geo_climate_ridge,2023,"Montgomery County, Tennessee",47125,1,1.1,1.0926741137005545,,80,2022,2022,0.007325886299445639
+forward_year,geo_climate_ridge,2023,"Montgomery County, Tennessee",47125,2,1.1,1.1153753503126864,,80,2022,2022,0.015375350312686331
+forward_year,geo_climate_ridge,2023,"Montgomery County, Tennessee",47125,3,1.13,1.1448380126088198,,80,2022,2022,0.014838012608819895
+forward_year,geo_climate_ridge,2023,"Montgomery County, Tennessee",47125,4,1.09,1.0884784146179642,,80,2022,2022,0.0015215853820358394
+forward_year,same_quarter_previous_year,2023,"Douglas County, Georgia",13097,1,1.07,1.08,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Douglas County, Georgia",13097,2,1.09,1.1,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Douglas County, Georgia",13097,3,1.13,1.12,,26,2022,2022,0.009999999999999787
+forward_year,same_quarter_previous_year,2023,"Douglas County, Georgia",13097,4,1.08,1.07,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Jackson County, Alabama",01071,1,1.09,1.1,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Jackson County, Alabama",01071,2,1.11,1.12,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Jackson County, Alabama",01071,3,1.13,1.14,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Jackson County, Alabama",01071,4,1.09,1.1,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Loudoun County, Virginia",51107,1,1.07,1.07,,26,2022,2022,0.0
+forward_year,same_quarter_previous_year,2023,"Loudoun County, Virginia",51107,2,1.08,1.09,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Loudoun County, Virginia",51107,3,1.1,1.11,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Loudoun County, Virginia",51107,4,1.09,1.07,,26,2022,2022,0.020000000000000018
+forward_year,same_quarter_previous_year,2023,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.08,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.09,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Loudoun County, Virginia (2nd facility)",51107,3,1.11,1.11,,26,2022,2022,0.0
+forward_year,same_quarter_previous_year,2023,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.07,,26,2022,2022,0.0
+forward_year,same_quarter_previous_year,2023,"Mayes County, Oklahoma",40097,1,1.08,1.08,,26,2022,2022,0.0
+forward_year,same_quarter_previous_year,2023,"Mayes County, Oklahoma",40097,2,1.1,1.11,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Mayes County, Oklahoma",40097,3,1.14,1.13,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Mayes County, Oklahoma",40097,4,1.08,1.07,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Montgomery County, Tennessee",47125,1,1.1,1.11,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Montgomery County, Tennessee",47125,2,1.1,1.12,,26,2022,2022,0.020000000000000018
+forward_year,same_quarter_previous_year,2023,"Montgomery County, Tennessee",47125,3,1.13,1.14,,26,2022,2022,0.010000000000000009
+forward_year,same_quarter_previous_year,2023,"Montgomery County, Tennessee",47125,4,1.09,1.08,,26,2022,2022,0.010000000000000009
+forward_year,seasonal_trend_ridge,2024,"Douglas County, Georgia",13097,1,1.07,1.0878944138096396,,108,2023,2023,0.01789441380963952
+forward_year,seasonal_trend_ridge,2024,"Douglas County, Georgia",13097,2,1.1,1.1093173739221487,,108,2023,2023,0.009317373922148597
+forward_year,seasonal_trend_ridge,2024,"Douglas County, Georgia",13097,3,1.12,1.1414612266259851,,108,2023,2023,0.02146122662598504
+forward_year,seasonal_trend_ridge,2024,"Douglas County, Georgia",13097,4,1.08,1.0875453060343154,,108,2023,2023,0.007545306034315358
+forward_year,seasonal_trend_ridge,2024,"Jackson County, Alabama",01071,1,1.08,1.0878944138096396,,108,2023,2023,0.007894413809639511
+forward_year,seasonal_trend_ridge,2024,"Jackson County, Alabama",01071,2,1.11,1.1093173739221487,,108,2023,2023,0.0006826260778514115
+forward_year,seasonal_trend_ridge,2024,"Jackson County, Alabama",01071,3,1.13,1.1414612266259851,,108,2023,2023,0.011461226625985255
+forward_year,seasonal_trend_ridge,2024,"Jackson County, Alabama",01071,4,1.09,1.0875453060343154,,108,2023,2023,0.002454693965684651
+forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia",51107,1,1.08,1.0878944138096396,,108,2023,2023,0.007894413809639511
+forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia",51107,2,1.09,1.1093173739221487,,108,2023,2023,0.019317373922148606
+forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia",51107,3,1.11,1.1414612266259851,,108,2023,2023,0.03146122662598505
+forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia",51107,4,1.07,1.0875453060343154,,108,2023,2023,0.017545306034315367
+forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.0878944138096396,,108,2023,2023,0.01789441380963952
+forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.1093173739221487,,108,2023,2023,0.029317373922148615
+forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,3,1.09,1.1414612266259851,,108,2023,2023,0.05146122662598507
+forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0875453060343154,,108,2023,2023,0.017545306034315367
+forward_year,seasonal_trend_ridge,2024,"Mayes County, Oklahoma",40097,1,1.08,1.0878944138096396,,108,2023,2023,0.007894413809639511
+forward_year,seasonal_trend_ridge,2024,"Mayes County, Oklahoma",40097,2,1.12,1.1093173739221487,,108,2023,2023,0.01068262607785142
+forward_year,seasonal_trend_ridge,2024,"Mayes County, Oklahoma",40097,3,1.14,1.1414612266259851,,108,2023,2023,0.0014612266259852458
+forward_year,seasonal_trend_ridge,2024,"Mayes County, Oklahoma",40097,4,1.09,1.0875453060343154,,108,2023,2023,0.002454693965684651
+forward_year,seasonal_trend_ridge,2024,"Montgomery County, Tennessee",47125,1,1.09,1.0878944138096396,,108,2023,2023,0.0021055861903604978
+forward_year,seasonal_trend_ridge,2024,"Montgomery County, Tennessee",47125,2,1.11,1.1093173739221487,,108,2023,2023,0.0006826260778514115
+forward_year,seasonal_trend_ridge,2024,"Montgomery County, Tennessee",47125,3,1.13,1.1414612266259851,,108,2023,2023,0.011461226625985255
+forward_year,seasonal_trend_ridge,2024,"Montgomery County, Tennessee",47125,4,1.08,1.0875453060343154,,108,2023,2023,0.007545306034315358
+forward_year,seasonal_trend_ridge,2024,"Storey County, Nevada",32029,1,1.12,1.0878944138096396,,108,2023,2023,0.032105586190360524
+forward_year,seasonal_trend_ridge,2024,"Storey County, Nevada",32029,2,1.16,1.1093173739221487,,108,2023,2023,0.050682626077851234
+forward_year,seasonal_trend_ridge,2024,"Storey County, Nevada",32029,3,1.22,1.1414612266259851,,108,2023,2023,0.07853877337401483
+forward_year,seasonal_trend_ridge,2024,"Storey County, Nevada",32029,4,1.11,1.0875453060343154,,108,2023,2023,0.02245469396568467
+forward_year,geo_climate_ridge,2024,"Douglas County, Georgia",13097,1,1.07,1.0723028912944204,,108,2023,2023,0.002302891294420295
+forward_year,geo_climate_ridge,2024,"Douglas County, Georgia",13097,2,1.1,1.096544023151365,,108,2023,2023,0.0034559768486350784
+forward_year,geo_climate_ridge,2024,"Douglas County, Georgia",13097,3,1.12,1.1268277380896474,,108,2023,2023,0.006827738089647317
+forward_year,geo_climate_ridge,2024,"Douglas County, Georgia",13097,4,1.08,1.0709460098151555,,108,2023,2023,0.00905399018484454
+forward_year,geo_climate_ridge,2024,"Jackson County, Alabama",01071,1,1.08,1.0775691296590415,,108,2023,2023,0.0024308703409585686
+forward_year,geo_climate_ridge,2024,"Jackson County, Alabama",01071,2,1.11,1.1013090808889814,,108,2023,2023,0.008690919111018713
+forward_year,geo_climate_ridge,2024,"Jackson County, Alabama",01071,3,1.13,1.1315851406257784,,108,2023,2023,0.001585140625778525
+forward_year,geo_climate_ridge,2024,"Jackson County, Alabama",01071,4,1.09,1.0755518071122332,,108,2023,2023,0.014448192887766886
+forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia",51107,1,1.08,1.0733430033138094,,108,2023,2023,0.006656996686190686
+forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia",51107,2,1.09,1.09356528023199,,108,2023,2023,0.0035652802319898758
+forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia",51107,3,1.11,1.121934223978771,,108,2023,2023,0.011934223978770975
+forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia",51107,4,1.07,1.0687610391462579,,108,2023,2023,0.0012389608537421992
+forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.0733430033138094,,108,2023,2023,0.003343003313809323
+forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.09356528023199,,108,2023,2023,0.013565280231989885
+forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,3,1.09,1.121934223978771,,108,2023,2023,0.03193422397877099
+forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0687610391462579,,108,2023,2023,0.0012389608537421992
+forward_year,geo_climate_ridge,2024,"Mayes County, Oklahoma",40097,1,1.08,1.1021755816152916,,108,2023,2023,0.02217558161529154
+forward_year,geo_climate_ridge,2024,"Mayes County, Oklahoma",40097,2,1.12,1.1201849190100455,,108,2023,2023,0.00018491901004535904
+forward_year,geo_climate_ridge,2024,"Mayes County, Oklahoma",40097,3,1.14,1.1484289440781723,,108,2023,2023,0.008428944078172407
+forward_year,geo_climate_ridge,2024,"Mayes County, Oklahoma",40097,4,1.09,1.096104514040396,,108,2023,2023,0.006104514040395914
+forward_year,geo_climate_ridge,2024,"Montgomery County, Tennessee",47125,1,1.09,1.0850980066707945,,108,2023,2023,0.004901993329205601
+forward_year,geo_climate_ridge,2024,"Montgomery County, Tennessee",47125,2,1.11,1.106403139920043,,108,2023,2023,0.003596860079957187
+forward_year,geo_climate_ridge,2024,"Montgomery County, Tennessee",47125,3,1.13,1.135870821078965,,108,2023,2023,0.005870821078965083
+forward_year,geo_climate_ridge,2024,"Montgomery County, Tennessee",47125,4,1.08,1.0816681281997769,,108,2023,2023,0.0016681281997767972
+forward_year,geo_climate_ridge,2024,"Storey County, Nevada",32029,1,1.12,1.1586422473166207,,108,2023,2023,0.03864224731662058
+forward_year,geo_climate_ridge,2024,"Storey County, Nevada",32029,2,1.16,1.1806866049198663,,108,2023,2023,0.020686604919866403
+forward_year,geo_climate_ridge,2024,"Storey County, Nevada",32029,3,1.22,1.2061426584995594,,108,2023,2023,0.013857341500440601
+forward_year,geo_climate_ridge,2024,"Storey County, Nevada",32029,4,1.11,1.1544219738884092,,108,2023,2023,0.04442197388840907
+forward_year,same_quarter_previous_year,2024,"Douglas County, Georgia",13097,1,1.07,1.07,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Douglas County, Georgia",13097,2,1.1,1.09,,28,2023,2023,0.010000000000000009
+forward_year,same_quarter_previous_year,2024,"Douglas County, Georgia",13097,3,1.12,1.13,,28,2023,2023,0.009999999999999787
+forward_year,same_quarter_previous_year,2024,"Douglas County, Georgia",13097,4,1.08,1.08,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Jackson County, Alabama",01071,1,1.08,1.09,,28,2023,2023,0.010000000000000009
+forward_year,same_quarter_previous_year,2024,"Jackson County, Alabama",01071,2,1.11,1.11,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Jackson County, Alabama",01071,3,1.13,1.13,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Jackson County, Alabama",01071,4,1.09,1.09,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Loudoun County, Virginia",51107,1,1.08,1.07,,28,2023,2023,0.010000000000000009
+forward_year,same_quarter_previous_year,2024,"Loudoun County, Virginia",51107,2,1.09,1.08,,28,2023,2023,0.010000000000000009
+forward_year,same_quarter_previous_year,2024,"Loudoun County, Virginia",51107,3,1.11,1.1,,28,2023,2023,0.010000000000000009
+forward_year,same_quarter_previous_year,2024,"Loudoun County, Virginia",51107,4,1.07,1.09,,28,2023,2023,0.020000000000000018
+forward_year,same_quarter_previous_year,2024,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.07,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.08,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Loudoun County, Virginia (2nd facility)",51107,3,1.09,1.11,,28,2023,2023,0.020000000000000018
+forward_year,same_quarter_previous_year,2024,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.07,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Mayes County, Oklahoma",40097,1,1.08,1.08,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Mayes County, Oklahoma",40097,2,1.12,1.1,,28,2023,2023,0.020000000000000018
+forward_year,same_quarter_previous_year,2024,"Mayes County, Oklahoma",40097,3,1.14,1.14,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Mayes County, Oklahoma",40097,4,1.09,1.08,,28,2023,2023,0.010000000000000009
+forward_year,same_quarter_previous_year,2024,"Montgomery County, Tennessee",47125,1,1.09,1.1,,28,2023,2023,0.010000000000000009
+forward_year,same_quarter_previous_year,2024,"Montgomery County, Tennessee",47125,2,1.11,1.1,,28,2023,2023,0.010000000000000009
+forward_year,same_quarter_previous_year,2024,"Montgomery County, Tennessee",47125,3,1.13,1.13,,28,2023,2023,0.0
+forward_year,same_quarter_previous_year,2024,"Montgomery County, Tennessee",47125,4,1.08,1.09,,28,2023,2023,0.010000000000000009
+forward_year,same_quarter_previous_year,2024,"Storey County, Nevada",32029,1,1.12,1.18,,28,2023,2023,0.05999999999999983
+forward_year,same_quarter_previous_year,2024,"Storey County, Nevada",32029,2,1.16,1.2,,28,2023,2023,0.040000000000000036
+forward_year,same_quarter_previous_year,2024,"Storey County, Nevada",32029,3,1.22,1.24,,28,2023,2023,0.020000000000000018
+forward_year,same_quarter_previous_year,2024,"Storey County, Nevada",32029,4,1.11,1.14,,28,2023,2023,0.029999999999999805
+forward_year,seasonal_trend_ridge,2025,"Berkeley County, South Carolina",45015,1,1.07,1.0829592338167344,,140,2024,2024,0.012959233816734361
+forward_year,seasonal_trend_ridge,2025,"Berkeley County, South Carolina",45015,2,1.11,1.1054718310019616,,140,2024,2024,0.00452816899803854
+forward_year,seasonal_trend_ridge,2025,"Berkeley County, South Carolina",45015,3,1.12,1.1357597524840006,,140,2024,2024,0.015759752484000522
+forward_year,seasonal_trend_ridge,2025,"Berkeley County, South Carolina",45015,4,1.08,1.0827079186769903,,140,2024,2024,0.002707918676990273
+forward_year,seasonal_trend_ridge,2025,"Douglas County, Georgia",13097,1,1.08,1.0829592338167344,,140,2024,2024,0.0029592338167343524
+forward_year,seasonal_trend_ridge,2025,"Douglas County, Georgia",13097,2,1.1,1.1054718310019616,,140,2024,2024,0.005471831001961469
+forward_year,seasonal_trend_ridge,2025,"Douglas County, Georgia",13097,3,1.12,1.1357597524840006,,140,2024,2024,0.015759752484000522
+forward_year,seasonal_trend_ridge,2025,"Douglas County, Georgia",13097,4,1.07,1.0827079186769903,,140,2024,2024,0.012707918676990282
+forward_year,seasonal_trend_ridge,2025,"Jackson County, Alabama",01071,1,1.09,1.0829592338167344,,140,2024,2024,0.0070407661832656565
+forward_year,seasonal_trend_ridge,2025,"Jackson County, Alabama",01071,2,1.11,1.1054718310019616,,140,2024,2024,0.00452816899803854
+forward_year,seasonal_trend_ridge,2025,"Jackson County, Alabama",01071,3,1.13,1.1357597524840006,,140,2024,2024,0.005759752484000735
+forward_year,seasonal_trend_ridge,2025,"Jackson County, Alabama",01071,4,1.09,1.0827079186769903,,140,2024,2024,0.007292081323009736
+forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia",51107,1,1.07,1.0829592338167344,,140,2024,2024,0.012959233816734361
+forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia",51107,2,1.08,1.1054718310019616,,140,2024,2024,0.025471831001961487
+forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia",51107,3,1.1,1.1357597524840006,,140,2024,2024,0.03575975248400054
+forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia",51107,4,1.07,1.0827079186769903,,140,2024,2024,0.012707918676990282
+forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.0829592338167344,,140,2024,2024,0.012959233816734361
+forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.1054718310019616,,140,2024,2024,0.025471831001961487
+forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,3,1.1,1.1357597524840006,,140,2024,2024,0.03575975248400054
+forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0827079186769903,,140,2024,2024,0.012707918676990282
+forward_year,seasonal_trend_ridge,2025,"Mayes County, Oklahoma",40097,1,1.09,1.0829592338167344,,140,2024,2024,0.0070407661832656565
+forward_year,seasonal_trend_ridge,2025,"Mayes County, Oklahoma",40097,2,1.16,1.1054718310019616,,140,2024,2024,0.05452816899803836
+forward_year,seasonal_trend_ridge,2025,"Mayes County, Oklahoma",40097,3,1.15,1.1357597524840006,,140,2024,2024,0.014240247515999283
+forward_year,seasonal_trend_ridge,2025,"Mayes County, Oklahoma",40097,4,1.09,1.0827079186769903,,140,2024,2024,0.007292081323009736
+forward_year,seasonal_trend_ridge,2025,"Montgomery County, Tennessee",47125,1,1.08,1.0829592338167344,,140,2024,2024,0.0029592338167343524
+forward_year,seasonal_trend_ridge,2025,"Montgomery County, Tennessee",47125,2,1.11,1.1054718310019616,,140,2024,2024,0.00452816899803854
+forward_year,seasonal_trend_ridge,2025,"Montgomery County, Tennessee",47125,3,1.1,1.1357597524840006,,140,2024,2024,0.03575975248400054
+forward_year,seasonal_trend_ridge,2025,"Montgomery County, Tennessee",47125,4,1.06,1.0827079186769903,,140,2024,2024,0.02270791867699029
+forward_year,seasonal_trend_ridge,2025,"Storey County, Nevada",32029,1,1.09,1.0829592338167344,,140,2024,2024,0.0070407661832656565
+forward_year,seasonal_trend_ridge,2025,"Storey County, Nevada",32029,2,1.16,1.1054718310019616,,140,2024,2024,0.05452816899803836
+forward_year,seasonal_trend_ridge,2025,"Storey County, Nevada",32029,3,1.22,1.1357597524840006,,140,2024,2024,0.08424024751599934
+forward_year,seasonal_trend_ridge,2025,"Storey County, Nevada",32029,4,1.11,1.0827079186769903,,140,2024,2024,0.027292081323009754
+forward_year,geo_climate_ridge,2025,"Berkeley County, South Carolina",45015,1,1.07,1.06533869531135,,140,2024,2024,0.004661304688650114
+forward_year,geo_climate_ridge,2025,"Berkeley County, South Carolina",45015,2,1.11,1.0886383331222695,,140,2024,2024,0.021361666877730556
+forward_year,geo_climate_ridge,2025,"Berkeley County, South Carolina",45015,3,1.12,1.112641919153322,,140,2024,2024,0.007358080846678217
+forward_year,geo_climate_ridge,2025,"Berkeley County, South Carolina",45015,4,1.08,1.06395815352069,,140,2024,2024,0.016041846479310173
+forward_year,geo_climate_ridge,2025,"Douglas County, Georgia",13097,1,1.08,1.0708295909411907,,140,2024,2024,0.009170409058809392
+forward_year,geo_climate_ridge,2025,"Douglas County, Georgia",13097,2,1.1,1.0981094244472405,,140,2024,2024,0.0018905755527596213
+forward_year,geo_climate_ridge,2025,"Douglas County, Georgia",13097,3,1.12,1.1244264539081672,,140,2024,2024,0.004426453908167094
+forward_year,geo_climate_ridge,2025,"Douglas County, Georgia",13097,4,1.07,1.0733290091519714,,140,2024,2024,0.0033290091519713183
+forward_year,geo_climate_ridge,2025,"Jackson County, Alabama",01071,1,1.09,1.0735056532538771,,140,2024,2024,0.016494346746122934
+forward_year,geo_climate_ridge,2025,"Jackson County, Alabama",01071,2,1.11,1.100249698185517,,140,2024,2024,0.009750301814483109
+forward_year,geo_climate_ridge,2025,"Jackson County, Alabama",01071,3,1.13,1.128447153155692,,140,2024,2024,0.001552846844307787
+forward_year,geo_climate_ridge,2025,"Jackson County, Alabama",01071,4,1.09,1.075034973112232,,140,2024,2024,0.01496502688776813
+forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia",51107,1,1.07,1.0680254395311255,,140,2024,2024,0.0019745604688745644
+forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia",51107,2,1.08,1.089990215523398,,140,2024,2024,0.00999021552339796
+forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia",51107,3,1.1,1.1161058559124952,,140,2024,2024,0.016105855912495137
+forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia",51107,4,1.07,1.065419677777036,,140,2024,2024,0.004580322222964117
+forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.0680254395311255,,140,2024,2024,0.0019745604688745644
+forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.089990215523398,,140,2024,2024,0.00999021552339796
+forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,3,1.1,1.1161058559124952,,140,2024,2024,0.016105855912495137
+forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.065419677777036,,140,2024,2024,0.004580322222964117
+forward_year,geo_climate_ridge,2025,"Mayes County, Oklahoma",40097,1,1.09,1.096010510577747,,140,2024,2024,0.006010510577746819
+forward_year,geo_climate_ridge,2025,"Mayes County, Oklahoma",40097,2,1.16,1.1152954995175082,,140,2024,2024,0.04470450048249175
+forward_year,geo_climate_ridge,2025,"Mayes County, Oklahoma",40097,3,1.15,1.1454363825310914,,140,2024,2024,0.004563617468908543
+forward_year,geo_climate_ridge,2025,"Mayes County, Oklahoma",40097,4,1.09,1.0924068570212184,,140,2024,2024,0.002406857021218345
+forward_year,geo_climate_ridge,2025,"Montgomery County, Tennessee",47125,1,1.08,1.0792877442813535,,140,2024,2024,0.0007122557186465261
+forward_year,geo_climate_ridge,2025,"Montgomery County, Tennessee",47125,2,1.11,1.102966625657586,,140,2024,2024,0.007033374342414023
+forward_year,geo_climate_ridge,2025,"Montgomery County, Tennessee",47125,3,1.1,1.131282557503704,,140,2024,2024,0.0312825575037039
+forward_year,geo_climate_ridge,2025,"Montgomery County, Tennessee",47125,4,1.06,1.0797064572772355,,140,2024,2024,0.019706457277235412
+forward_year,geo_climate_ridge,2025,"Storey County, Nevada",32029,1,1.09,1.1427775476066226,,140,2024,2024,0.052777547606622566
+forward_year,geo_climate_ridge,2025,"Storey County, Nevada",32029,2,1.16,1.1685104589442912,,140,2024,2024,0.008510458944291255
+forward_year,geo_climate_ridge,2025,"Storey County, Nevada",32029,3,1.22,1.1949772226378368,,140,2024,2024,0.025022777362163184
+forward_year,geo_climate_ridge,2025,"Storey County, Nevada",32029,4,1.11,1.1411985017875168,,140,2024,2024,0.031198501787516708
+forward_year,same_quarter_previous_year,2025,"Berkeley County, South Carolina",45015,1,1.07,1.08,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Berkeley County, South Carolina",45015,2,1.11,1.11,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Berkeley County, South Carolina",45015,3,1.12,1.13,,32,2024,2024,0.009999999999999787
+forward_year,same_quarter_previous_year,2025,"Berkeley County, South Carolina",45015,4,1.08,1.08,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Douglas County, Georgia",13097,1,1.08,1.07,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Douglas County, Georgia",13097,2,1.1,1.1,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Douglas County, Georgia",13097,3,1.12,1.12,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Douglas County, Georgia",13097,4,1.07,1.08,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Jackson County, Alabama",01071,1,1.09,1.08,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Jackson County, Alabama",01071,2,1.11,1.11,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Jackson County, Alabama",01071,3,1.13,1.13,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Jackson County, Alabama",01071,4,1.09,1.09,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Loudoun County, Virginia",51107,1,1.07,1.08,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Loudoun County, Virginia",51107,2,1.08,1.09,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Loudoun County, Virginia",51107,3,1.1,1.11,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Loudoun County, Virginia",51107,4,1.07,1.07,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.07,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.08,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Loudoun County, Virginia (2nd facility)",51107,3,1.1,1.09,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.07,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Mayes County, Oklahoma",40097,1,1.09,1.08,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Mayes County, Oklahoma",40097,2,1.16,1.12,,32,2024,2024,0.039999999999999813
+forward_year,same_quarter_previous_year,2025,"Mayes County, Oklahoma",40097,3,1.15,1.14,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Mayes County, Oklahoma",40097,4,1.09,1.09,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Montgomery County, Tennessee",47125,1,1.08,1.09,,32,2024,2024,0.010000000000000009
+forward_year,same_quarter_previous_year,2025,"Montgomery County, Tennessee",47125,2,1.11,1.11,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Montgomery County, Tennessee",47125,3,1.1,1.13,,32,2024,2024,0.029999999999999805
+forward_year,same_quarter_previous_year,2025,"Montgomery County, Tennessee",47125,4,1.06,1.08,,32,2024,2024,0.020000000000000018
+forward_year,same_quarter_previous_year,2025,"Storey County, Nevada",32029,1,1.09,1.12,,32,2024,2024,0.030000000000000027
+forward_year,same_quarter_previous_year,2025,"Storey County, Nevada",32029,2,1.16,1.16,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Storey County, Nevada",32029,3,1.22,1.22,,32,2024,2024,0.0
+forward_year,same_quarter_previous_year,2025,"Storey County, Nevada",32029,4,1.11,1.11,,32,2024,2024,0.0
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Jackson County, Alabama",01071,1,1.08,1.0894498105927128,01071,93,2023,2023,0.00944981059271277
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Jackson County, Alabama",01071,2,1.11,1.1080952103459503,01071,93,2023,2023,0.0019047896540498321
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Jackson County, Alabama",01071,3,1.13,1.1423772832771821,01071,93,2023,2023,0.012377283277182238
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Jackson County, Alabama",01071,4,1.09,1.0878125895400867,01071,93,2023,2023,0.0021874104599133304
+heldout_county_forward_year,geo_climate_ridge,2024,"Jackson County, Alabama",01071,1,1.08,1.0679860551996376,01071,93,2023,2023,0.012013944800362442
+heldout_county_forward_year,geo_climate_ridge,2024,"Jackson County, Alabama",01071,2,1.11,1.0960278374622185,01071,93,2023,2023,0.013972162537781552
+heldout_county_forward_year,geo_climate_ridge,2024,"Jackson County, Alabama",01071,3,1.13,1.1232597709974865,01071,93,2023,2023,0.006740229002513365
+heldout_county_forward_year,geo_climate_ridge,2024,"Jackson County, Alabama",01071,4,1.09,1.0700436209957374,01071,93,2023,2023,0.019956379004262725
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Douglas County, Georgia",13097,1,1.07,1.0916342418421088,13097,84,2023,2023,0.021634241842108715
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Douglas County, Georgia",13097,2,1.1,1.113706921950788,13097,84,2023,2023,0.013706921950787931
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Douglas County, Georgia",13097,3,1.12,1.1458127492249335,13097,84,2023,2023,0.025812749224933373
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Douglas County, Georgia",13097,4,1.08,1.091291816378628,13097,84,2023,2023,0.011291816378627972
+heldout_county_forward_year,geo_climate_ridge,2024,"Douglas County, Georgia",13097,1,1.07,1.0769230653950408,13097,84,2023,2023,0.006923065395040728
+heldout_county_forward_year,geo_climate_ridge,2024,"Douglas County, Georgia",13097,2,1.1,1.103554438377629,13097,84,2023,2023,0.0035544383776289212
+heldout_county_forward_year,geo_climate_ridge,2024,"Douglas County, Georgia",13097,3,1.12,1.1326997855215069,13097,84,2023,2023,0.012699785521506746
+heldout_county_forward_year,geo_climate_ridge,2024,"Douglas County, Georgia",13097,4,1.08,1.076711789035931,13097,84,2023,2023,0.0032882109640690604
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Storey County, Nevada",32029,1,1.12,1.0747421204464616,32029,102,2023,2023,0.04525787955353855
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Storey County, Nevada",32029,2,1.16,1.0962464506483893,32029,102,2023,2023,0.0637535493516106
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Storey County, Nevada",32029,3,1.22,1.1225924576947781,32029,102,2023,2023,0.09740754230522186
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Storey County, Nevada",32029,4,1.11,1.071809574547391,32029,102,2023,2023,0.03819042545260909
+heldout_county_forward_year,geo_climate_ridge,2024,"Storey County, Nevada",32029,1,1.12,1.0642380684194412,32029,102,2023,2023,0.055761931580558866
+heldout_county_forward_year,geo_climate_ridge,2024,"Storey County, Nevada",32029,2,1.16,1.0807773429314795,32029,102,2023,2023,0.07922265706852039
+heldout_county_forward_year,geo_climate_ridge,2024,"Storey County, Nevada",32029,3,1.22,1.1088881315953423,32029,102,2023,2023,0.1111118684046577
+heldout_county_forward_year,geo_climate_ridge,2024,"Storey County, Nevada",32029,4,1.11,1.0641827397490211,32029,102,2023,2023,0.045817260250978986
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Mayes County, Oklahoma",40097,1,1.08,1.0870602204628892,40097,84,2023,2023,0.007060220462889122
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Mayes County, Oklahoma",40097,2,1.12,1.1063878171934403,40097,84,2023,2023,0.013612182806559847
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Mayes County, Oklahoma",40097,3,1.14,1.1386168557602907,40097,84,2023,2023,0.0013831442397091998
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Mayes County, Oklahoma",40097,4,1.09,1.086348854023337,40097,84,2023,2023,0.0036511459766630505
+heldout_county_forward_year,geo_climate_ridge,2024,"Mayes County, Oklahoma",40097,1,1.08,1.1011683266409984,40097,84,2023,2023,0.021168326640998325
+heldout_county_forward_year,geo_climate_ridge,2024,"Mayes County, Oklahoma",40097,2,1.12,1.1217078200515604,40097,84,2023,2023,0.0017078200515603381
+heldout_county_forward_year,geo_climate_ridge,2024,"Mayes County, Oklahoma",40097,3,1.14,1.1482674954144627,40097,84,2023,2023,0.008267495414462811
+heldout_county_forward_year,geo_climate_ridge,2024,"Mayes County, Oklahoma",40097,4,1.09,1.0956698655385473,40097,84,2023,2023,0.005669865538547203
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Berkeley County, South Carolina",45015,1,1.08,1.0878944138096396,45015,108,2023,2023,0.007894413809639511
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Berkeley County, South Carolina",45015,2,1.11,1.1093173739221487,45015,108,2023,2023,0.0006826260778514115
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Berkeley County, South Carolina",45015,3,1.13,1.1414612266259851,45015,108,2023,2023,0.011461226625985255
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Berkeley County, South Carolina",45015,4,1.08,1.0875453060343154,45015,108,2023,2023,0.007545306034315358
+heldout_county_forward_year,geo_climate_ridge,2024,"Berkeley County, South Carolina",45015,1,1.08,1.0600002362005951,45015,108,2023,2023,0.019999763799404935
+heldout_county_forward_year,geo_climate_ridge,2024,"Berkeley County, South Carolina",45015,2,1.11,1.0847247521674028,45015,108,2023,2023,0.02527524783259727
+heldout_county_forward_year,geo_climate_ridge,2024,"Berkeley County, South Carolina",45015,3,1.13,1.1147322020817243,45015,108,2023,2023,0.015267797918275594
+heldout_county_forward_year,geo_climate_ridge,2024,"Berkeley County, South Carolina",45015,4,1.08,1.0583417151150547,45015,108,2023,2023,0.021658284884945367
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Montgomery County, Tennessee",47125,1,1.09,1.088695039440225,47125,93,2023,2023,0.0013049605597750258
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Montgomery County, Tennessee",47125,2,1.11,1.1098640490484217,47125,93,2023,2023,0.00013595095157836745
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Montgomery County, Tennessee",47125,3,1.13,1.1423950017948783,47125,93,2023,2023,0.012395001794878402
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Montgomery County, Tennessee",47125,4,1.08,1.0894837836255737,47125,93,2023,2023,0.009483783625573672
+heldout_county_forward_year,geo_climate_ridge,2024,"Montgomery County, Tennessee",47125,1,1.09,1.0852906748863755,47125,93,2023,2023,0.004709325113624541
+heldout_county_forward_year,geo_climate_ridge,2024,"Montgomery County, Tennessee",47125,2,1.11,1.1075211660433906,47125,93,2023,2023,0.0024788339566095274
+heldout_county_forward_year,geo_climate_ridge,2024,"Montgomery County, Tennessee",47125,3,1.13,1.135745691870635,47125,93,2023,2023,0.005745691870635117
+heldout_county_forward_year,geo_climate_ridge,2024,"Montgomery County, Tennessee",47125,4,1.08,1.083698961679379,47125,93,2023,2023,0.003698961679378998
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia",51107,1,1.08,1.0970122810904137,51107,84,2023,2023,0.01701228109041364
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia",51107,2,1.09,1.121708308082911,51107,84,2023,2023,0.03170830808291103
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia",51107,3,1.11,1.157264814988681,51107,84,2023,2023,0.04726481498868096
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia",51107,4,1.07,1.0986886061455434,51107,84,2023,2023,0.02868860614554336
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.0970122810904137,51107,84,2023,2023,0.027012281090413648
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.121708308082911,51107,84,2023,2023,0.04170830808291104
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,3,1.09,1.157264814988681,51107,84,2023,2023,0.06726481498868098
+heldout_county_forward_year,seasonal_trend_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0986886061455434,51107,84,2023,2023,0.02868860614554336
+heldout_county_forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia",51107,1,1.08,1.0700137048188134,51107,84,2023,2023,0.009986295181186655
+heldout_county_forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia",51107,2,1.09,1.0948609457447003,51107,84,2023,2023,0.004860945744700196
+heldout_county_forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia",51107,3,1.11,1.1275118069856287,51107,84,2023,2023,0.017511806985628597
+heldout_county_forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia",51107,4,1.07,1.0687529528816095,51107,84,2023,2023,0.0012470471183905207
+heldout_county_forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.0700137048188134,51107,84,2023,2023,1.3704818813353725e-05
+heldout_county_forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.0948609457447003,51107,84,2023,2023,0.014860945744700205
+heldout_county_forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,3,1.09,1.1275118069856287,51107,84,2023,2023,0.037511806985628615
+heldout_county_forward_year,geo_climate_ridge,2024,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0687529528816095,51107,84,2023,2023,0.0012470471183905207
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Jackson County, Alabama",01071,1,1.09,1.0850859528895893,01071,121,2024,2024,0.004914047110410769
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Jackson County, Alabama",01071,2,1.11,1.1053678651940506,01071,121,2024,2024,0.004632134805949484
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Jackson County, Alabama",01071,3,1.13,1.1373973293489095,01071,121,2024,2024,0.007397329348909576
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Jackson County, Alabama",01071,4,1.09,1.0835348799608513,01071,121,2024,2024,0.006465120039148786
+heldout_county_forward_year,geo_climate_ridge,2025,"Jackson County, Alabama",01071,1,1.09,1.0657951022311971,01071,121,2024,2024,0.02420489776880297
+heldout_county_forward_year,geo_climate_ridge,2025,"Jackson County, Alabama",01071,2,1.11,1.097784505837742,01071,121,2024,2024,0.01221549416225809
+heldout_county_forward_year,geo_climate_ridge,2025,"Jackson County, Alabama",01071,3,1.13,1.124303131181409,01071,121,2024,2024,0.005696868818590994
+heldout_county_forward_year,geo_climate_ridge,2025,"Jackson County, Alabama",01071,4,1.09,1.0714212324984986,01071,121,2024,2024,0.018578767501501448
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Douglas County, Georgia",13097,1,1.08,1.0851033777364476,13097,112,2024,2024,0.005103377736447534
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Douglas County, Georgia",13097,2,1.1,1.1080216821151758,13097,112,2024,2024,0.008021682115175732
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Douglas County, Georgia",13097,3,1.12,1.1382717762459014,13097,112,2024,2024,0.01827177624590126
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Douglas County, Georgia",13097,4,1.07,1.0844897055326241,13097,112,2024,2024,0.014489705532624075
+heldout_county_forward_year,geo_climate_ridge,2025,"Douglas County, Georgia",13097,1,1.08,1.0746681121102974,13097,112,2024,2024,0.0053318878897026245
+heldout_county_forward_year,geo_climate_ridge,2025,"Douglas County, Georgia",13097,2,1.1,1.1050571159193905,13097,112,2024,2024,0.005057115919390398
+heldout_county_forward_year,geo_climate_ridge,2025,"Douglas County, Georgia",13097,3,1.12,1.1303139358461904,13097,112,2024,2024,0.010313935846190336
+heldout_county_forward_year,geo_climate_ridge,2025,"Douglas County, Georgia",13097,4,1.07,1.0790429886545965,13097,112,2024,2024,0.009042988654596407
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Storey County, Nevada",32029,1,1.09,1.072112008573155,32029,130,2024,2024,0.01788799142684505
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Storey County, Nevada",32029,2,1.16,1.094224497063585,32029,130,2024,2024,0.06577550293641488
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Storey County, Nevada",32029,3,1.22,1.1189311743560126,32029,130,2024,2024,0.10106882564398734
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Storey County, Nevada",32029,4,1.11,1.0701204216563382,32029,130,2024,2024,0.03987957834366185
+heldout_county_forward_year,geo_climate_ridge,2025,"Storey County, Nevada",32029,1,1.09,1.0733011905810694,32029,130,2024,2024,0.01669880941893065
+heldout_county_forward_year,geo_climate_ridge,2025,"Storey County, Nevada",32029,2,1.16,1.0913262476972576,32029,130,2024,2024,0.06867375230274231
+heldout_county_forward_year,geo_climate_ridge,2025,"Storey County, Nevada",32029,3,1.22,1.117209790687295,32029,130,2024,2024,0.10279020931270488
+heldout_county_forward_year,geo_climate_ridge,2025,"Storey County, Nevada",32029,4,1.11,1.0705955758528811,32029,130,2024,2024,0.03940442414711898
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Mayes County, Oklahoma",40097,1,1.09,1.0810126665705588,40097,112,2024,2024,0.008987333429441247
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Mayes County, Oklahoma",40097,2,1.16,1.1015572514607128,40097,112,2024,2024,0.058442748539287104
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Mayes County, Oklahoma",40097,3,1.15,1.1318644067874135,40097,112,2024,2024,0.0181355932125864
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Mayes County, Oklahoma",40097,4,1.09,1.0801377018338794,40097,112,2024,2024,0.00986229816612072
+heldout_county_forward_year,geo_climate_ridge,2025,"Mayes County, Oklahoma",40097,1,1.09,1.095915893504888,40097,112,2024,2024,0.00591589350488797
+heldout_county_forward_year,geo_climate_ridge,2025,"Mayes County, Oklahoma",40097,2,1.16,1.115392794507769,40097,112,2024,2024,0.04460720549223085
+heldout_county_forward_year,geo_climate_ridge,2025,"Mayes County, Oklahoma",40097,3,1.15,1.14622454844449,40097,112,2024,2024,0.0037754515555099566
+heldout_county_forward_year,geo_climate_ridge,2025,"Mayes County, Oklahoma",40097,4,1.09,1.0919637177187715,40097,112,2024,2024,0.0019637177187714627
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Berkeley County, South Carolina",45015,1,1.07,1.083424071102872,45015,136,2024,2024,0.013424071102871915
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Berkeley County, South Carolina",45015,2,1.11,1.105718257527701,45015,136,2024,2024,0.004281742472299177
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Berkeley County, South Carolina",45015,3,1.12,1.1362992891084716,45015,136,2024,2024,0.01629928910847145
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Berkeley County, South Carolina",45015,4,1.08,1.083160887369328,45015,136,2024,2024,0.003160887369327847
+heldout_county_forward_year,geo_climate_ridge,2025,"Berkeley County, South Carolina",45015,1,1.07,1.0593210275538112,45015,136,2024,2024,0.010678972446188872
+heldout_county_forward_year,geo_climate_ridge,2025,"Berkeley County, South Carolina",45015,2,1.11,1.083276658327779,45015,136,2024,2024,0.026723341672221013
+heldout_county_forward_year,geo_climate_ridge,2025,"Berkeley County, South Carolina",45015,3,1.12,1.1101338368916254,45015,136,2024,2024,0.009866163108374737
+heldout_county_forward_year,geo_climate_ridge,2025,"Berkeley County, South Carolina",45015,4,1.08,1.058289046967001,45015,136,2024,2024,0.02171095303299908
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Montgomery County, Tennessee",47125,1,1.08,1.0835651248300757,47125,121,2024,2024,0.00356512483007565
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Montgomery County, Tennessee",47125,2,1.11,1.1061157787122298,47125,121,2024,2024,0.0038842212877703286
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Montgomery County, Tennessee",47125,3,1.1,1.1368009246450248,47125,121,2024,2024,0.03680092464502471
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Montgomery County, Tennessee",47125,4,1.06,1.084541524345897,47125,121,2024,2024,0.024541524345896848
+heldout_county_forward_year,geo_climate_ridge,2025,"Montgomery County, Tennessee",47125,1,1.08,1.0787152078339621,47125,121,2024,2024,0.0012847921660379402
+heldout_county_forward_year,geo_climate_ridge,2025,"Montgomery County, Tennessee",47125,2,1.11,1.103285636325339,47125,121,2024,2024,0.006714363674661161
+heldout_county_forward_year,geo_climate_ridge,2025,"Montgomery County, Tennessee",47125,3,1.1,1.1313889154672014,47125,121,2024,2024,0.03138891546720135
+heldout_county_forward_year,geo_climate_ridge,2025,"Montgomery County, Tennessee",47125,4,1.06,1.0812354374026296,47125,121,2024,2024,0.021235437402629564
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia",51107,1,1.07,1.0908342062148466,51107,108,2024,2024,0.02083420621484655
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia",51107,2,1.08,1.1170712428724754,51107,108,2024,2024,0.03707124287247532
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia",51107,3,1.1,1.1507806696294303,51107,108,2024,2024,0.050780669629430175
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia",51107,4,1.07,1.0926082289910497,51107,108,2024,2024,0.02260822899104964
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.0908342062148466,51107,108,2024,2024,0.02083420621484655
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.1170712428724754,51107,108,2024,2024,0.03707124287247532
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,3,1.1,1.1507806696294303,51107,108,2024,2024,0.050780669629430175
+heldout_county_forward_year,seasonal_trend_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0926082289910497,51107,108,2024,2024,0.02260822899104964
+heldout_county_forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia",51107,1,1.07,1.070350679971173,51107,108,2024,2024,0.00035067997117299576
+heldout_county_forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia",51107,2,1.08,1.09690641373677,51107,108,2024,2024,0.01690641373676982
+heldout_county_forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia",51107,3,1.1,1.1269574989514657,51107,108,2024,2024,0.026957498951465597
+heldout_county_forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia",51107,4,1.07,1.0700274008775001,51107,108,2024,2024,2.7400877500083354e-05
+heldout_county_forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,1,1.07,1.070350679971173,51107,108,2024,2024,0.00035067997117299576
+heldout_county_forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,2,1.08,1.09690641373677,51107,108,2024,2024,0.01690641373676982
+heldout_county_forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,3,1.1,1.1269574989514657,51107,108,2024,2024,0.026957498951465597
+heldout_county_forward_year,geo_climate_ridge,2025,"Loudoun County, Virginia (2nd facility)",51107,4,1.07,1.0700274008775001,51107,108,2024,2024,2.7400877500083354e-05

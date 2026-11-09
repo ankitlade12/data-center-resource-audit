@@ -1,0 +1,28 @@
+year,grid_region,region_name,co2e_lb_per_mwh,co2e_kg_per_kwh,source_file,source_locator,factor_basis
+2023,AKGD,ASCC Alaska Grid,905.109,0.41055053641833,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,AKMS,ASCC Miscellaneous,522.4,0.23695665408799998,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,AZNM,WECC Southwest,706.189,0.32032194217793,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,CAMX,WECC California,429.983,0.19503700802971002,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,ERCT,ERCOT All,736.629,0.33412929392073004,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,FRCC,FRCC All,784.785,0.35597248809045,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,HIMS,HICC Miscellaneous,1133.294,0.5140535113667801,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,HIOA,HICC Oahu,1498.947,0.67991092223439,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,MROE,MRO East,1404.963,0.63728049693231,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,MROW,MRO West,926.552,0.42027691760824,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,NEWE,NPCC New England,543.178,0.24638139635186002,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,NWPP,WECC Northwest,635.267,0.28815226411279005,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,NYCW,NPCC NYC/Westchester,865.744,0.3926948727732801,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,NYLI,NPCC Long Island,1189.333,0.5394723741892101,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,NYUP,NPCC Upstate NY,242.776,0.11012134121912001,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,PRMS,Puerto Rico Miscellaneous,1548.53,0.7024013927161,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,RFCE,RFC East,599.17,0.2717789403329,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,RFCM,RFC Michigan,975.978,0.44269617408786,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,RFCW,RFC West,916.054,0.41551510490798,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,RMPA,WECC Rockies,1042.539,0.47288773582743,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,SPNO,SPP North,867.74,0.3936002431438,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,SPSO,SPP South,875.567,0.39715051062379003,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,SRMV,SERC Mississippi Valley,741.741,0.33644805811617,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,SRMW,SERC Midwest,1248.582,0.5663472685193401,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,SRSO,SERC South,846.007,0.38374232016659,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,SRTV,SERC Tennessee Valley,903.306,0.40973270937522005,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal
+2023,SRVC,SERC Virginia/Carolina,596.326,0.27048892363262,egrid2023_data_rev2.xlsx,SRL23/SRC2ERTA,annual_generation_output_average_not_marginal

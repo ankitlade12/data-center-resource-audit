@@ -1,0 +1,7 @@
+from_entity,to_entity,relationship,source_file,source_locator,qualification,source_url
+Google The Dalles reporting location,City of The Dalles water utility,customer_relationship,dalles_city_statement_2026.pdf,PDF 42 (printed 40/46),Confirmed by former public works director statement; not a meter-account or building crosswalk,
+City of The Dalles water utility,South Fork Mill Creek / Crow Creek storage,surface_water_supply,dalles_water_master_plan_2024.pdf,"PDF 47, section 4.2",System supply relationship; facility-specific source shares unknown,
+City of The Dalles water utility,Dog River watershed diversion,interbasin_surface_supply,dalles_water_master_plan_2024.pdf,"PDF 47, section 4.2",Do not assign all water to facility-host county or Columbia River,
+City of The Dalles water utility,The Dalles groundwater reservoir,groundwater_supply,dalles_water_master_plan_2024.pdf,"PDF 54, section 4.5.6",Annual available volume is a planning assumption conditional on other pumping and recharge,
+Google The Dalles data centers,Northern Wasco County PUD,electricity_delivery_relationship,,July 22 2025 announcement,"Delivery relationship only; no verified spare substation capacity, hourly mix or Google site electricity; verified through browser source, raw HTTP archive timed out",https://www.avangrid.com/w/avangrid-announces-119-megawatt-repower-project-in-oregon
+Northern Wasco County PUD,Gorge Switchyard / TransLink,network_expansion_context,nwascopud_annual_2024.pdf,PDF 9,2024 first phase energized; does not establish remaining MW headroom,

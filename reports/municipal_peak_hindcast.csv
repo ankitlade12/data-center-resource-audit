@@ -1,0 +1,3 @@
+year,observed_mdd,annual_mean,prior_max_peak_factor,estimated_peak,training_end,conditioning
+2021,9.02,3.98,2.3948863636363638,9.531647727272727,2020,observed target-year average; not ex ante forecast
+2022,8.38,3.54,2.3948863636363638,8.477897727272728,2021,observed target-year average; not ex ante forecast

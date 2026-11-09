@@ -1,0 +1,193 @@
+campus_name,target_year,quarter,method,predicted_pue,observed_pue,training_end,absolute_error
+"Berkeley County, South Carolina",2025,1,last_quarter,1.08,1.07,2024-Q4,0.010000000000000009
+"Berkeley County, South Carolina",2025,1,same_quarter_previous_year,1.08,1.07,2024-Q4,0.010000000000000009
+"Berkeley County, South Carolina",2025,1,previous_year_unweighted_mean,1.1,1.07,2024-Q4,0.030000000000000027
+"Berkeley County, South Carolina",2025,2,last_quarter,1.08,1.11,2024-Q4,0.030000000000000027
+"Berkeley County, South Carolina",2025,2,same_quarter_previous_year,1.11,1.11,2024-Q4,0.0
+"Berkeley County, South Carolina",2025,2,previous_year_unweighted_mean,1.1,1.11,2024-Q4,0.010000000000000009
+"Berkeley County, South Carolina",2025,3,last_quarter,1.08,1.12,2024-Q4,0.040000000000000036
+"Berkeley County, South Carolina",2025,3,same_quarter_previous_year,1.13,1.12,2024-Q4,0.009999999999999787
+"Berkeley County, South Carolina",2025,3,previous_year_unweighted_mean,1.1,1.12,2024-Q4,0.020000000000000018
+"Berkeley County, South Carolina",2025,4,last_quarter,1.08,1.08,2024-Q4,0.0
+"Berkeley County, South Carolina",2025,4,same_quarter_previous_year,1.08,1.08,2024-Q4,0.0
+"Berkeley County, South Carolina",2025,4,previous_year_unweighted_mean,1.1,1.08,2024-Q4,0.020000000000000018
+"Council Bluffs, Iowa",2025,1,last_quarter,1.09,1.1,2024-Q4,0.010000000000000009
+"Council Bluffs, Iowa",2025,1,same_quarter_previous_year,1.12,1.1,2024-Q4,0.020000000000000018
+"Council Bluffs, Iowa",2025,1,previous_year_unweighted_mean,1.1125,1.1,2024-Q4,0.012499999999999956
+"Council Bluffs, Iowa",2025,2,last_quarter,1.09,1.11,2024-Q4,0.020000000000000018
+"Council Bluffs, Iowa",2025,2,same_quarter_previous_year,1.11,1.11,2024-Q4,0.0
+"Council Bluffs, Iowa",2025,2,previous_year_unweighted_mean,1.1125,1.11,2024-Q4,0.0024999999999999467
+"Council Bluffs, Iowa",2025,3,last_quarter,1.09,1.14,2024-Q4,0.04999999999999982
+"Council Bluffs, Iowa",2025,3,same_quarter_previous_year,1.13,1.14,2024-Q4,0.010000000000000009
+"Council Bluffs, Iowa",2025,3,previous_year_unweighted_mean,1.1125,1.14,2024-Q4,0.027499999999999858
+"Council Bluffs, Iowa",2025,4,last_quarter,1.09,1.09,2024-Q4,0.0
+"Council Bluffs, Iowa",2025,4,same_quarter_previous_year,1.09,1.09,2024-Q4,0.0
+"Council Bluffs, Iowa",2025,4,previous_year_unweighted_mean,1.1125,1.09,2024-Q4,0.022499999999999964
+"Council Bluffs, Iowa (2nd facility)",2025,1,last_quarter,1.06,1.07,2024-Q4,0.010000000000000009
+"Council Bluffs, Iowa (2nd facility)",2025,1,same_quarter_previous_year,1.07,1.07,2024-Q4,0.0
+"Council Bluffs, Iowa (2nd facility)",2025,1,previous_year_unweighted_mean,1.07,1.07,2024-Q4,0.0
+"Council Bluffs, Iowa (2nd facility)",2025,2,last_quarter,1.06,1.08,2024-Q4,0.020000000000000018
+"Council Bluffs, Iowa (2nd facility)",2025,2,same_quarter_previous_year,1.07,1.08,2024-Q4,0.010000000000000009
+"Council Bluffs, Iowa (2nd facility)",2025,2,previous_year_unweighted_mean,1.07,1.08,2024-Q4,0.010000000000000009
+"Council Bluffs, Iowa (2nd facility)",2025,3,last_quarter,1.06,1.1,2024-Q4,0.040000000000000036
+"Council Bluffs, Iowa (2nd facility)",2025,3,same_quarter_previous_year,1.08,1.1,2024-Q4,0.020000000000000018
+"Council Bluffs, Iowa (2nd facility)",2025,3,previous_year_unweighted_mean,1.07,1.1,2024-Q4,0.030000000000000027
+"Council Bluffs, Iowa (2nd facility)",2025,4,last_quarter,1.06,1.07,2024-Q4,0.010000000000000009
+"Council Bluffs, Iowa (2nd facility)",2025,4,same_quarter_previous_year,1.06,1.07,2024-Q4,0.010000000000000009
+"Council Bluffs, Iowa (2nd facility)",2025,4,previous_year_unweighted_mean,1.07,1.07,2024-Q4,0.0
+"Douglas County, Georgia",2025,1,last_quarter,1.08,1.08,2024-Q4,0.0
+"Douglas County, Georgia",2025,1,same_quarter_previous_year,1.07,1.08,2024-Q4,0.010000000000000009
+"Douglas County, Georgia",2025,1,previous_year_unweighted_mean,1.0925,1.08,2024-Q4,0.012499999999999956
+"Douglas County, Georgia",2025,2,last_quarter,1.08,1.1,2024-Q4,0.020000000000000018
+"Douglas County, Georgia",2025,2,same_quarter_previous_year,1.1,1.1,2024-Q4,0.0
+"Douglas County, Georgia",2025,2,previous_year_unweighted_mean,1.0925,1.1,2024-Q4,0.007500000000000062
+"Douglas County, Georgia",2025,3,last_quarter,1.08,1.12,2024-Q4,0.040000000000000036
+"Douglas County, Georgia",2025,3,same_quarter_previous_year,1.12,1.12,2024-Q4,0.0
+"Douglas County, Georgia",2025,3,previous_year_unweighted_mean,1.0925,1.12,2024-Q4,0.02750000000000008
+"Douglas County, Georgia",2025,4,last_quarter,1.08,1.07,2024-Q4,0.010000000000000009
+"Douglas County, Georgia",2025,4,same_quarter_previous_year,1.08,1.07,2024-Q4,0.010000000000000009
+"Douglas County, Georgia",2025,4,previous_year_unweighted_mean,1.0925,1.07,2024-Q4,0.022499999999999964
+"Henderson, Nevada",2025,1,last_quarter,1.08,1.07,2024-Q4,0.010000000000000009
+"Henderson, Nevada",2025,1,same_quarter_previous_year,1.07,1.07,2024-Q4,0.0
+"Henderson, Nevada",2025,1,previous_year_unweighted_mean,1.0875000000000001,1.07,2024-Q4,0.01750000000000007
+"Henderson, Nevada",2025,2,last_quarter,1.08,1.09,2024-Q4,0.010000000000000009
+"Henderson, Nevada",2025,2,same_quarter_previous_year,1.09,1.09,2024-Q4,0.0
+"Henderson, Nevada",2025,2,previous_year_unweighted_mean,1.0875000000000001,1.09,2024-Q4,0.0024999999999999467
+"Henderson, Nevada",2025,3,last_quarter,1.08,1.12,2024-Q4,0.040000000000000036
+"Henderson, Nevada",2025,3,same_quarter_previous_year,1.11,1.12,2024-Q4,0.010000000000000009
+"Henderson, Nevada",2025,3,previous_year_unweighted_mean,1.0875000000000001,1.12,2024-Q4,0.03249999999999997
+"Henderson, Nevada",2025,4,last_quarter,1.08,1.08,2024-Q4,0.0
+"Henderson, Nevada",2025,4,same_quarter_previous_year,1.08,1.08,2024-Q4,0.0
+"Henderson, Nevada",2025,4,previous_year_unweighted_mean,1.0875000000000001,1.08,2024-Q4,0.007500000000000062
+"Jackson County, Alabama",2025,1,last_quarter,1.09,1.09,2024-Q4,0.0
+"Jackson County, Alabama",2025,1,same_quarter_previous_year,1.08,1.09,2024-Q4,0.010000000000000009
+"Jackson County, Alabama",2025,1,previous_year_unweighted_mean,1.1025,1.09,2024-Q4,0.012499999999999956
+"Jackson County, Alabama",2025,2,last_quarter,1.09,1.11,2024-Q4,0.020000000000000018
+"Jackson County, Alabama",2025,2,same_quarter_previous_year,1.11,1.11,2024-Q4,0.0
+"Jackson County, Alabama",2025,2,previous_year_unweighted_mean,1.1025,1.11,2024-Q4,0.007500000000000062
+"Jackson County, Alabama",2025,3,last_quarter,1.09,1.13,2024-Q4,0.039999999999999813
+"Jackson County, Alabama",2025,3,same_quarter_previous_year,1.13,1.13,2024-Q4,0.0
+"Jackson County, Alabama",2025,3,previous_year_unweighted_mean,1.1025,1.13,2024-Q4,0.027499999999999858
+"Jackson County, Alabama",2025,4,last_quarter,1.09,1.09,2024-Q4,0.0
+"Jackson County, Alabama",2025,4,same_quarter_previous_year,1.09,1.09,2024-Q4,0.0
+"Jackson County, Alabama",2025,4,previous_year_unweighted_mean,1.1025,1.09,2024-Q4,0.012499999999999956
+"Lenoir, North Carolina",2025,1,last_quarter,1.08,1.08,2024-Q4,0.0
+"Lenoir, North Carolina",2025,1,same_quarter_previous_year,1.08,1.08,2024-Q4,0.0
+"Lenoir, North Carolina",2025,1,previous_year_unweighted_mean,1.1275000000000002,1.08,2024-Q4,0.0475000000000001
+"Lenoir, North Carolina",2025,2,last_quarter,1.08,1.1,2024-Q4,0.020000000000000018
+"Lenoir, North Carolina",2025,2,same_quarter_previous_year,1.11,1.1,2024-Q4,0.010000000000000009
+"Lenoir, North Carolina",2025,2,previous_year_unweighted_mean,1.1275000000000002,1.1,2024-Q4,0.02750000000000008
+"Lenoir, North Carolina",2025,3,last_quarter,1.08,1.12,2024-Q4,0.040000000000000036
+"Lenoir, North Carolina",2025,3,same_quarter_previous_year,1.24,1.12,2024-Q4,0.11999999999999988
+"Lenoir, North Carolina",2025,3,previous_year_unweighted_mean,1.1275000000000002,1.12,2024-Q4,0.007500000000000062
+"Lenoir, North Carolina",2025,4,last_quarter,1.08,1.08,2024-Q4,0.0
+"Lenoir, North Carolina",2025,4,same_quarter_previous_year,1.08,1.08,2024-Q4,0.0
+"Lenoir, North Carolina",2025,4,previous_year_unweighted_mean,1.1275000000000002,1.08,2024-Q4,0.0475000000000001
+"Loudoun County, Virginia",2025,1,last_quarter,1.07,1.07,2024-Q4,0.0
+"Loudoun County, Virginia",2025,1,same_quarter_previous_year,1.08,1.07,2024-Q4,0.010000000000000009
+"Loudoun County, Virginia",2025,1,previous_year_unweighted_mean,1.0875000000000001,1.07,2024-Q4,0.01750000000000007
+"Loudoun County, Virginia",2025,2,last_quarter,1.07,1.08,2024-Q4,0.010000000000000009
+"Loudoun County, Virginia",2025,2,same_quarter_previous_year,1.09,1.08,2024-Q4,0.010000000000000009
+"Loudoun County, Virginia",2025,2,previous_year_unweighted_mean,1.0875000000000001,1.08,2024-Q4,0.007500000000000062
+"Loudoun County, Virginia",2025,3,last_quarter,1.07,1.1,2024-Q4,0.030000000000000027
+"Loudoun County, Virginia",2025,3,same_quarter_previous_year,1.11,1.1,2024-Q4,0.010000000000000009
+"Loudoun County, Virginia",2025,3,previous_year_unweighted_mean,1.0875000000000001,1.1,2024-Q4,0.012499999999999956
+"Loudoun County, Virginia",2025,4,last_quarter,1.07,1.07,2024-Q4,0.0
+"Loudoun County, Virginia",2025,4,same_quarter_previous_year,1.07,1.07,2024-Q4,0.0
+"Loudoun County, Virginia",2025,4,previous_year_unweighted_mean,1.0875000000000001,1.07,2024-Q4,0.01750000000000007
+"Loudoun County, Virginia (2nd facility)",2025,1,last_quarter,1.07,1.07,2024-Q4,0.0
+"Loudoun County, Virginia (2nd facility)",2025,1,same_quarter_previous_year,1.07,1.07,2024-Q4,0.0
+"Loudoun County, Virginia (2nd facility)",2025,1,previous_year_unweighted_mean,1.0775000000000001,1.07,2024-Q4,0.007500000000000062
+"Loudoun County, Virginia (2nd facility)",2025,2,last_quarter,1.07,1.08,2024-Q4,0.010000000000000009
+"Loudoun County, Virginia (2nd facility)",2025,2,same_quarter_previous_year,1.08,1.08,2024-Q4,0.0
+"Loudoun County, Virginia (2nd facility)",2025,2,previous_year_unweighted_mean,1.0775000000000001,1.08,2024-Q4,0.0024999999999999467
+"Loudoun County, Virginia (2nd facility)",2025,3,last_quarter,1.07,1.1,2024-Q4,0.030000000000000027
+"Loudoun County, Virginia (2nd facility)",2025,3,same_quarter_previous_year,1.09,1.1,2024-Q4,0.010000000000000009
+"Loudoun County, Virginia (2nd facility)",2025,3,previous_year_unweighted_mean,1.0775000000000001,1.1,2024-Q4,0.022499999999999964
+"Loudoun County, Virginia (2nd facility)",2025,4,last_quarter,1.07,1.07,2024-Q4,0.0
+"Loudoun County, Virginia (2nd facility)",2025,4,same_quarter_previous_year,1.07,1.07,2024-Q4,0.0
+"Loudoun County, Virginia (2nd facility)",2025,4,previous_year_unweighted_mean,1.0775000000000001,1.07,2024-Q4,0.007500000000000062
+"Mayes County, Oklahoma",2025,1,last_quarter,1.09,1.09,2024-Q4,0.0
+"Mayes County, Oklahoma",2025,1,same_quarter_previous_year,1.08,1.09,2024-Q4,0.010000000000000009
+"Mayes County, Oklahoma",2025,1,previous_year_unweighted_mean,1.1075,1.09,2024-Q4,0.01749999999999985
+"Mayes County, Oklahoma",2025,2,last_quarter,1.09,1.16,2024-Q4,0.06999999999999984
+"Mayes County, Oklahoma",2025,2,same_quarter_previous_year,1.12,1.16,2024-Q4,0.039999999999999813
+"Mayes County, Oklahoma",2025,2,previous_year_unweighted_mean,1.1075,1.16,2024-Q4,0.05249999999999999
+"Mayes County, Oklahoma",2025,3,last_quarter,1.09,1.15,2024-Q4,0.05999999999999983
+"Mayes County, Oklahoma",2025,3,same_quarter_previous_year,1.14,1.15,2024-Q4,0.010000000000000009
+"Mayes County, Oklahoma",2025,3,previous_year_unweighted_mean,1.1075,1.15,2024-Q4,0.04249999999999998
+"Mayes County, Oklahoma",2025,4,last_quarter,1.09,1.09,2024-Q4,0.0
+"Mayes County, Oklahoma",2025,4,same_quarter_previous_year,1.09,1.09,2024-Q4,0.0
+"Mayes County, Oklahoma",2025,4,previous_year_unweighted_mean,1.1075,1.09,2024-Q4,0.01749999999999985
+"Midlothian, Texas",2025,1,last_quarter,1.08,1.08,2024-Q4,0.0
+"Midlothian, Texas",2025,1,same_quarter_previous_year,1.09,1.08,2024-Q4,0.010000000000000009
+"Midlothian, Texas",2025,1,previous_year_unweighted_mean,1.105,1.08,2024-Q4,0.02499999999999991
+"Midlothian, Texas",2025,2,last_quarter,1.08,1.11,2024-Q4,0.030000000000000027
+"Midlothian, Texas",2025,2,same_quarter_previous_year,1.12,1.11,2024-Q4,0.010000000000000009
+"Midlothian, Texas",2025,2,previous_year_unweighted_mean,1.105,1.11,2024-Q4,0.0050000000000001155
+"Midlothian, Texas",2025,3,last_quarter,1.08,1.13,2024-Q4,0.04999999999999982
+"Midlothian, Texas",2025,3,same_quarter_previous_year,1.13,1.13,2024-Q4,0.0
+"Midlothian, Texas",2025,3,previous_year_unweighted_mean,1.105,1.13,2024-Q4,0.02499999999999991
+"Midlothian, Texas",2025,4,last_quarter,1.08,1.09,2024-Q4,0.010000000000000009
+"Midlothian, Texas",2025,4,same_quarter_previous_year,1.08,1.09,2024-Q4,0.010000000000000009
+"Midlothian, Texas",2025,4,previous_year_unweighted_mean,1.105,1.09,2024-Q4,0.014999999999999902
+"Montgomery County, Tennessee",2025,1,last_quarter,1.08,1.08,2024-Q4,0.0
+"Montgomery County, Tennessee",2025,1,same_quarter_previous_year,1.09,1.08,2024-Q4,0.010000000000000009
+"Montgomery County, Tennessee",2025,1,previous_year_unweighted_mean,1.1025,1.08,2024-Q4,0.022499999999999964
+"Montgomery County, Tennessee",2025,2,last_quarter,1.08,1.11,2024-Q4,0.030000000000000027
+"Montgomery County, Tennessee",2025,2,same_quarter_previous_year,1.11,1.11,2024-Q4,0.0
+"Montgomery County, Tennessee",2025,2,previous_year_unweighted_mean,1.1025,1.11,2024-Q4,0.007500000000000062
+"Montgomery County, Tennessee",2025,3,last_quarter,1.08,1.1,2024-Q4,0.020000000000000018
+"Montgomery County, Tennessee",2025,3,same_quarter_previous_year,1.13,1.1,2024-Q4,0.029999999999999805
+"Montgomery County, Tennessee",2025,3,previous_year_unweighted_mean,1.1025,1.1,2024-Q4,0.0024999999999999467
+"Montgomery County, Tennessee",2025,4,last_quarter,1.08,1.06,2024-Q4,0.020000000000000018
+"Montgomery County, Tennessee",2025,4,same_quarter_previous_year,1.08,1.06,2024-Q4,0.020000000000000018
+"Montgomery County, Tennessee",2025,4,previous_year_unweighted_mean,1.1025,1.06,2024-Q4,0.04249999999999998
+"Papillion, Nebraska",2025,1,last_quarter,1.08,1.08,2024-Q4,0.0
+"Papillion, Nebraska",2025,1,same_quarter_previous_year,1.09,1.08,2024-Q4,0.010000000000000009
+"Papillion, Nebraska",2025,1,previous_year_unweighted_mean,1.09,1.08,2024-Q4,0.010000000000000009
+"Papillion, Nebraska",2025,2,last_quarter,1.08,1.09,2024-Q4,0.010000000000000009
+"Papillion, Nebraska",2025,2,same_quarter_previous_year,1.09,1.09,2024-Q4,0.0
+"Papillion, Nebraska",2025,2,previous_year_unweighted_mean,1.09,1.09,2024-Q4,0.0
+"Papillion, Nebraska",2025,3,last_quarter,1.08,1.11,2024-Q4,0.030000000000000027
+"Papillion, Nebraska",2025,3,same_quarter_previous_year,1.1,1.11,2024-Q4,0.010000000000000009
+"Papillion, Nebraska",2025,3,previous_year_unweighted_mean,1.09,1.11,2024-Q4,0.020000000000000018
+"Papillion, Nebraska",2025,4,last_quarter,1.08,1.07,2024-Q4,0.010000000000000009
+"Papillion, Nebraska",2025,4,same_quarter_previous_year,1.08,1.07,2024-Q4,0.010000000000000009
+"Papillion, Nebraska",2025,4,previous_year_unweighted_mean,1.09,1.07,2024-Q4,0.020000000000000018
+"Storey County, Nevada",2025,1,last_quarter,1.11,1.09,2024-Q4,0.020000000000000018
+"Storey County, Nevada",2025,1,same_quarter_previous_year,1.12,1.09,2024-Q4,0.030000000000000027
+"Storey County, Nevada",2025,1,previous_year_unweighted_mean,1.1525,1.09,2024-Q4,0.0625
+"Storey County, Nevada",2025,2,last_quarter,1.11,1.16,2024-Q4,0.04999999999999982
+"Storey County, Nevada",2025,2,same_quarter_previous_year,1.16,1.16,2024-Q4,0.0
+"Storey County, Nevada",2025,2,previous_year_unweighted_mean,1.1525,1.16,2024-Q4,0.00749999999999984
+"Storey County, Nevada",2025,3,last_quarter,1.11,1.22,2024-Q4,0.10999999999999988
+"Storey County, Nevada",2025,3,same_quarter_previous_year,1.22,1.22,2024-Q4,0.0
+"Storey County, Nevada",2025,3,previous_year_unweighted_mean,1.1525,1.22,2024-Q4,0.0674999999999999
+"Storey County, Nevada",2025,4,last_quarter,1.11,1.11,2024-Q4,0.0
+"Storey County, Nevada",2025,4,same_quarter_previous_year,1.11,1.11,2024-Q4,0.0
+"Storey County, Nevada",2025,4,previous_year_unweighted_mean,1.1525,1.11,2024-Q4,0.04249999999999998
+"The Dalles, Oregon",2025,1,last_quarter,1.1,1.1,2024-Q4,0.0
+"The Dalles, Oregon",2025,1,same_quarter_previous_year,1.1,1.1,2024-Q4,0.0
+"The Dalles, Oregon",2025,1,previous_year_unweighted_mean,1.1025,1.1,2024-Q4,0.0024999999999999467
+"The Dalles, Oregon",2025,2,last_quarter,1.1,1.1,2024-Q4,0.0
+"The Dalles, Oregon",2025,2,same_quarter_previous_year,1.1,1.1,2024-Q4,0.0
+"The Dalles, Oregon",2025,2,previous_year_unweighted_mean,1.1025,1.1,2024-Q4,0.0024999999999999467
+"The Dalles, Oregon",2025,3,last_quarter,1.1,1.11,2024-Q4,0.010000000000000009
+"The Dalles, Oregon",2025,3,same_quarter_previous_year,1.11,1.11,2024-Q4,0.0
+"The Dalles, Oregon",2025,3,previous_year_unweighted_mean,1.1025,1.11,2024-Q4,0.007500000000000062
+"The Dalles, Oregon",2025,4,last_quarter,1.1,1.1,2024-Q4,0.0
+"The Dalles, Oregon",2025,4,same_quarter_previous_year,1.1,1.1,2024-Q4,0.0
+"The Dalles, Oregon",2025,4,previous_year_unweighted_mean,1.1025,1.1,2024-Q4,0.0024999999999999467
+"The Dalles, Oregon (2nd facility)",2025,1,last_quarter,1.06,1.06,2024-Q4,0.0
+"The Dalles, Oregon (2nd facility)",2025,1,same_quarter_previous_year,1.06,1.06,2024-Q4,0.0
+"The Dalles, Oregon (2nd facility)",2025,1,previous_year_unweighted_mean,1.065,1.06,2024-Q4,0.004999999999999893
+"The Dalles, Oregon (2nd facility)",2025,2,last_quarter,1.06,1.06,2024-Q4,0.0
+"The Dalles, Oregon (2nd facility)",2025,2,same_quarter_previous_year,1.06,1.06,2024-Q4,0.0
+"The Dalles, Oregon (2nd facility)",2025,2,previous_year_unweighted_mean,1.065,1.06,2024-Q4,0.004999999999999893
+"The Dalles, Oregon (2nd facility)",2025,3,last_quarter,1.06,1.08,2024-Q4,0.020000000000000018
+"The Dalles, Oregon (2nd facility)",2025,3,same_quarter_previous_year,1.08,1.08,2024-Q4,0.0
+"The Dalles, Oregon (2nd facility)",2025,3,previous_year_unweighted_mean,1.065,1.08,2024-Q4,0.015000000000000124
+"The Dalles, Oregon (2nd facility)",2025,4,last_quarter,1.06,1.06,2024-Q4,0.0
+"The Dalles, Oregon (2nd facility)",2025,4,same_quarter_previous_year,1.06,1.06,2024-Q4,0.0
+"The Dalles, Oregon (2nd facility)",2025,4,previous_year_unweighted_mean,1.065,1.06,2024-Q4,0.004999999999999893

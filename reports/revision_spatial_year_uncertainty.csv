@@ -1,0 +1,8 @@
+mode,year,model,baseline,paired_observations,counties,mae_difference,bootstrap_95_low,bootstrap_95_high,meaning
+forward_year,2021,geo_climate_ridge,same_quarter_previous_year,8,2,0.01602145498141885,0.0008480155821887743,0.031194894380648923,Negative favors model. Exploratory county-cluster interval; not population-level evidence.
+forward_year,2022,geo_climate_ridge,same_quarter_previous_year,24,5,0.0017076818176003886,-0.002903803542913337,0.007704780752095621,Negative favors model. Exploratory county-cluster interval; not population-level evidence.
+forward_year,2023,geo_climate_ridge,same_quarter_previous_year,24,5,0.00492226358742762,-0.00309673244349217,0.010691610778411282,Negative favors model. Exploratory county-cluster interval; not population-level evidence.
+forward_year,2024,geo_climate_ridge,same_quarter_previous_year,28,6,-0.0006138364796706538,-0.0037875654761404588,0.0019182386144135125,Negative favors model. Exploratory county-cluster interval; not population-level evidence.
+forward_year,2025,geo_climate_ridge,same_quarter_previous_year,32,7,0.005319787287661888,0.0014494223626334564,0.010900988569187559,Negative favors model. Exploratory county-cluster interval; not population-level evidence.
+heldout_county_forward_year,2024,geo_climate_ridge,seasonal_trend_ridge,32,7,-0.0035932330099203826,-0.014691795875232972,0.00813263696506754,Negative favors model. Exploratory county-cluster interval; not population-level evidence.
+heldout_county_forward_year,2025,geo_climate_ridge,seasonal_trend_ridge,32,7,-0.00517259934850601,-0.013573262194798309,0.0041731454078277755,Negative favors model. Exploratory county-cluster interval; not population-level evidence.
